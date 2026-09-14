@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\users\\wb5053\\Documents\\13A\\backend\\Elsobackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29A6D26B-D1C5-46D6-83DB-4F59F738F461}|Elsobackend\\Elsobackend.csproj|d:\\users\\wb5053\\documents\\13a\\backend\\elsobackend\\elsobackend\\pages\\szorzotabla.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29A6D26B-D1C5-46D6-83DB-4F59F738F461}|Elsobackend\\Elsobackend.csproj|solutionrelative:elsobackend\\pages\\szorzotabla.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29A6D26B-D1C5-46D6-83DB-4F59F738F461}|Elsobackend\\Elsobackend.csproj|d:\\users\\wb5053\\documents\\13a\\backend\\elsobackend\\elsobackend\\pages\\szorzotabla.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29A6D26B-D1C5-46D6-83DB-4F59F738F461}|Elsobackend\\Elsobackend.csproj|solutionrelative:elsobackend\\pages\\szorzotabla.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29A6D26B-D1C5-46D6-83DB-4F59F738F461}|Elsobackend\\Elsobackend.csproj|d:\\users\\wb5053\\documents\\13a\\backend\\elsobackend\\elsobackend\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29A6D26B-D1C5-46D6-83DB-4F59F738F461}|Elsobackend\\Elsobackend.csproj|solutionrelative:elsobackend\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29A6D26B-D1C5-46D6-83DB-4F59F738F461}|Elsobackend\\Elsobackend.csproj|d:\\users\\wb5053\\documents\\13a\\backend\\elsobackend\\elsobackend\\elsobackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{29A6D26B-D1C5-46D6-83DB-4F59F738F461}|Elsobackend\\Elsobackend.csproj|solutionrelative:elsobackend\\elsobackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "szorzotabla.cshtml.cs",
+              "DocumentMoniker": "D:\\users\\wb5053\\Documents\\13A\\backend\\Elsobackend\\Elsobackend\\Pages\\szorzotabla.cshtml.cs",
+              "RelativeDocumentMoniker": "Elsobackend\\Pages\\szorzotabla.cshtml.cs",
+              "ToolTip": "D:\\users\\wb5053\\Documents\\13A\\backend\\Elsobackend\\Elsobackend\\Pages\\szorzotabla.cshtml.cs",
+              "RelativeToolTip": "Elsobackend\\Pages\\szorzotabla.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T11:50:46.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "szorzotabla.cshtml",
+              "DocumentMoniker": "D:\\users\\wb5053\\Documents\\13A\\backend\\Elsobackend\\Elsobackend\\Pages\\szorzotabla.cshtml",
+              "RelativeDocumentMoniker": "Elsobackend\\Pages\\szorzotabla.cshtml",
+              "ToolTip": "D:\\users\\wb5053\\Documents\\13A\\backend\\Elsobackend\\Elsobackend\\Pages\\szorzotabla.cshtml",
+              "RelativeToolTip": "Elsobackend\\Pages\\szorzotabla.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-07T11:50:41.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\users\\wb5053\\Documents\\13A\\backend\\Elsobackend\\Elsobackend\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Elsobackend\\Pages\\Index.cshtml",
+              "ToolTip": "D:\\users\\wb5053\\Documents\\13A\\backend\\Elsobackend\\Elsobackend\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Elsobackend\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-07T11:02:50.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Elsobackend",
+              "DocumentMoniker": "D:\\users\\wb5053\\Documents\\13A\\backend\\Elsobackend\\Elsobackend\\Elsobackend.csproj",
+              "RelativeDocumentMoniker": "Elsobackend\\Elsobackend.csproj",
+              "ToolTip": "D:\\users\\wb5053\\Documents\\13A\\backend\\Elsobackend\\Elsobackend\\Elsobackend.csproj",
+              "RelativeToolTip": "Elsobackend\\Elsobackend.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-07T11:01:09.72Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+D:\users\wb5053\Documents\13A\forgoracs\forgoracs\bin\Debug\net9.0\forgoracs.exe
+D:\users\wb5053\Documents\13A\forgoracs\forgoracs\bin\Debug\net9.0\kodlemez.txt
+D:\users\wb5053\Documents\13A\forgoracs\forgoracs\bin\Debug\net9.0\szoveg.txt
+D:\users\wb5053\Documents\13A\forgoracs\forgoracs\bin\Debug\net9.0\forgoracs.deps.json
+D:\users\wb5053\Documents\13A\forgoracs\forgoracs\bin\Debug\net9.0\forgoracs.runtimeconfig.json
+D:\users\wb5053\Documents\13A\forgoracs\forgoracs\bin\Debug\net9.0\forgoracs.dll
+D:\users\wb5053\Documents\13A\forgoracs\forgoracs\bin\Debug\net9.0\forgoracs.pdb
+D:\users\wb5053\Documents\13A\forgoracs\forgoracs\obj\Debug\net9.0\forgoracs.GeneratedMSBuildEditorConfig.editorconfig
+D:\users\wb5053\Documents\13A\forgoracs\forgoracs\obj\Debug\net9.0\forgoracs.AssemblyInfoInputs.cache
+D:\users\wb5053\Documents\13A\forgoracs\forgoracs\obj\Debug\net9.0\forgoracs.AssemblyInfo.cs
+D:\users\wb5053\Documents\13A\forgoracs\forgoracs\obj\Debug\net9.0\forgoracs.csproj.CoreCompileInputs.cache
+D:\users\wb5053\Documents\13A\forgoracs\forgoracs\obj\Debug\net9.0\forgoracs.dll
+D:\users\wb5053\Documents\13A\forgoracs\forgoracs\obj\Debug\net9.0\refint\forgoracs.dll
+D:\users\wb5053\Documents\13A\forgoracs\forgoracs\obj\Debug\net9.0\forgoracs.pdb
+D:\users\wb5053\Documents\13A\forgoracs\forgoracs\obj\Debug\net9.0\forgoracs.genruntimeconfig.cache
+D:\users\wb5053\Documents\13A\forgoracs\forgoracs\obj\Debug\net9.0\ref\forgoracs.dll

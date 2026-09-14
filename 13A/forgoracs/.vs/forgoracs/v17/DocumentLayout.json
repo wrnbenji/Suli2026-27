@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\users\\wb5053\\Documents\\13A\\forgoracs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D63D21B-1757-4036-B2A4-2F483C3EC35A}|forgoracs\\forgoracs.csproj|d:\\users\\wb5053\\documents\\13a\\forgoracs\\forgoracs\\models\\fraccs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D63D21B-1757-4036-B2A4-2F483C3EC35A}|forgoracs\\forgoracs.csproj|solutionrelative:forgoracs\\models\\fraccs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D63D21B-1757-4036-B2A4-2F483C3EC35A}|forgoracs\\forgoracs.csproj|d:\\users\\wb5053\\documents\\13a\\forgoracs\\forgoracs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D63D21B-1757-4036-B2A4-2F483C3EC35A}|forgoracs\\forgoracs.csproj|solutionrelative:forgoracs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D63D21B-1757-4036-B2A4-2F483C3EC35A}|forgoracs\\forgoracs.csproj|d:\\users\\wb5053\\documents\\13a\\forgoracs\\forgoracs\\kodlemez.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3D63D21B-1757-4036-B2A4-2F483C3EC35A}|forgoracs\\forgoracs.csproj|solutionrelative:forgoracs\\kodlemez.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "kodlemez.txt",
+              "DocumentMoniker": "D:\\users\\wb5053\\Documents\\13A\\forgoracs\\forgoracs\\kodlemez.txt",
+              "RelativeDocumentMoniker": "forgoracs\\kodlemez.txt",
+              "ToolTip": "D:\\users\\wb5053\\Documents\\13A\\forgoracs\\forgoracs\\kodlemez.txt",
+              "RelativeToolTip": "forgoracs\\kodlemez.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-09-09T10:57:20.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Fraccs.cs",
+              "DocumentMoniker": "D:\\users\\wb5053\\Documents\\13A\\forgoracs\\forgoracs\\Models\\Fraccs.cs",
+              "RelativeDocumentMoniker": "forgoracs\\Models\\Fraccs.cs",
+              "ToolTip": "D:\\users\\wb5053\\Documents\\13A\\forgoracs\\forgoracs\\Models\\Fraccs.cs",
+              "RelativeToolTip": "forgoracs\\Models\\Fraccs.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAswFQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T08:20:48.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\users\\wb5053\\Documents\\13A\\forgoracs\\forgoracs\\Program.cs",
+              "RelativeDocumentMoniker": "forgoracs\\Program.cs",
+              "ToolTip": "D:\\users\\wb5053\\Documents\\13A\\forgoracs\\forgoracs\\Program.cs",
+              "RelativeToolTip": "forgoracs\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T08:16:21.718Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

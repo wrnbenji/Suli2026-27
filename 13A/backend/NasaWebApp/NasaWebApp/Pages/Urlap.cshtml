@@ -1,0 +1,23 @@
+﻿@page
+@model NasaWebApp.Pages.UrlapModel
+
+<form method="post">
+    @Html.AntiForgeryToken()
+<label for="nev">Név</label>
+<input type="text" name="nev" id="name" /> <br />
+
+    <label for="szam">Szám</label>
+    <input type="number" name="szam" id="szam" /> <br />
+    <input type="submit" />
+
+</form>
+
+@if(Model.Tartalom != null)
+{
+    <p>@Model.Tartalom</p>
+}
+
+@if (Model.Kapott != null)
+{
+    <p> @Model.Kapott</p>
+}
