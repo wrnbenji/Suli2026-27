@@ -1,0 +1,122 @@
+dron;indulas;erkezes;honnan;hova;tomeg;akku_indulas;akku_erkezes;homerseklet;statusz
+DR-11;07:22;08:01;Ipari park;Liget;4,0;89;64;30;Sikeres
+DR-09;07:23;07:46;Északi depó;TechPark;0,6;90;78;24;Sikeres
+DR-02;07:24;07:52;Ipari park;Folyópart;0,5;88;76;24;Sikeres
+DR-01;07:29;07:57;Déli depó;Belváros;2,2;88;74;30;Sikeres
+DR-12;07:32;07:54;Egyetem;TechPark;4,4;96;81;24;Sikeres
+DR-19;07:37;08:09;Déli depó;Kertváros;4,5;100;75;17;Sikeres
+DR-06;07:38;07:54;Északi depó;Ipari park;3,9;92;79;21;Sikeres
+DR-10;07:46;08:27;Egyetem;Déli depó;3,1;95;68;25;Sikeres
+DR-18;07:50;08:07;Ipari park;Központ;2,0;98;87;21;Sikeres
+DR-07;07:51;08:00;Déli depó;Belváros;4,6;94;81;18;Sikeres
+DR-03;07:54;08:21;Északi depó;Kórház;4,5;94;72;18;Sikeres
+DR-08;07:59;08:39;Egyetem;Kórház;0,4;91;73;30;Sikeres
+DR-13;08:00;08:34;Ipari park;Folyópart;1,3;93;79;30;Sikeres
+DR-05;08:00;08:31;Központ;Liget;3,5;98;81;19;Sikeres
+DR-04;08:01;08:37;Déli depó;Északi depó;4,2;99;77;20;Sikeres
+DR-14;08:01;08:12;Ipari park;Kertváros;2,8;91;83;27;Sikeres
+DR-17;08:05;08:46;Egyetem;Liget;0,4;96;80;22;Sikeres
+DR-20;08:11;08:53;Déli depó;Vasútállomás;3,8;97;74;31;Sikeres
+DR-07;08:11;08:20;Belváros;Kórház;3,1;81;69;28;Sikeres
+DR-09;08:13;08:44;TechPark;Kórház;4,1;78;58;30;Megszakítva
+DR-01;08:13;08:26;Belváros;Folyópart;2,4;74;62;21;Sikeres
+DR-16;08:13;08:47;Északi depó;Déli depó;3,2;95;74;19;Sikeres
+DR-02;08:27;08:58;Folyópart;Belváros;3,9;76;58;27;Sikeres
+DR-03;08:31;09:04;Kórház;TechPark;1,6;72;53;31;Sikeres
+DR-15;08:34;09:02;Ipari park;TechPark;1,0;96;81;17;Sikeres
+DR-11;08:35;08:43;Liget;Belváros;3,1;64;55;25;Sikeres
+DR-06;08:38;09:07;Ipari park;Vasútállomás;4,3;79;60;19;Sikeres
+DR-01;08:38;09:16;Folyópart;Ipari park;2,5;62;42;29;Megszakítva
+DR-12;08:39;09:13;TechPark;Kertváros;3,6;81;61;23;Sikeres
+DR-19;08:43;09:19;Kertváros;Kórház;4,1;75;49;19;Újratervezve
+DR-14;08:49;09:14;Kertváros;Liget;3,7;83;66;26;Sikeres
+DR-18;08:59;09:12;Központ;Északi depó;2,4;87;77;19;Sikeres
+DR-07;09:01;09:41;Kórház;Folyópart;3,0;69;43;23;Sikeres
+DR-17;09:03;09:18;Liget;Belváros;3,4;80;70;21;Sikeres
+DR-09;09:09;09:35;Kórház;Folyópart;3,6;58;41;25;Sikeres
+DR-13;09:09;09:29;Folyópart;Ipari park;3,8;79;67;18;Sikeres
+DR-16;09:09;09:39;Déli depó;Északi depó;2,7;74;57;19;Sikeres
+DR-15;09:11;09:30;TechPark;Kórház;0,4;81;72;18;Sikeres
+DR-20;09:13;09:41;Vasútállomás;Kertváros;2,8;74;54;28;Sikeres
+DR-10;09:21;10:01;Déli depó;Központ;1,4;68;49;28;Sikeres
+DR-04;09:21;09:58;Északi depó;Belváros;3,1;77;56;18;Sikeres
+DR-08;09:24;09:54;Kórház;Vasútállomás;4,1;73;54;19;Sikeres
+DR-05;09:25;10:03;Liget;TechPark;2,9;81;60;20;Sikeres
+DR-18;09:25;10:04;Északi depó;Ipari park;4,7;77;54;26;Sikeres
+DR-11;09:26;09:38;Belváros;Ipari park;4,6;55;45;26;Sikeres
+DR-02;09:33;09:41;Belváros;Kertváros;2,6;58;48;21;Sikeres
+DR-03;09:36;10:03;TechPark;Központ;3,7;53;34;20;Sikeres
+DR-14;09:39;09:51;Liget;TechPark;0,6;66;61;23;Sikeres
+DR-13;09:44;10:24;Ipari park;Kórház;0,8;67;50;25;Sikeres
+DR-06;09:45;10:23;Vasútállomás;Ipari park;3,4;60;38;19;Sikeres
+DR-17;09:53;10:22;Belváros;Kertváros;2,0;70;51;21;Újratervezve
+DR-19;09:56;10:11;Kórház;Egyetem;3,2;49;35;17;Megszakítva
+DR-09;09:57;10:21;Folyópart;Kertváros;2,2;41;24;23;Sikeres
+DR-07;09:59;10:19;Folyópart;Kertváros;1,1;43;36;19;Sikeres
+DR-12;10:02;10:42;Kertváros;Vasútállomás;4,5;61;36;22;Megszakítva
+DR-01;10:02;10:31;Ipari park;Északi depó;0,7;42;31;24;Sikeres
+DR-03;10:11;10:46;Központ;Kertváros;4,4;34;12;29;Sikeres
+DR-20;10:13;10:31;Kertváros;Liget;4,5;54;38;24;Sikeres
+DR-02;10:13;10:36;Kertváros;Kórház;1,9;48;35;21;Sikeres
+DR-15;10:17;10:53;Kórház;Liget;1,1;72;55;29;Sikeres
+DR-10;10:22;10:47;Központ;Folyópart;2,4;49;35;27;Sikeres
+DR-19;10:23;10:39;Egyetem;Belváros;2,4;35;24;21;Sikeres
+DR-08;10:24;10:34;Vasútállomás;Egyetem;0,6;54;50;20;Sikeres
+DR-14;10:27;10:52;TechPark;Vasútállomás;3,0;61;45;17;Sikeres
+DR-16;10:29;11:00;Északi depó;Belváros;2,5;57;37;24;Sikeres
+DR-04;10:31;10:43;Belváros;Liget;1,7;56;48;17;Sikeres
+DR-17;10:49;11:21;Kertváros;Ipari park;4,5;51;27;22;Sikeres
+DR-06;10:51;10:59;Ipari park;Folyópart;2,2;38;31;28;Sikeres
+DR-05;10:51;11:14;TechPark;Folyópart;3,8;60;42;29;Újratervezve
+DR-18;10:53;11:30;Ipari park;Kórház;1,0;54;36;20;Sikeres
+DR-13;10:54;11:08;Kórház;TechPark;3,5;50;38;25;Sikeres
+DR-08;11:00;11:14;Egyetem;Belváros;0,7;50;41;18;Sikeres
+DR-10;11:00;11:14;Folyópart;Kertváros;1,9;35;23;31;Sikeres
+DR-07;11:00;11:16;Kertváros;Északi depó;1,9;36;24;22;Sikeres
+DR-02;11:05;11:38;Kórház;TechPark;4,1;35;15;28;Sikeres
+DR-09;11:07;11:20;Kertváros;Egyetem;4,1;24;13;27;Sikeres
+DR-03;11:13;11:25;Kertváros;Déli depó;4,0;94;82;31;Sikeres
+DR-06;11:19;11:54;Folyópart;Belváros;1,2;31;17;30;Sikeres
+DR-20;11:22;11:50;Liget;Kórház;4,1;38;20;24;Sikeres
+DR-12;11:32;11:42;Vasútállomás;Kertváros;1,5;36;26;22;Sikeres
+DR-09;11:36;12:14;Egyetem;Liget;1,3;95;76;18;Sikeres
+DR-15;11:38;12:15;Liget;TechPark;3,9;55;31;24;Sikeres
+DR-14;11:41;11:53;Vasútállomás;Ipari park;3,3;45;35;17;Sikeres
+DR-03;11:43;12:23;Déli depó;Vasútállomás;1,9;82;61;23;Sikeres
+DR-07;11:44;12:00;Északi depó;Déli depó;2,4;24;16;19;Sikeres
+DR-08;11:52;12:05;Belváros;Kertváros;4,0;41;28;18;Sikeres
+DR-16;11:54;12:10;Belváros;Ipari park;2,8;37;28;26;Sikeres
+DR-17;12:00;12:21;Ipari park;Vasútállomás;2,0;93;77;31;Sikeres
+DR-20;12:02;12:24;Kórház;Kertváros;4,2;100;81;25;Sikeres
+DR-18;12:09;12:48;Kórház;Vasútállomás;1,7;36;17;19;Sikeres
+DR-02;12:17;12:50;TechPark;Északi depó;3,3;88;71;25;Újratervezve
+DR-14;12:31;12:42;Ipari park;Belváros;3,4;35;21;22;Sikeres
+DR-17;12:33;12:59;Vasútállomás;Egyetem;4,6;77;58;29;Sikeres
+DR-12;12:35;13:11;Kertváros;Déli depó;3,0;82;59;17;Sikeres
+DR-03;12:35;12:58;Vasútállomás;Folyópart;1,1;61;49;22;Sikeres
+DR-15;12:43;12:57;TechPark;Egyetem;4,2;31;21;26;Újratervezve
+DR-09;12:48;12:58;Liget;Ipari park;4,3;76;65;18;Sikeres
+DR-08;12:53;13:13;Kertváros;Liget;4,0;28;15;25;Sikeres
+DR-17;13:08;13:45;Egyetem;Északi depó;2,8;58;36;30;Sikeres
+DR-20;13:09;13:51;Kertváros;Liget;0,9;81;58;18;Megszakítva
+DR-15;13:14;13:32;Egyetem;Ipari park;1,8;90;79;22;Sikeres
+DR-18;13:26;13:51;Vasútállomás;Kertváros;3,4;94;79;18;Sikeres
+DR-09;13:41;14:07;Ipari park;Északi depó;4,0;65;50;18;Sikeres
+DR-02;13:44;14:19;Északi depó;Belváros;3,0;71;47;18;Sikeres
+DR-12;13:57;14:22;Déli depó;Egyetem;1,9;59;47;17;Sikeres
+DR-08;14:06;14:23;Liget;Vasútállomás;2,8;92;82;20;Sikeres
+DR-20;14:24;15:01;Liget;Egyetem;1,7;58;38;17;Sikeres
+DR-17;14:39;14:57;Északi depó;Egyetem;4,7;36;22;19;Megszakítva
+DR-02;14:49;15:03;Belváros;Déli depó;3,6;47;34;18;Sikeres
+DR-12;14:52;15:23;Egyetem;Központ;1,3;47;34;29;Sikeres
+DR-09;15:00;15:22;Északi depó;Déli depó;1,5;50;38;24;Sikeres
+DR-17;15:30;15:45;Egyetem;Kertváros;1,6;22;13;19;Sikeres
+DR-20;15:45;16:21;Egyetem;Kórház;0,8;38;23;24;Sikeres
+DR-12;15:52;16:23;Központ;Folyópart;1,1;34;20;17;Sikeres
+DR-02;15:53;16:31;Déli depó;Kertváros;2,1;34;15;23;Sikeres
+DR-20;16:49;17:21;Kórház;TechPark;0,4;92;79;17;Sikeres
+DR-02;16:54;17:23;Kertváros;TechPark;4,2;96;73;28;Sikeres
+DR-20;17:46;18:16;TechPark;Egyetem;0,4;79;66;18;Sikeres
+DR-02;17:59;18:29;TechPark;Vasútállomás;0,7;73;56;29;Sikeres
+DR-20;18:38;19:13;Egyetem;Déli depó;1,7;66;50;20;Sikeres
+DR-02;18:50;19:08;Vasútállomás;Kórház;2,3;56;46;21;Sikeres

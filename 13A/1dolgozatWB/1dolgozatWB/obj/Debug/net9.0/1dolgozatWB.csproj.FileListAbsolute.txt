@@ -1,0 +1,16 @@
+D:\users\wb5053\Documents\Suli2026-27\13A\1dolgozatWB\1dolgozatWB\bin\Debug\net9.0\1dolgozatWB.exe
+D:\users\wb5053\Documents\Suli2026-27\13A\1dolgozatWB\1dolgozatWB\bin\Debug\net9.0\1dolgozatWB.deps.json
+D:\users\wb5053\Documents\Suli2026-27\13A\1dolgozatWB\1dolgozatWB\bin\Debug\net9.0\1dolgozatWB.runtimeconfig.json
+D:\users\wb5053\Documents\Suli2026-27\13A\1dolgozatWB\1dolgozatWB\bin\Debug\net9.0\1dolgozatWB.dll
+D:\users\wb5053\Documents\Suli2026-27\13A\1dolgozatWB\1dolgozatWB\bin\Debug\net9.0\1dolgozatWB.pdb
+D:\users\wb5053\Documents\Suli2026-27\13A\1dolgozatWB\1dolgozatWB\obj\Debug\net9.0\1dolgozatWB.GeneratedMSBuildEditorConfig.editorconfig
+D:\users\wb5053\Documents\Suli2026-27\13A\1dolgozatWB\1dolgozatWB\obj\Debug\net9.0\1dolgozatWB.AssemblyInfoInputs.cache
+D:\users\wb5053\Documents\Suli2026-27\13A\1dolgozatWB\1dolgozatWB\obj\Debug\net9.0\1dolgozatWB.AssemblyInfo.cs
+D:\users\wb5053\Documents\Suli2026-27\13A\1dolgozatWB\1dolgozatWB\obj\Debug\net9.0\1dolgozatWB.csproj.CoreCompileInputs.cache
+D:\users\wb5053\Documents\Suli2026-27\13A\1dolgozatWB\1dolgozatWB\obj\Debug\net9.0\1dolgozatWB.sourcelink.json
+D:\users\wb5053\Documents\Suli2026-27\13A\1dolgozatWB\1dolgozatWB\obj\Debug\net9.0\1dolgozatWB.dll
+D:\users\wb5053\Documents\Suli2026-27\13A\1dolgozatWB\1dolgozatWB\obj\Debug\net9.0\refint\1dolgozatWB.dll
+D:\users\wb5053\Documents\Suli2026-27\13A\1dolgozatWB\1dolgozatWB\obj\Debug\net9.0\1dolgozatWB.pdb
+D:\users\wb5053\Documents\Suli2026-27\13A\1dolgozatWB\1dolgozatWB\obj\Debug\net9.0\1dolgozatWB.genruntimeconfig.cache
+D:\users\wb5053\Documents\Suli2026-27\13A\1dolgozatWB\1dolgozatWB\obj\Debug\net9.0\ref\1dolgozatWB.dll
+D:\users\wb5053\Documents\Suli2026-27\13A\1dolgozatWB\1dolgozatWB\bin\Debug\net9.0\dronnaplo.txt

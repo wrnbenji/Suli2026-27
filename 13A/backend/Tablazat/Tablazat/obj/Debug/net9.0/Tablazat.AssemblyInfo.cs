@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tablazat")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+86162df0ef992997f183147e3a15779bb76a0d03")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ff42458b00298279034ca52125f79ccbe15e58a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tablazat")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tablazat")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

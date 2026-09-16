@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\backend\\Tablazat\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A0AF2CD3-16B5-4A85-ADC1-0485697D8FA2}|Tablazat\\Tablazat.csproj|d:\\users\\wb5053\\documents\\suli2026-27\\13a\\backend\\tablazat\\tablazat\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0AF2CD3-16B5-4A85-ADC1-0485697D8FA2}|Tablazat\\Tablazat.csproj|solutionrelative:tablazat\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A0AF2CD3-16B5-4A85-ADC1-0485697D8FA2}|Tablazat\\Tablazat.csproj|d:\\users\\wb5053\\documents\\suli2026-27\\13a\\backend\\tablazat\\tablazat\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A0AF2CD3-16B5-4A85-ADC1-0485697D8FA2}|Tablazat\\Tablazat.csproj|solutionrelative:tablazat\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AF2CD3-16B5-4A85-ADC1-0485697D8FA2}|Tablazat\\Tablazat.csproj|d:\\users\\wb5053\\documents\\suli2026-27\\13a\\backend\\tablazat\\tablazat\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0AF2CD3-16B5-4A85-ADC1-0485697D8FA2}|Tablazat\\Tablazat.csproj|solutionrelative:tablazat\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A0AF2CD3-16B5-4A85-ADC1-0485697D8FA2}|Tablazat\\Tablazat.csproj|d:\\users\\wb5053\\documents\\suli2026-27\\13a\\backend\\tablazat\\tablazat\\models\\felhasznalo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
@@ -38,44 +38,42 @@
               "RelativeToolTip": "Tablazat\\Models\\Felhasznalo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-14T11:53:03.095Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-14T11:53:03.095Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Tablazat",
+              "Title": "Tablazat.csproj",
               "DocumentMoniker": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\backend\\Tablazat\\Tablazat\\Tablazat.csproj",
               "RelativeDocumentMoniker": "Tablazat\\Tablazat.csproj",
               "ToolTip": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\backend\\Tablazat\\Tablazat\\Tablazat.csproj",
               "RelativeToolTip": "Tablazat\\Tablazat.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-09-14T11:52:45.983Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-14T11:52:45.983Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\backend\\Tablazat\\Tablazat\\Pages\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "Tablazat\\Pages\\Index.cshtml.cs",
               "ToolTip": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\backend\\Tablazat\\Tablazat\\Pages\\Index.cshtml.cs",
               "RelativeToolTip": "Tablazat\\Pages\\Index.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-14T11:50:45.974Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\backend\\Tablazat\\Tablazat\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "Tablazat\\Pages\\Index.cshtml",
               "ToolTip": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\backend\\Tablazat\\Tablazat\\Pages\\Index.cshtml",
               "RelativeToolTip": "Tablazat\\Pages\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAwwCkAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-09-14T11:50:43.277Z",
               "EditorCaption": ""

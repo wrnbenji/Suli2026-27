@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\1dolgozatWB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{081E477B-37E3-4A87-BCBD-8840FD90194C}|1dolgozatWB\\1dolgozatWB.csproj|d:\\users\\wb5053\\documents\\suli2026-27\\13a\\1dolgozatwb\\1dolgozatwb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{081E477B-37E3-4A87-BCBD-8840FD90194C}|1dolgozatWB\\1dolgozatWB.csproj|solutionrelative:1dolgozatwb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{081E477B-37E3-4A87-BCBD-8840FD90194C}|1dolgozatWB\\1dolgozatWB.csproj|d:\\users\\wb5053\\documents\\suli2026-27\\13a\\1dolgozatwb\\1dolgozatwb\\dronnaplo.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{081E477B-37E3-4A87-BCBD-8840FD90194C}|1dolgozatWB\\1dolgozatWB.csproj|solutionrelative:1dolgozatwb\\dronnaplo.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{081E477B-37E3-4A87-BCBD-8840FD90194C}|1dolgozatWB\\1dolgozatWB.csproj|d:\\users\\wb5053\\documents\\suli2026-27\\13a\\1dolgozatwb\\1dolgozatwb\\models\\repules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{081E477B-37E3-4A87-BCBD-8840FD90194C}|1dolgozatWB\\1dolgozatWB.csproj|solutionrelative:1dolgozatwb\\models\\repules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{081E477B-37E3-4A87-BCBD-8840FD90194C}|1dolgozatWB\\1dolgozatWB.csproj|d:\\users\\wb5053\\documents\\suli2026-27\\13a\\1dolgozatwb\\1dolgozatwb\\1dolgozatwb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{081E477B-37E3-4A87-BCBD-8840FD90194C}|1dolgozatWB\\1dolgozatWB.csproj|solutionrelative:1dolgozatwb\\1dolgozatwb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dronnaplo.txt",
+              "DocumentMoniker": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\1dolgozatWB\\1dolgozatWB\\dronnaplo.txt",
+              "RelativeDocumentMoniker": "1dolgozatWB\\dronnaplo.txt",
+              "ToolTip": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\1dolgozatWB\\1dolgozatWB\\dronnaplo.txt",
+              "RelativeToolTip": "1dolgozatWB\\dronnaplo.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-09-16T08:37:13.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Repules.cs",
+              "DocumentMoniker": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\1dolgozatWB\\1dolgozatWB\\Models\\Repules.cs",
+              "RelativeDocumentMoniker": "1dolgozatWB\\Models\\Repules.cs",
+              "ToolTip": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\1dolgozatWB\\1dolgozatWB\\Models\\Repules.cs",
+              "RelativeToolTip": "1dolgozatWB\\Models\\Repules.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T08:12:37.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "1dolgozatWB",
+              "DocumentMoniker": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\1dolgozatWB\\1dolgozatWB\\1dolgozatWB.csproj",
+              "RelativeDocumentMoniker": "1dolgozatWB\\1dolgozatWB.csproj",
+              "ToolTip": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\1dolgozatWB\\1dolgozatWB\\1dolgozatWB.csproj",
+              "RelativeToolTip": "1dolgozatWB\\1dolgozatWB.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-16T08:12:00.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\1dolgozatWB\\1dolgozatWB\\Program.cs",
+              "RelativeDocumentMoniker": "1dolgozatWB\\Program.cs",
+              "ToolTip": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\1dolgozatWB\\1dolgozatWB\\Program.cs",
+              "RelativeToolTip": "1dolgozatWB\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T08:11:45.042Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
