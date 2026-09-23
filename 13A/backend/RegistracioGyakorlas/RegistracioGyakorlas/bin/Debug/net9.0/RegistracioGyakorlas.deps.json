@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "RegistracioGyakorlas/1.0.0": {
+        "runtime": {
+          "RegistracioGyakorlas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RegistracioGyakorlas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

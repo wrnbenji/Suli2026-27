@@ -1,0 +1,57 @@
+﻿@page
+@model RegistracioGyakorlas.Pages.IndexModel
+
+
+
+<form method="post">
+    @Html.AntiForgeryToken();
+    <label for="Nev">Név:</label>
+    <input type="text"  asp-for="NevMezo" name="Nev" id="NevMezo" />
+    <label for="Email">Email:</label>
+    <input type="text asp-for="Email" name="Email" id="Email" />
+    <label for="SzuletesiDatum">Születési Dátum:</label>
+    <input type="date" asp-for="SzuletsiDaum" name="SzuletesiDatum" id="SzuletesiDatum" />
+    <label for="Diak">Diák:</label>
+    <input type="checkbox" asp_for="Diak" name="Diak" id="Diak" />
+    <label for="CipoMerte" >Cipő méret:</label>
+    <input type="number" asp_for="CipoMeret" name="CipoMeret" id="CipoMeret" />
+    <input type="submit" value="bekuld" />
+
+
+
+</form>
+
+@if(Model.UjAdat.Count ==0)
+{
+    <p>Nincsenek Adatok</p>
+}
+@if(Model.UjAdat.Count != 0)
+{
+    <table border="1">
+        <thead>
+            <tr>
+                <td>Sorszam</td>
+                <td>Nev</td>
+                <td>Email</td>
+                <td>SzuletesiDatum</td>
+                <td>Diak</td>
+                <td>CipoMeret</td>
+            </tr>
+        </thead>
+       <tbody>
+
+       
+            @for (int i = 0; i < Model.UjAdat.Count; i++)
+            {
+            <tr>
+             <td>@Model.UjAdat[i].Sorszam</td>
+             <td>@Model.UjAdat[i].Nev</td>
+             <td>@Model.UjAdat[i].Email</td>
+             <td>@Model.UjAdat[i].SzuletesiDatum</td>
+             <td>@Model.UjAdat[i].Diak</td>
+             <td>@Model.UjAdat[i].CipoMeret</td>
+             </tr>     
+            }
+        </tbody>
+    </table>
+}

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Quiz</id>
+    <version>1.0.0</version>
+    <authors>Quiz</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="c08992510475d671a24c8a472bc18a484d084408" />
+    <dependencies>
+      <group targetFramework="net9.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\users\wb5053\Documents\Suli2026-27\13A\asztali\Quiz\Quiz\bin\Debug\net9.0\Quiz.runtimeconfig.json" target="lib\net9.0\Quiz.runtimeconfig.json" />
+    <file src="D:\users\wb5053\Documents\Suli2026-27\13A\asztali\Quiz\Quiz\bin\Debug\net9.0\Quiz.dll" target="lib\net9.0\Quiz.dll" />
+  </files>
+</package>

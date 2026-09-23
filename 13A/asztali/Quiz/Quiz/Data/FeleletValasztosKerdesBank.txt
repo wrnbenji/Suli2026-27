@@ -1,0 +1,200 @@
+﻿Melyik égitest csillag?;Nap;Hold;Mars;Föld;0;1;Csillagászat
+Melyik bolygó a legközelebbi a Naphoz?;Föld;Vénusz;Mars;Merkúr;3;2;Csillagászat
+Mi a fényév?;Sebességegység;Tömegegység;Távolságegység;Időegység;2;2;Csillagászat
+Melyik bolygó híres látványos gyűrűiről?;Szaturnusz;Merkúr;Vénusz;Mars;0;1;Csillagászat
+Mi okozza a nappalok és éjszakák váltakozását?;Hold keringése;Nap forgása;Föld forgása;Föld keringése;2;2;Csillagászat
+Melyik galaxisban található a Naprendszer?;Nagy Magellán-felhő;Androméda;Tejútrendszer;Triangulum;2;2;Csillagászat
+Melyik bolygó a Naprendszer legnagyobbja?;Neptunusz;Uránusz;Jupiter;Szaturnusz;2;2;Csillagászat
+Mi történik teljes napfogyatkozáskor?;Hold a Föld és a Nap közé kerül;Nap eltűnik;Vénusz eltakarja a Holdat;Föld a Nap és a Hold közé kerül;0;3;Csillagászat
+Melyik égitest a Föld természetes kísérője?;Phobos;Europa;Hold;Titan;2;1;Csillagászat
+Mi a Nap energiatermelésének fő folyamata?;Párolgás;Égés;Maghasadás;Magfúzió;3;3;Csillagászat
+Melyik ország fővárosa Canberra?;Új-Zéland;Dél-Afrika;Kanada;Ausztrália;3;2;Földrajz
+Melyik folyó halad át Budapesten?;Rába;Dráva;Duna;Tisza;2;1;Földrajz
+Melyik kontinensen van a Szahara?;Ázsia;Afrika;Európa;Dél-Amerika;1;1;Földrajz
+Melyik óceán a legnagyobb?;Jeges-tenger;Atlanti-óceán;Indiai-óceán;Csendes-óceán;3;2;Földrajz
+Melyik hegységben található a Mount Everest?;Himalája;Kaukázus;Alpok;Andok;0;2;Földrajz
+Melyik ország határos Magyarországgal?;Csehország;Szlovákia;Olaszország;Lengyelország;1;1;Földrajz
+Melyik képzeletbeli vonal osztja északi és déli féltekére a Földet?;Ráktérítő;Egyenlítő;Greenwichi délkör;Baktérítő;1;2;Földrajz
+Melyik tengerrel köti össze a Szuezi-csatorna a Földközi-tengert?;Balti-tenger;Fekete-tenger;Északi-tenger;Vörös-tenger;3;3;Földrajz
+Hol található Izland?;Csendes-óceán déli részén;Földközi-tengeren;Észak-Atlanti-óceánon;Indiai-óceánon;2;2;Földrajz
+Melyik város Franciaország fővárosa?;Marseille;Párizs;Nizza;Lyon;1;1;Földrajz
+Melyik molekula hordozza az örökítő információt?;DNS;Keményítő;Víz;Hemoglobin;0;1;Biológia
+Melyik szerv pumpálja a vért?;Máj;Tüdő;Szív;Vese;2;1;Biológia
+Melyik sejtalkotó vesz részt a fotoszintézisben?;Zöld színtest;Riboszóma;Sejtmag;Mitokondrium;0;2;Biológia
+Melyik véralkotó vesz részt elsősorban az oxigén szállításában?;Vörösvértest;Fehérvérsejt;Vérplazma;Vérlemezke;0;2;Biológia
+Melyik élőlény tartozik az emlősökhöz?;Béka;Ponty;Denevér;Gyík;2;2;Biológia
+Mi a gombák egyik jellemzője?;Nincsenek sejtjeik;Fotoszintetizálnak;Heterotróf módon táplálkoznak;Mindig egysejtűek;2;3;Biológia
+Melyik folyamatban keletkezik két genetikailag azonos leánysejt egy kiinduló sejtből?;Mitózis;Fotoszintézis;Meiózis;Megtermékenyítés;0;3;Biológia
+Melyik szerv termel inzulint?;Lép;Epehólyag;Tüdő;Hasnyálmirigy;3;2;Biológia
+Mi a ragadozó és zsákmány viszonya?;Mutualizmus;Predáció;Parazitizmus;Lebontás;1;3;Biológia
+Melyik vitamin képződését segíti a napfény a bőrben?;D-vitamin;C-vitamin;B12-vitamin;K-vitamin;0;2;Biológia
+Mi a víz képlete?;O2;NaCl;CO2;H2O;3;1;Kémia
+Mi a nátrium vegyjele?;S;Na;Ni;N;1;2;Kémia
+Melyik részecske töltése negatív?;Proton;Neutron;Elektron;Atommag;2;1;Kémia
+Mi a konyhasó fő összetevőjének képlete?;CO2;NaCl;HCl;KOH;1;2;Kémia
+Mennyi a semleges víz pH-értéke körülbelül 25 Celsius-fokon?;10;14;1;7;3;2;Kémia
+Melyik változás kémiai reakció?;Üveg törése;Vas rozsdásodása;Víz párolgása;Jég olvadása;1;2;Kémia
+Melyik két atom alkotja a szén-dioxid molekuláját?;Szén és oxigén;Hidrogén és oxigén;Nitrogén és szén;Nátrium és klór;0;2;Kémia
+Miben térnek el egymástól ugyanazon elem izotópjai?;Elektrontöltés előjelében;Protonszámban;Neutronszámban;Vegyjelben;2;5;Kémia
+Melyik gáz teszi ki a száraz levegő legnagyobb részét?;Nitrogén;Argon;Oxigén;Szén-dioxid;0;3;Kémia
+Mi az égéshez általában szükséges oxidálószer a levegőből?;Oxigén;Argon;Hélium;Nitrogén;0;2;Kémia
+Mi az erő SI-mértékegysége?;Joule;Newton;Watt;Pascal;1;2;Fizika
+Milyen közegben nem terjed a hang?;Vákuum;Víz;Levegő;Acél;0;1;Fizika
+Melyik mennyiség mértékegysége az amper?;Áramerősség;Teljesítmény;Feszültség;Ellenállás;0;2;Fizika
+Mi a sebesség SI-mértékegysége?;Méter per másodperc;Méter per másodperc négyzet;Másodperc;Kilométer;0;2;Fizika
+Melyik mennyiség fejezi ki az energia időegység alatti átadását?;Munka;Teljesítmény;Tömeg;Nyomás;1;3;Fizika
+Mi a frekvencia mértékegysége?;Ohm;Hertz;Volt;Tesla;1;2;Fizika
+Melyik jelenség mutatja a fény törését?;Árnyék létrejötte;Vas mágneseződése;Tükörképképződés síktükörben;Kanál látszólagos megtörése vízben;3;3;Fizika
+Mennyi a víz fagyáspontja normál légnyomáson?;10 Celsius-fok;50 Celsius-fok;100 Celsius-fok;0 Celsius-fok;3;1;Fizika
+Soros áramkörben melyik mennyiség azonos minden alkatrészen át?;Feszültség;Áramerősség;Ellenállás;Teljesítmény;1;3;Fizika
+Mi jellemző a tömegre?;Mindig nulla vákuumban;SI-mértékegysége kilogramm;SI-mértékegysége newton;Minden bolygón eltér ugyanannál a testnél;1;3;Fizika
+Mennyi 12 és 8 összege?;22;24;18;20;3;1;Matematika
+Melyik szám prímszám?;9;11;15;1;1;2;Matematika
+Mennyi egy síkbeli háromszög belső szögeinek összege?;90 fok;180 fok;270 fok;360 fok;1;2;Matematika
+Mennyi 7 négyzete?;77;14;42;49;3;1;Matematika
+Melyik alakzatnak négy egyenlő hosszúságú oldala és négy derékszöge van?;Négyzet;Trapéz;Rombusz;Téglalap;0;2;Matematika
+Mennyi a 3 és 4 oldalú derékszögű háromszög átfogója?;6;7;8;5;3;3;Matematika
+Mennyi egy szabályos dobókockával a páros szám dobásának valószínűsége?;Egyhatod;Egyharmad;Egyketted;Kétharmad;2;3;Matematika
+Melyik tört egyenlő 0,25-tel?;Egyötöd;Egyketted;Egynegyed;Háromnegyed;2;2;Matematika
+Mennyi 15 százaléka 200-nak?;30;40;15;20;0;2;Matematika
+Melyik szám irracionális?;Háromnegyed;Négyzetgyök kettő;Negatív három;0,5;1;4;Matematika
+Melyik évben volt a mohácsi csata?;896;1241;1526;1848;2;2;Történelem
+Melyik évben kezdődött az első világháború?;1945;1914;1918;1939;1;2;Történelem
+Melyik ókori civilizáció épített piramisokat a Nílus mentén?;Föníciai;Perzsa;Római;Egyiptomi;3;1;Történelem
+Melyik évben kezdődött a magyar forradalom és szabadságharc?;1848;1918;1956;1703;0;2;Történelem
+Mikor írták alá a trianoni békeszerződést?;1867;1914;1920;1945;2;3;Történelem
+Kihez kötődik az európai mozgatható betűs könyvnyomtatás elterjedése?;Luther;Gutenberg;Kolumbusz;Newton;1;2;Történelem
+Melyik fal leomlása vált 1989 egyik jelképévé?;Kínai nagy fal;Siratófal;Hadrianus fala;Berlini fal;3;2;Történelem
+Melyik uralkodóhoz kötődik a magyar államalapítás?;Mátyás király;Szent István;II. Rákóczi Ferenc;IV. Béla;1;2;Történelem
+Melyik évben ért véget a második világháború Európában?;1918;1939;1945;1956;2;2;Történelem
+Melyik esemény történt előbb?;Trianoni béke;Mohácsi csata;Honfoglalás;1848-as forradalom;2;3;Történelem
+Ki írta a Nemzeti dalt?;Ady Endre;József Attila;Arany János;Petőfi Sándor;3;1;Magyar irodalom
+Ki írta a Toldit?;Jókai Mór;Móricz Zsigmond;Kölcsey Ferenc;Arany János;3;2;Magyar irodalom
+Ki írta az Egri csillagokat?;Molnár Ferenc;Jókai Mór;Gárdonyi Géza;Mikszáth Kálmán;2;2;Magyar irodalom
+Ki írta a Himnusz szövegét?;Arany János;Vörösmarty Mihály;Kölcsey Ferenc;Petőfi Sándor;2;2;Magyar irodalom
+Ki írta a Szózatot?;Móricz Zsigmond;Kosztolányi Dezső;Vörösmarty Mihály;Ady Endre;2;2;Magyar irodalom
+Melyik mű szerzője Molnár Ferenc?;Az ember tragédiája;A Pál utcai fiúk;Légy jó mindhalálig;Toldi;1;2;Magyar irodalom
+Ki írta a Légy jó mindhalálig című regényt?;Jókai Mór;Móricz Zsigmond;Gárdonyi Géza;Krúdy Gyula;1;3;Magyar irodalom
+Melyik mű drámai költemény?;Toldi;Az ember tragédiája;A Pál utcai fiúk;Egri csillagok;1;3;Magyar irodalom
+Ki írta a Szeptember végén című verset?;Arany János;Babits Mihály;József Attila;Petőfi Sándor;3;3;Magyar irodalom
+Melyik alkotó tartozott a Nyugat első nemzedékéhez?;Petőfi Sándor;Kölcsey Ferenc;Balassi Bálint;Ady Endre;3;4;Magyar irodalom
+Ki írta a Hamletet?;Shakespeare;Goethe;Cervantes;Dante;0;1;Világirodalom
+Ki írta a Don Quijotét?;Dickens;Tolkien;Cervantes;Hemingway;2;3;Világirodalom
+Ki írta A kis herceget?;Victor Hugo;Albert Camus;Jules Verne;Saint-Exupéry;3;2;Világirodalom
+Melyik mű kapcsolódik Homérosz nevéhez?;Hamlet;Faust;Isteni színjáték;Odüsszeia;3;2;Világirodalom
+Ki írta az 1984 című regényt?;Huxley;Orwell;Kafka;Hemingway;1;2;Világirodalom
+Melyik mű szerzője Tolkien?;Anna Karenina;A Gyűrűk Ura;A nyomorultak;Az átváltozás;1;2;Világirodalom
+Ki írta a Bűn és bűnhődést?;Csehov;Puskin;Tolsztoj;Dosztojevszkij;3;3;Világirodalom
+Melyik kultúrából ered a haiku?;Görög;Egyiptomi;Inka;Japán;3;3;Világirodalom
+Melyik mű három fő része a Pokol és a Purgatórium és a Paradicsom?;Isteni színjáték;Odüsszeia;Faust;Iliász;0;4;Világirodalom
+Ki írta az Állatfarmot?;Verne;Orwell;Shakespeare;Dumas;1;2;Világirodalom
+Ki festette a Mona Lisát?;Rembrandt;Van Gogh;Michelangelo;Leonardo da Vinci;3;1;Művészet
+Mire készül hagyományosan a freskó?;Nedves vakolatra;Fémlemezre;Papírra;Száraz vászonra;0;3;Művészet
+Melyik irányzathoz kapcsolódik Picasso neve?;Kubizmus;Impresszionizmus;Barokk;Romantika;0;2;Művészet
+Melyik művészeti ág dolgozik többek között faragott térbeli formákkal?;Fényképezés;Festészet;Szobrászat;Irodalom;2;1;Művészet
+Melyik épület található Párizsban?;Big Ben;Sagrada Família;Colosseum;Eiffel-torony;3;1;Művészet
+Melyik hangszer billentyűs?;Trombita;Zongora;Fuvola;Hegedű;1;1;Művészet
+Melyik technika hoz létre képet apró színes elemekből?;Mozaik;Rézkarc;Freskó;Akvarell;0;2;Művészet
+Melyik festő alkotta a Csillagos éj című képet?;Munkácsy;Van Gogh;Monet;Dalí;1;3;Művészet
+Mit segít ábrázolni a vonalperspektíva?;Időtartamot;Szagokat;Térmélységet;Hangmagasságot;2;3;Művészet
+Melyik korszakra jellemző a gótikus csúcsív?;Őskor;Antikvitás;21. század;Középkor;3;3;Művészet
+Melyik hangszer vonós?;Hegedű;Klarinét;Trombita;Dob;0;1;Zene
+Mit jelez általában a forte jelölés?;Szünetet;Halk hangerőt;Erős hangerőt;Gyorsulást;2;2;Zene
+Mire használható a metronóm?;Felvétel tárolására;Hangszer erősítésére;Hangolásra;Tempó tartására;3;2;Zene
+Melyik zeneszerző alkotta a kilencedik szimfóniát az Örömódával?;Beethoven;Bach;Vivaldi;Mozart;0;3;Zene
+Hány vonalból áll a hagyományos ötvonalas kottarendszer?;Négy;Öt;Hat;Nyolc;1;1;Zene
+Melyik hangszer fúvós?;Cimbalom;Cselló;Fuvola;Hárfa;2;1;Zene
+Hány félhangból áll egy oktáv az egyenletes temperálású rendszerben?;Tizenkettő;Tizennégy;Hat;Nyolc;0;5;Zene
+Melyik zeneszerző a barokk korhoz tartozik?;Chopin;Debussy;Bartók;Bach;3;3;Zene
+Mit nevezünk kórusnak?;Több énekes együttesét;Csak egy hegedűst;Egy dobkészletet;Egyetlen szólóénekest;0;1;Zene
+Melyik hangszernek van általában hat húrja a klasszikus változatában?;Trombita;Zongora;Gitár;Fuvola;2;2;Zene
+Hány játékos lehet egyszerre egy labdarúgócsapatból a pályán rendes játék során?;Tizenegy;Tizenöt;Öt;Hat;0;1;Sport
+Hány pontot ér egy sikeres büntetődobás kosárlabdában?;Kettő;Három;Négy;Egy;3;2;Sport
+Mennyi a maratoni futás hivatalos távja?;40 km;41 km;42,195 km;50 km;2;3;Sport
+Melyik sakkfigura léphet L alakban?;Király;Bástya;Futó;Huszár;3;2;Sport
+Melyik sportban használatos a les szabálya?;Asztalitenisz;Úszás;Labdarúgás;Tenisz;2;2;Sport
+Melyik úszásnem?;Sprint;Szlalom;Cselgáncs;Pillangó;3;1;Sport
+Melyik sporthoz tartozik a szerva és a tie-break?;Tenisz;Vívás;Evezés;Súlyemelés;0;2;Sport
+Melyik eszközt dobnak atlétikai dobószámban?;Tollaslabda;Diszkosz;Röplabda;Teniszlabda;1;2;Sport
+Hány gyűrű látható az olimpiai jelképen?;Öt;Hat;Három;Négy;0;1;Sport
+Melyik sportban van madár nevű ütött eszköz?;Kosárlabda;Vízilabda;Rögbi;Tollaslabda;3;2;Sport
+Melyik alapanyagból készül hagyományosan a tofu?;Szójabab;Búza;Burgonya;Kukorica;0;2;Ételek és konyha
+Melyik folyamat keleszti a kovászos kenyeret?;Párolás;Erjedés;Fagyasztás;Füstölés;1;2;Ételek és konyha
+Melyik fűszer adja a hagyományos magyar pörkölt jellegzetes piros színét?;Bazsalikom;Kömény;Kurkuma;Fűszerpaprika;3;1;Ételek és konyha
+Melyik tejtermék érleléssel készül?;Vajkrém;Tejszín;Laktóz;Sajt;3;2;Ételek és konyha
+Mi a pasztőrözés?;Hőkezelés;Fagyasztva szárítás;Sózás;Darálás;0;2;Ételek és konyha
+Melyik gabonából készül általában a hagyományos búzakenyér?;Rizs;Rozs;Búza;Zab;2;1;Ételek és konyha
+Melyik anyag vesz részt a majonéz emulziójának kialakításában?;Sütőpor;Zselatin;Tojássárgája;Élesztő;2;3;Ételek és konyha
+Melyik növény termése a paradicsom?;Burgonya;Hagyma;Sárgarépa;Paradicsom;3;1;Ételek és konyha
+Melyik konyhai eszközzel mérhetünk belső ételhőmérsékletet?;Konyhai hőmérő;Mérőpohár;Szűrő;Habverő;0;2;Ételek és konyha
+Mi történik karamellizáláskor?;A víz oxidálódik;A cukor hő hatására átalakul;A só megfagy;A fehérje mechanikusan habosodik;1;3;Ételek és konyha
+Milyen energiává alakítja a napelem a fény energiáját?;Csak mozgási energiává;Magenergiává;Villamos energiává;Hangenergiává;2;2;Technológia
+Melyik technológia segít műholdas helymeghatározásban?;NFC;HDMI;USB;GPS;3;1;Technológia
+Melyik vezeték nélküli kapcsolat alkalmas közeli eszközök párosítására?;Bluetooth;SATA;VGA;Ethernet kábel;0;1;Technológia
+Mit jelent a 3D nyomtatás sok eljárásnál?;Fotók beszkennelését;Tárgy rétegenkénti felépítését;Csak képek papírra nyomását;Kizárólag fémöntést;1;2;Technológia
+Milyen jelet vezet az optikai szál?;Mechanikus rezgést;Hővezetést;Fényt;Csak vízáramot;2;3;Technológia
+Melyik eszköz tárol villamos energiát kémiai formában?;Passzív antenna;Hűtőborda;Tükör;Akkumulátor;3;2;Technológia
+Mire szolgál a QR-kód?;Géppel olvasható adatok jelölésére;Kizárólag hőmérésre;Áramtermelésre;Hang erősítésére;0;2;Technológia
+Melyik eljárás használ mozgó levegőt villamos energia előállítására?;Akkumulátor;Szélturbina;Napelem;Geotermikus kút;1;2;Technológia
+Melyik csatlakozó számít elterjedt digitális videócsatlakozónak?;3,5 mm jack;PS/2;HDMI;RJ11;2;2;Technológia
+Mire használható az NFC rövid távolságon?;Tengeralatti hangérzékelésre;Több ezer kilométeres rádióadásra;Mechanikus nyomtatásra;Érintésközeli adatcserére;3;2;Technológia
+Milyen típus a bool C# nyelvben?;Logikai;Egész szám;Karakterlánc;Dátum;0;1;Programozás
+Melyik utasítással írhatunk ki szöveget konzolra C# nyelvben?;Math.Sqrt;Console.WriteLine;File.ReadAllText;int.Parse;1;1;Programozás
+Melyik ciklus használható ismétléshez?;using;namespace;for;class;2;1;Programozás
+Mit ad vissza a string.Length C# nyelvben?;Szavak számát;Fájl méretét;Tömb elemeit;Karakterek számát;3;2;Programozás
+Melyik LINQ metódus szűri az elemeket?;Select;Where;OrderBy;Count;1;3;Programozás
+Melyik művelet hoz létre objektumot egy C# osztályból?;Szerializálás;Példányosítás;Fordítás;Öröklés;1;2;Programozás
+Melyik blokk kezelhet egy kivételt C# nyelvben?;foreach;record;catch;namespace;2;2;Programozás
+Mire használható a yield return?;Program bezárására;Típus deklarálására;Fájl törlésére;Iterátor következő elemének megadására;3;4;Programozás
+Melyik C# kifejezés bontja fel a szöveget megadott elválasztó alapján?;Split;Trim;ToUpper;Contains;0;2;Programozás
+Melyik típus alkalmas több azonos típusú elem sorrendben tárolására?;Exception;List<T>;bool;DateTime;1;3;Programozás
+Mire szolgál a HTML?;Képek szerkesztésére;Hálózati kábel mérésére;Weboldal szerkezetének leírására;Adatbázis tömörítésére;2;1;Webfejlesztés
+Mire szolgál a CSS?;Csak adatbázis-kezelésre;Videó tömörítésére;Jelszó visszafejtésére;Megjelenés alakítására;3;1;Webfejlesztés
+Melyik HTTP metódust használják jellemzően erőforrás lekérésére?;GET;POST;DELETE;PATCH;0;2;Webfejlesztés
+Mit jelez általában a HTTP 404 állapotkód?;Szerver túlterhelés;Az erőforrás nem található;Sikeres létrehozás;Átirányítás;1;2;Webfejlesztés
+Melyik protokoll használ TLS titkosítást a webes kapcsolathoz?;FTP titkosítás nélkül;Telnet;HTTPS;HTTP titkosítás nélkül;2;2;Webfejlesztés
+Melyik nyelv futtatható közvetlenül a modern böngészőben?;C# fordított EXE;SQL adatbázis-motorként;Bash natívan;JavaScript;3;2;Webfejlesztés
+Melyik HTML elem hoz létre hivatkozást?;a;p;div;span;0;2;Webfejlesztés
+Melyik HTTP metódus törzse hordozhat űrlapadatokat?;TRACE;POST;HEAD;OPTIONS;1;2;Webfejlesztés
+Melyik rész található általában egy URL-ben a protokoll megjelölésére?;CPU típus;Fájlkiterjesztés minden esetben;Séma;Jelszó hash;2;3;Webfejlesztés
+Mit jelent a reszponzív webdizájn?;Csak szöveges oldalak készítése;Kötelező mobilalkalmazás fejlesztése;Szervermentes adattárolás;Elrendezés alkalmazkodása különféle kijelzőkhöz;3;2;Webfejlesztés
+Mire szolgál a kétlépcsős azonosítás?;További ellenőrzési lépésre;Jelszó kétszeri tárolására;Azonos fiók törlésére;Titkosítás kikapcsolására;0;2;Kiberbiztonság
+Mi az adathalászat?;Videók streamelése;Adatok megtévesztő megszerzésének kísérlete;Hálózati kábel javítása;Fájlok tömörítése;1;2;Kiberbiztonság
+Melyik jelszóhasználat biztonságosabb?;Jelszó nyilvános közzététele;Jelszó minden héten egyszerűsítése;Egyedi hosszú jelszó minden fiókhoz;Ugyanaz a rövid jelszó mindenhol;2;2;Kiberbiztonság
+Mire jó a biztonsági mentés?;Csak képernyő fényerejének növeléséhez;Memória órajelének állításához;Spam küldéséhez;Adatok visszaállításához veszteség után;3;1;Kiberbiztonság
+Mit jelent a HTTPS lakatjel általában?;Titkosított kapcsolatot az adott végpontig;A weboldal tartalmának teljes igazságát;A szolgáltató hibátlanságát;Vírusmentesség garanciáját;0;3;Kiberbiztonság
+Melyik módszer segíthet ismert szoftverhibák ellen?;Tűzfal kikapcsolása;Biztonsági frissítések telepítése;Frissítések végleges tiltása;Jelszavak megosztása;1;2;Kiberbiztonság
+Miért gyanús a sürgető üzenet amely azonnal jelszót kér?;Mert csak telefonon érkezhet;Mert a jelszó nyilvános adat;Adathalászat jele lehet;Biztosan hivatalos;2;2;Kiberbiztonság
+Melyik állítás igaz a digitális aláírásról?;Mindig titkosítja a teljes üzenetet;Csak kézzel írható;Kiváltja az összes mentést;Segíthet az eredet és sértetlenség ellenőrzésében;3;5;Kiberbiztonság
+Mit tegyünk ha ismeretlen csatolmányt kapunk?;Ellenőrizzük a feladót és a tartalmat megnyitás előtt;Azonnal futtassuk;Küldjük tovább mindenkinek;Kapcsoljuk ki a vírusvédelmet;0;2;Kiberbiztonság
+Melyik módszer csökkenti a jelszó újrahasználatának kockázatát?;Jelszó elhagyása;Jelszókezelő alkalmazás;Egy jelszó minden oldalon;Jelszó kiírása nyilvános posztban;1;2;Kiberbiztonság
+Melyik energiaforrás megújuló?;Kőolaj;Földgáz;Szél;Kőszén;2;1;Környezet
+Melyik gáz vesz részt a fotoszintézisben mint felvett anyag?;Hélium;Neon;Argon;Szén-dioxid;3;2;Környezet
+Mit jelent a biodiverzitás?;Élővilág sokfélesége;Egyetlen faj egyedszáma;Kőzetek olvadáspontja;Levegő nyomása;0;3;Környezet
+Melyik hulladék komposztálható általában?;Üvegcserép;Zöldségmaradék;Elem;Fémkonzerv;1;2;Környezet
+Mi lehet a talajerózió következménye?;Föld forgásának gyorsulása;Tengerszint azonnali csökkenése;Termőréteg elvesztése;Ózonréteg vastagodása;2;3;Környezet
+Melyik folyamat járulhat hozzá a savas esőhöz?;Tiszta oxigén tárolása;Víz fagyása;Homok ülepedése;Kén-dioxid kibocsátása;3;3;Környezet
+Melyik eszköz használhat napenergiát villamosenergia-termelésre?;Napelem;Szénkazán;Gáztűzhely;Dízelgenerátor;0;1;Környezet
+Melyik anyag veszélyes hulladékként külön gyűjtendő?;Száraz falevél;Használt elem;Tiszta papír;Banánhéj;1;2;Környezet
+Melyik ökológiai szerep illik a gombák sok fajára?;Csak csúcsragadozó;Csak beporzó;Lebontó;Csak elsődleges termelő;2;3;Környezet
+Mi jellemzi az üvegházhatású gázokat?;Megállítják a Föld forgását;Mindig szilárdak;Csak a világűrben léteznek;Elnyelhetik a Föld által kisugárzott infravörös sugárzást;3;4;Környezet
+Melyik szó főnév?;Asztal;Fut;Piros;Gyorsan;0;1;Nyelv és kommunikáció
+Melyik írásjel kerül általában kérdő mondat végére?;Kettőspont;Pont;Kérdőjel;Vessző;2;1;Nyelv és kommunikáció
+Mit nevezünk szinonimának?;Csak idegen szót;Kiejthetetlen szót;Hasonló jelentésű szót;Ellentétes jelentésű szót;2;2;Nyelv és kommunikáció
+Melyik kommunikációs forma nem szóbeli?;Telefonbeszélgetés;Felolvasás;Előadás;Arckifejezés;3;2;Nyelv és kommunikáció
+Mi a metafora egyik alapja?;Hasonlóságon alapuló névátvitel;Mértékegység átváltása;Betűk véletlen sorrendje;Helyesírási hiba;0;4;Nyelv és kommunikáció
+Melyik szó palindrom?;Könyv;Görög;Iskola;Asztal;1;3;Nyelv és kommunikáció
+Melyik mondat felszólító?;Csukva van az ajtó?;De szép az ajtó!;Csukd be az ajtót!;Az ajtó csukva van.;2;2;Nyelv és kommunikáció
+Melyik kifejezés jelöli egy szó több jelentését?;Hangrend;Ragozás;Betűrend;Poliszémia;3;4;Nyelv és kommunikáció
+Melyik nyelv a finnugor nyelvek közé tartozik?;Magyar;Spanyol;Arab;Kínai;0;2;Nyelv és kommunikáció
+Melyik szó melléknév?;Kéken;Kék;Kékség;Kéklik;1;2;Nyelv és kommunikáció
+Ha minden kutya emlős és Bodri kutya akkor mi következik?;Bodri madár;Nincs következtetés;Bodri emlős;Minden emlős kutya;2;2;Logika
+Melyik állítás a 8 páros szám állítás tagadása?;A 8 nagyobb 0-nál;A 8 egész szám;A 8 kisebb 10-nél;A 8 nem páros szám;3;2;Logika
+Melyik szám osztható egyszerre kettővel és hárommal?;6;8;9;10;0;2;Logika
+Mennyi az ÉS művelet értéke ha mindkét bemenet igaz?;Mindig nulla;Igaz;Hamis;Ismeretlen;1;2;Logika
+Mennyi a VAGY művelet értéke ha mindkét bemenet hamis?;Mindig egy;Nem értelmezhető;Igaz;Hamis;3;2;Logika
+Mi cáfolhat meg egy minden esetben állítást?;Egy megerősítő példa;Új elnevezés;Szóközök elhagyása;Egyetlen ellenpélda;3;3;Logika
+Ha egy szám osztható néggyel akkor melyik állítás biztos?;Osztható kettővel;Páratlan;Osztható nyolccal;Prímszám;0;2;Logika
+Melyik állítás igaz a kettős tagadásra a klasszikus logikában?;Nem használható;Az eredeti állítást adja vissza;Mindig hamisat ad;Mindig igazat ad;1;4;Logika
+Melyik következtetés hibás?;Ha 12 osztható 4-gyel akkor osztható 2-vel;Ha P igaz és Q igaz akkor P és Q igaz;Ha esik az eső nedves az út és nedves az út tehát esik az eső;Ha minden A B és x A akkor x B;2;5;Logika
+Ha egy dobókockán az 1 és a 2 kizárják egymást egy dobáskor akkor mi igaz?;Mindig együtt fordulnak elő;Az 1 biztosan bekövetkezik;A 2 biztosan bekövetkezik;Nem fordulhatnak elő egyszerre ugyanabban a dobásban;3;3;Logika

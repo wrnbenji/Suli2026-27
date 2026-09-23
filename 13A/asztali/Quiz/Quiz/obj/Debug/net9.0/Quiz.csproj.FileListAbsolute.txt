@@ -1,0 +1,17 @@
+D:\users\wb5053\Documents\Suli2026-27\13A\asztali\Quiz\Quiz\bin\Debug\net9.0\Quiz.exe
+D:\users\wb5053\Documents\Suli2026-27\13A\asztali\Quiz\Quiz\bin\Debug\net9.0\Quiz.deps.json
+D:\users\wb5053\Documents\Suli2026-27\13A\asztali\Quiz\Quiz\bin\Debug\net9.0\Quiz.runtimeconfig.json
+D:\users\wb5053\Documents\Suli2026-27\13A\asztali\Quiz\Quiz\bin\Debug\net9.0\Quiz.dll
+D:\users\wb5053\Documents\Suli2026-27\13A\asztali\Quiz\Quiz\bin\Debug\net9.0\Quiz.pdb
+D:\users\wb5053\Documents\Suli2026-27\13A\asztali\Quiz\Quiz\obj\Debug\net9.0\Quiz.GeneratedMSBuildEditorConfig.editorconfig
+D:\users\wb5053\Documents\Suli2026-27\13A\asztali\Quiz\Quiz\obj\Debug\net9.0\Quiz.AssemblyInfoInputs.cache
+D:\users\wb5053\Documents\Suli2026-27\13A\asztali\Quiz\Quiz\obj\Debug\net9.0\Quiz.AssemblyInfo.cs
+D:\users\wb5053\Documents\Suli2026-27\13A\asztali\Quiz\Quiz\obj\Debug\net9.0\Quiz.csproj.CoreCompileInputs.cache
+D:\users\wb5053\Documents\Suli2026-27\13A\asztali\Quiz\Quiz\obj\Debug\net9.0\Quiz.sourcelink.json
+D:\users\wb5053\Documents\Suli2026-27\13A\asztali\Quiz\Quiz\obj\Debug\net9.0\Quiz.dll
+D:\users\wb5053\Documents\Suli2026-27\13A\asztali\Quiz\Quiz\obj\Debug\net9.0\refint\Quiz.dll
+D:\users\wb5053\Documents\Suli2026-27\13A\asztali\Quiz\Quiz\obj\Debug\net9.0\Quiz.pdb
+D:\users\wb5053\Documents\Suli2026-27\13A\asztali\Quiz\Quiz\obj\Debug\net9.0\Quiz.genruntimeconfig.cache
+D:\users\wb5053\Documents\Suli2026-27\13A\asztali\Quiz\Quiz\obj\Debug\net9.0\ref\Quiz.dll
+D:\users\wb5053\Documents\Suli2026-27\13A\asztali\Quiz\Quiz\bin\Debug\net9.0\Data\FeleletValasztosKerdesBank.txt
+D:\users\wb5053\Documents\Suli2026-27\13A\asztali\Quiz\Quiz\bin\Debug\net9.0\Data\IgazHamisKerdesBank.txt
