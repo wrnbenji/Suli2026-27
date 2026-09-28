@@ -1,0 +1,16 @@
+﻿@page
+@model tanulok.Pages.IndexModel
+<form method="post">
+    @Html.AntiForgeryToken()
+    <label for="nev">Név</label>
+    <input type="text" id="nev" name="nev"  asp-for="tanulok1.nev"/>
+   
+    <label>Osztaly </label>
+    <input type="text" id="osztaly" name="osztaly" asp-for="tanulok1.osztaly" />
+    <label>Kituno</label>
+   <input type="checkbox" id="kituno" name="kituno" asp-for="tanulok1.kituno" value="false"/>
+    <label>Elozo iskola</label>
+    <input type="text" id="elozoIskola" name="elozoIskola" asp-for="tanulok1.elozoIskola" />
+    <input type="submit" />
+</form>
+
