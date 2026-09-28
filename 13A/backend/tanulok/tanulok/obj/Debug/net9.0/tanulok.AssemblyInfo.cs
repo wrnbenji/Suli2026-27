@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("tanulok")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bbe938165d3b7a6676300c19be3e9765775420ee")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cf186574f0edd3b92ffc21091bdb9f2bc1f8f0e0")]
 [assembly: System.Reflection.AssemblyProductAttribute("tanulok")]
 [assembly: System.Reflection.AssemblyTitleAttribute("tanulok")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

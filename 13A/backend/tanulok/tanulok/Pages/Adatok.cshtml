@@ -1,0 +1,16 @@
+﻿@page
+@model tanulok.Pages.AdatokModel
+<table>
+   
+    @for (int i = 0; i < Model.UjAdat.Count; i++)
+    {
+        <tr>
+            <td>@Model.UjAdat[i].Sorszam</td>
+            <td>@Model.UjAdat[i].Nev</td>
+            <td>@Model.UjAdat[i].Email</td>
+            <td>@Model.UjAdat[i].SzuletesiDatum</td>
+            <td>@Model.UjAdat[i].Diak</td>
+            <td>@Model.UjAdat[i].CipoMeret</td>
+        </tr>
+    }
+</table>
