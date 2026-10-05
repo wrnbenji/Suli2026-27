@@ -1,0 +1,13 @@
+﻿@page
+@model Mozi.Pages.AddKiadoModel
+@{
+}
+<form method="post">
+    @Html.AntiForgeryToken()
+<label for="Nev">Kiadó Név:</label>
+<input type="text" asp-for="UjKiado.KiadoNev" name="KiadoNev" id="KiadoNev" />
+
+
+
+<input type="submit" value="bekuld" />
+</form>

@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\backend\\RegistracioGyakorlas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FDBE4612-70A0-4AD3-ABF1-F95DDA1B20B9}|RegistracioGyakorlas\\RegistracioGyakorlas.csproj|d:\\users\\wb5053\\documents\\suli2026-27\\13a\\backend\\registraciogyakorlas\\registraciogyakorlas\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FDBE4612-70A0-4AD3-ABF1-F95DDA1B20B9}|RegistracioGyakorlas\\RegistracioGyakorlas.csproj|solutionrelative:registraciogyakorlas\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FDBE4612-70A0-4AD3-ABF1-F95DDA1B20B9}|RegistracioGyakorlas\\RegistracioGyakorlas.csproj|d:\\users\\wb5053\\documents\\suli2026-27\\13a\\backend\\registraciogyakorlas\\registraciogyakorlas\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FDBE4612-70A0-4AD3-ABF1-F95DDA1B20B9}|RegistracioGyakorlas\\RegistracioGyakorlas.csproj|solutionrelative:registraciogyakorlas\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDBE4612-70A0-4AD3-ABF1-F95DDA1B20B9}|RegistracioGyakorlas\\RegistracioGyakorlas.csproj|d:\\users\\wb5053\\documents\\suli2026-27\\13a\\backend\\registraciogyakorlas\\registraciogyakorlas\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDBE4612-70A0-4AD3-ABF1-F95DDA1B20B9}|RegistracioGyakorlas\\RegistracioGyakorlas.csproj|solutionrelative:registraciogyakorlas\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FDBE4612-70A0-4AD3-ABF1-F95DDA1B20B9}|RegistracioGyakorlas\\RegistracioGyakorlas.csproj|d:\\users\\wb5053\\documents\\suli2026-27\\13a\\backend\\registraciogyakorlas\\registraciogyakorlas\\modles\\adat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -38,12 +38,11 @@
               "RelativeToolTip": "RegistracioGyakorlas\\Modles\\Adat.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-21T10:04:43.293Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-21T10:04:43.293Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\backend\\RegistracioGyakorlas\\RegistracioGyakorlas\\Pages\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "RegistracioGyakorlas\\Pages\\Index.cshtml.cs",
@@ -68,13 +67,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\backend\\RegistracioGyakorlas\\RegistracioGyakorlas\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "RegistracioGyakorlas\\Pages\\Index.cshtml",
               "ToolTip": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\backend\\RegistracioGyakorlas\\RegistracioGyakorlas\\Pages\\Index.cshtml",
               "RelativeToolTip": "RegistracioGyakorlas\\Pages\\Index.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAADUAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-09-21T09:38:51.509Z",
               "EditorCaption": ""

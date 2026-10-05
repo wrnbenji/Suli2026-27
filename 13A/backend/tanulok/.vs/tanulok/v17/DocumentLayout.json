@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\backend\\tanulok\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6F8525BF-0FBC-4366-8080-AF1C415E8DF2}|tanulok\\tanulok.csproj|d:\\users\\wb5053\\documents\\suli2026-27\\13a\\backend\\tanulok\\tanulok\\pages\\adatok.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6F8525BF-0FBC-4366-8080-AF1C415E8DF2}|tanulok\\tanulok.csproj|solutionrelative:tanulok\\pages\\adatok.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6F8525BF-0FBC-4366-8080-AF1C415E8DF2}|tanulok\\tanulok.csproj|d:\\users\\wb5053\\documents\\suli2026-27\\13a\\backend\\tanulok\\tanulok\\pages\\adatok.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F8525BF-0FBC-4366-8080-AF1C415E8DF2}|tanulok\\tanulok.csproj|solutionrelative:tanulok\\pages\\adatok.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6F8525BF-0FBC-4366-8080-AF1C415E8DF2}|tanulok\\tanulok.csproj|d:\\users\\wb5053\\documents\\suli2026-27\\13a\\backend\\tanulok\\tanulok\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6F8525BF-0FBC-4366-8080-AF1C415E8DF2}|tanulok\\tanulok.csproj|solutionrelative:tanulok\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{6F8525BF-0FBC-4366-8080-AF1C415E8DF2}|tanulok\\tanulok.csproj|d:\\users\\wb5053\\documents\\suli2026-27\\13a\\backend\\tanulok\\tanulok\\models\\tanulocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F8525BF-0FBC-4366-8080-AF1C415E8DF2}|tanulok\\tanulok.csproj|solutionrelative:tanulok\\models\\tanulocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6F8525BF-0FBC-4366-8080-AF1C415E8DF2}|tanulok\\tanulok.csproj|d:\\users\\wb5053\\documents\\suli2026-27\\13a\\backend\\tanulok\\tanulok\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6F8525BF-0FBC-4366-8080-AF1C415E8DF2}|tanulok\\tanulok.csproj|solutionrelative:tanulok\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F8525BF-0FBC-4366-8080-AF1C415E8DF2}|tanulok\\tanulok.csproj|d:\\users\\wb5053\\documents\\suli2026-27\\13a\\backend\\tanulok\\tanulok\\models\\tanulocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F8525BF-0FBC-4366-8080-AF1C415E8DF2}|tanulok\\tanulok.csproj|solutionrelative:tanulok\\models\\tanulocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6F8525BF-0FBC-4366-8080-AF1C415E8DF2}|tanulok\\tanulok.csproj|d:\\users\\wb5053\\documents\\suli2026-27\\13a\\backend\\tanulok\\tanulok\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F8525BF-0FBC-4366-8080-AF1C415E8DF2}|tanulok\\tanulok.csproj|solutionrelative:tanulok\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F8525BF-0FBC-4366-8080-AF1C415E8DF2}|tanulok\\tanulok.csproj|d:\\users\\wb5053\\documents\\suli2026-27\\13a\\backend\\tanulok\\tanulok\\pages\\adatok.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F8525BF-0FBC-4366-8080-AF1C415E8DF2}|tanulok\\tanulok.csproj|solutionrelative:tanulok\\pages\\adatok.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6F8525BF-0FBC-4366-8080-AF1C415E8DF2}|tanulok\\tanulok.csproj|d:\\users\\wb5053\\documents\\suli2026-27\\13a\\backend\\tanulok\\tanulok\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -29,6 +25,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{6F8525BF-0FBC-4366-8080-AF1C415E8DF2}|tanulok\\tanulok.csproj|d:\\users\\wb5053\\documents\\suli2026-27\\13a\\backend\\tanulok\\tanulok\\models\\tanulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6F8525BF-0FBC-4366-8080-AF1C415E8DF2}|tanulok\\tanulok.csproj|solutionrelative:tanulok\\models\\tanulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F8525BF-0FBC-4366-8080-AF1C415E8DF2}|tanulok\\tanulok.csproj|d:\\users\\wb5053\\documents\\suli2026-27\\13a\\backend\\tanulok\\tanulok\\pages\\adatok.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F8525BF-0FBC-4366-8080-AF1C415E8DF2}|tanulok\\tanulok.csproj|solutionrelative:tanulok\\pages\\adatok.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6F8525BF-0FBC-4366-8080-AF1C415E8DF2}|tanulok\\tanulok.csproj|d:\\users\\wb5053\\documents\\suli2026-27\\13a\\backend\\tanulok\\tanulok\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,11 +58,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\backend\\tanulok\\tanulok\\appsettings.json",
               "RelativeDocumentMoniker": "tanulok\\appsettings.json",
@@ -70,12 +70,11 @@
               "RelativeToolTip": "tanulok\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-09-28T12:17:47.687Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-28T12:17:47.687Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Adatok.cshtml.cs",
               "DocumentMoniker": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\backend\\tanulok\\tanulok\\Pages\\Adatok.cshtml.cs",
               "RelativeDocumentMoniker": "tanulok\\Pages\\Adatok.cshtml.cs",
@@ -88,7 +87,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Adatok.cshtml",
               "DocumentMoniker": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\backend\\tanulok\\tanulok\\Pages\\Adatok.cshtml",
               "RelativeDocumentMoniker": "tanulok\\Pages\\Adatok.cshtml",
@@ -96,8 +95,7 @@
               "RelativeToolTip": "tanulok\\Pages\\Adatok.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-28T12:14:07.849Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-28T12:14:07.849Z"
             },
             {
               "$type": "Document",
@@ -125,13 +123,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\backend\\tanulok\\tanulok\\Pages\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "tanulok\\Pages\\Index.cshtml.cs",
               "ToolTip": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\backend\\tanulok\\tanulok\\Pages\\Index.cshtml.cs",
               "RelativeToolTip": "tanulok\\Pages\\Index.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBYAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBkAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-28T10:53:50.876Z",
               "EditorCaption": ""
@@ -144,7 +142,7 @@
               "RelativeDocumentMoniker": "tanulok\\Pages\\Index.cshtml",
               "ToolTip": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\backend\\tanulok\\tanulok\\Pages\\Index.cshtml",
               "RelativeToolTip": "tanulok\\Pages\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-09-28T10:52:57.462Z",
               "EditorCaption": ""
@@ -175,7 +173,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Tanulo.cs",
               "DocumentMoniker": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\backend\\tanulok\\tanulok\\Models\\Tanulo.cs",
               "RelativeDocumentMoniker": "tanulok\\Models\\Tanulo.cs",
@@ -183,12 +181,11 @@
               "RelativeToolTip": "tanulok\\Models\\Tanulo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-28T10:25:52.66Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-28T10:25:52.66Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "TanuloContext.cs",
               "DocumentMoniker": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\backend\\tanulok\\tanulok\\Models\\TanuloContext.cs",
               "RelativeDocumentMoniker": "tanulok\\Models\\TanuloContext.cs",
