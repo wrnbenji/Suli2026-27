@@ -1,0 +1,200 @@
+﻿A Nap csillag.;1;1;Csillagászat
+A Hold saját fényt bocsát ki.;0;1;Csillagászat
+A Föld egy év alatt kerüli meg a Napot.;1;1;Csillagászat
+A Mars a Naprendszer legnagyobb bolygója.;0;1;Csillagászat
+A Vénusz légköre főként szén-dioxidból áll.;1;2;Csillagászat
+A Jupiternek nincsenek holdjai.;0;2;Csillagászat
+A fényév időegység.;0;2;Csillagászat
+A Szaturnusz gyűrűinek anyagában jég is található.;1;2;Csillagászat
+A Nap magjában magfúzió zajlik.;1;3;Csillagászat
+A sarki csillag pontosan a Föld forgástengelyén helyezkedik el.;0;4;Csillagászat
+Budapest a Duna partján fekszik.;1;1;Földrajz
+Ausztrália fővárosa Sydney.;0;2;Földrajz
+A Nílus Afrikában folyik.;1;1;Földrajz
+Az Amazonas Dél-Amerikában található.;1;1;Földrajz
+Izland az Egyenlítőtől délre fekszik.;0;1;Földrajz
+A Himalájában található a Mount Everest.;1;2;Földrajz
+A Föld legnagyobb óceánja az Atlanti-óceán.;0;2;Földrajz
+A Szuezi-csatorna a Földközi-tengert a Vörös-tengerrel köti össze.;1;3;Földrajz
+A földrajzi hosszúságot az Egyenlítőtől mérjük.;0;3;Földrajz
+Az antarktiszi jégtakaró alatt szárazföld is található.;1;3;Földrajz
+A fotoszintézis során a növények fényenergiát hasznosítanak.;1;1;Biológia
+Az emberi szívnek két ürege van.;0;1;Biológia
+A DNS örökítőanyagot hordoz.;1;1;Biológia
+Az emlősök mind tojással szaporodnak.;0;2;Biológia
+A gombák növények.;0;2;Biológia
+A vörösvértestek oxigént szállítanak.;1;2;Biológia
+A mitokondrium részt vesz a sejtek energiatermelésében.;1;3;Biológia
+Az antibiotikumok közvetlenül elpusztítják az influenzavírust.;0;2;Biológia
+A vérlemezkék részt vesznek a véralvadásban.;1;3;Biológia
+A természetes kiválasztódás során minden egyed azonos eséllyel szaporodik.;0;4;Biológia
+A víz képlete H2O.;1;1;Kémia
+A nátrium vegyjele Na.;1;2;Kémia
+Az oxigén vegyjele O2.;0;3;Kémia
+A konyhasó nátrium-klorid.;1;2;Kémia
+A pH 7 körüli tiszta víz szobahőmérsékleten közel semleges.;1;3;Kémia
+A proton töltése negatív.;0;1;Kémia
+A szén-dioxid molekulája három atomból áll.;1;2;Kémia
+A vas rozsdásodása fizikai halmazállapot-változás.;0;2;Kémia
+Az izotópok protonszáma azonos és neutronszáma eltér.;1;4;Kémia
+Minden sav vizes oldatának pH-ja nagyobb mint 7.;0;3;Kémia
+A sebesség SI-mértékegysége a méter per másodperc.;1;2;Fizika
+Vákuumban a hang terjed.;0;1;Fizika
+A Föld gravitációja hat a feldobott labdára.;1;1;Fizika
+A tömeg és a súly ugyanaz a fizikai mennyiség.;0;2;Fizika
+A fény vákuumban gyorsabban halad mint vízben.;1;3;Fizika
+Az elektromos áram erősségének mértékegysége az amper.;1;2;Fizika
+A hőmérséklet és a hő ugyanazt a mennyiséget jelöli.;0;3;Fizika
+A soros kapcsolású áramkör elemein ugyanakkora áram folyik át.;1;3;Fizika
+A frekvencia mértékegysége a hertz.;1;2;Fizika
+Ideális körülmények között a mozgó test sebessége csak erő hatására maradhat állandó.;0;4;Fizika
+A 2 prímszám.;1;1;Matematika
+Minden négyzet téglalap.;1;2;Matematika
+Minden téglalap négyzet.;0;1;Matematika
+Egy háromszög belső szögeinek összege síkban 180 fok.;1;2;Matematika
+A 0 pozitív egész szám.;0;2;Matematika
+A 9 négyzete 81.;1;1;Matematika
+Két negatív szám szorzata negatív.;0;2;Matematika
+A négyzet átlói felezik egymást.;1;3;Matematika
+Egy szabályos dobókockán a hatos dobás valószínűsége egy hatod.;1;2;Matematika
+A négyzetgyök 2 racionális szám.;0;4;Matematika
+Az ókori Egyiptomban piramisokat építettek.;1;1;Történelem
+A Római Birodalom megalapítása a második világháború után történt.;0;1;Történelem
+A mohácsi csata 1526-ban volt.;1;2;Történelem
+Az 1848-as magyar forradalom márciusban kezdődött.;1;2;Történelem
+Az első világháború 1914-ben kezdődött.;1;2;Történelem
+A berlini fal 1989-ben épült.;0;2;Történelem
+A könyvnyomtatás európai elterjedése Gutenberg nevéhez kötődik.;1;2;Történelem
+A honfoglalás a 20. században történt.;0;1;Történelem
+A trianoni békeszerződést 1920-ban írták alá.;1;3;Történelem
+A hidegháború során az Egyesült Államok és a Szovjetunió közvetlenül hadat üzent egymásnak.;0;4;Történelem
+Petőfi Sándor írta a Nemzeti dalt.;1;1;Magyar irodalom
+Arany János műve a Toldi.;1;2;Magyar irodalom
+Az Egri csillagok szerzője Jókai Mór.;0;2;Magyar irodalom
+A Pál utcai fiúk szerzője Molnár Ferenc.;1;2;Magyar irodalom
+Ady Endre a 19. és 20. század fordulóján alkotott.;1;3;Magyar irodalom
+József Attila írta a Szózatot.;0;2;Magyar irodalom
+A Himnusz szövegét Kölcsey Ferenc írta.;1;2;Magyar irodalom
+Mikszáth Kálmán alkotta meg Harry Potter alakját.;0;1;Magyar irodalom
+A Légy jó mindhalálig szerzője Móricz Zsigmond.;1;3;Magyar irodalom
+A ballada kizárólag színpadra írt drámai mű lehet.;0;4;Magyar irodalom
+Shakespeare írta a Hamletet.;1;1;Világirodalom
+A Don Quijote szerzője Miguel de Cervantes.;1;3;Világirodalom
+A kis herceg írója Jules Verne.;0;2;Világirodalom
+Az Odüsszeia az ókori görög epika része.;1;2;Világirodalom
+Dante Isteni színjátéka három nagy részre tagolódik.;1;3;Világirodalom
+George Orwell írta az 1984 című regényt.;1;2;Világirodalom
+A Rómeó és Júlia egy tudományos értekezés.;0;1;Világirodalom
+A Gyűrűk Ura szerzője J. R. R. Tolkien.;1;2;Világirodalom
+Franz Kafka írta a Bűn és bűnhődést.;0;3;Világirodalom
+A haiku hagyományos japán versforma.;1;3;Világirodalom
+Leonardo da Vinci festette a Mona Lisát.;1;1;Művészet
+A freskó hagyományosan nedves vakolatra készített falfestmény.;1;3;Művészet
+A szimfónia kizárólag szóló zongorára írt zenemű.;0;2;Művészet
+Picasso a kubizmus egyik meghatározó alakja.;1;3;Művészet
+A három alapszín hagyományos festészeti modellje a piros és sárga és kék.;1;3;Művészet
+A szobrászatban csak fát lehet használni.;0;1;Művészet
+Beethoven zeneszerző volt.;1;1;Művészet
+A perspektíva térbeliséget is érzékeltethet síkbeli képen.;1;2;Művészet
+Mozart a 21. században született.;0;1;Művészet
+A szonett hagyományos formájában tizennégy soros vers.;1;4;Művészet
+A hegedű vonós hangszer.;1;1;Zene
+A zongora kizárólag fúvással szólaltatható meg.;0;1;Zene
+Egy oktáv hangköze két azonos nevű hang között is létrejöhet.;1;2;Zene
+A kottában az ütemmutató a ritmikai beosztással kapcsolatos.;1;3;Zene
+A metronóm segít az egyenletes tempó tartásában.;1;2;Zene
+A dob minden esetben dallamhangszer.;0;2;Zene
+A forte zenei jelzés halk előadást jelent.;0;2;Zene
+A kórus több énekesből áll.;1;1;Zene
+A klasszikus gitár általában hat húros.;1;2;Zene
+A félhang két egész hangból áll.;0;3;Zene
+Egy labdarúgócsapat egyszerre legfeljebb 11 játékossal lehet a pályán.;1;2;Sport
+A kosárlabdában egy sikeres büntetődobás egy pontot ér.;1;2;Sport
+A maratoni futás távja pontosan 40 kilométer.;0;2;Sport
+A teniszben az adogatás a játék része.;1;1;Sport
+Az úszásnál a pillangó egy versenyúszásnem.;1;2;Sport
+A röplabdában a hálót kézzel le kell ütni a pontszerzéshez.;0;1;Sport
+A sakkban a huszár L alakban lép.;1;2;Sport
+Az olimpiai ötkarika öt földrészt jelképez.;1;3;Sport
+Az atlétikában a távolugrás dobószám.;0;2;Sport
+A kerékpározás kizárólag beltéri sport lehet.;0;1;Sport
+A kovász segíthet a kenyértészta megkelesztésében.;1;2;Gasztronómia
+A majonéz hagyományos alapanyagai között tojássárgája és olaj is szerepel.;1;2;Gasztronómia
+A karamellizálódás során a cukor hő hatására átalakul.;1;3;Gasztronómia
+A só minden esetben elpusztítja az ételben található összes mikroorganizmust.;0;3;Gasztronómia
+A rizs gabonaféle.;1;1;Gasztronómia
+A paradicsom botanikai értelemben termés.;1;3;Gasztronómia
+A főzéshez használt élesztő baktérium.;0;3;Gasztronómia
+A hűtés lassíthatja az élelmiszerek romlását.;1;2;Gasztronómia
+A pasztőrözés hőkezelési eljárás.;1;3;Gasztronómia
+A nyers csirkehús tárolható korlátlan ideig szobahőmérsékleten.;0;1;Gasztronómia
+A GPS műholdak jeleit használhatja helymeghatározásra.;1;2;Technológia
+A QR-kód kizárólag hangot tárolhat.;0;1;Technológia
+A napelem fényből villamos energiát állíthat elő.;1;2;Technológia
+A Bluetooth vezeték nélküli kommunikációra használható.;1;1;Technológia
+Egy lítiumion-akkumulátor újratölthető.;1;2;Technológia
+A 3D nyomtató minden esetben tintát juttat papírra.;0;1;Technológia
+Az optikai szál fény segítségével továbbíthat információt.;1;3;Technológia
+A hőszivattyú működéséhez szükségszerűen földgázt kell égetni.;0;3;Technológia
+A szélgenerátor forgó része villamosenergia-termeléshez használható.;1;2;Technológia
+Az NFC kizárólag több kilométeres távolságban működik.;0;2;Technológia
+A C# nyelvben a bool típus logikai értékeket tárol.;1;1;Programozás
+A C# nyelvben az int típus kizárólag szöveg tárolására szolgál.;0;1;Programozás
+A for ciklus alkalmas ismétlésre.;1;1;Programozás
+Egy függvénynek minden programnyelvben kötelező pontosan két paramétere legyen.;0;2;Programozás
+A C# nyelvben a string objektumok megváltoztathatatlanok.;1;3;Programozás
+A C# nyelvben a foreach ciklus csak egész számokon használható.;0;2;Programozás
+A C# nyelvben egy osztályból több objektum is létrehozható.;1;2;Programozás
+A LINQ Where művelete szűrésre használható.;1;3;Programozás
+A try blokk után a catch blokk minden esetben kötelező C# nyelvben.;0;4;Programozás
+A C# nyelvben a yield return elemenként adhat vissza értékeket egy iterátorból.;1;4;Programozás
+A HTTP GET kérés gyakran adatok lekérésére szolgál.;1;2;Webfejlesztés
+A CSS a weboldalak megjelenésének alakítására szolgál.;1;1;Webfejlesztés
+A HTML önmagában relációs adatbázis-kezelő rendszer.;0;1;Webfejlesztés
+A HTTPS titkosított kapcsolatot használ.;1;2;Webfejlesztés
+Az URL és az IP-cím minden esetben ugyanaz a karakterlánc.;0;2;Webfejlesztés
+A JavaScript képes a böngészőben futni.;1;1;Webfejlesztés
+A 404 HTTP állapotkód általában azt jelenti hogy a kért erőforrás nem található.;1;2;Webfejlesztés
+A POST kérés törzse hordozhat űrlapadatokat.;1;2;Webfejlesztés
+Az SQL kizárólag képek átméretezésére szolgál.;0;1;Webfejlesztés
+A süti a böngészőben tárolható kis adat.;1;2;Webfejlesztés
+Egy erős egyedi jelszó csökkentheti a fiók feltörésének kockázatát.;1;2;Informatikai biztonság
+A kétlépcsős azonosításnál mindig ugyanazt a jelszót kell kétszer beírni.;0;2;Informatikai biztonság
+Az adathalász üzenet megtévesztéssel próbálhat adatot szerezni.;1;2;Informatikai biztonság
+A nyilvános Wi-Fi önmagában garantálja a forgalom titkosságát.;0;3;Informatikai biztonság
+A biztonsági mentés segíthet adatvesztés után.;1;1;Informatikai biztonság
+Az alkalmazások frissítése javíthat ismert biztonsági hibákat.;1;2;Informatikai biztonság
+Egy fájl kiterjesztése önmagában bizonyítja hogy a fájl ártalmatlan.;0;3;Informatikai biztonság
+A titkosítás megfelelő kulcs nélkül nehezítheti az adatok elolvasását.;1;3;Informatikai biztonság
+A jelszókezelő csak akkor működik ha mindenhol azonos jelszót használunk.;0;2;Informatikai biztonság
+A digitális aláírás alkalmas lehet az üzenet eredetének ellenőrzésére.;1;4;Informatikai biztonság
+A fák fotoszintézis közben szén-dioxidot vesznek fel.;1;2;Környezet
+Az üvegházhatású gázok befolyásolják a Föld hőháztartását.;1;2;Környezet
+Az újrahasznosítás minden esetben megszünteti a hulladékkeletkezést.;0;3;Környezet
+A komposztálás szerves hulladék kezelésére használható.;1;2;Környezet
+A biodiverzitás az élővilág sokféleségével kapcsolatos.;1;3;Környezet
+Az ózonréteg főként a földfelszínen található folyékony réteg.;0;2;Környezet
+A szél megújuló energiaforrás.;1;1;Környezet
+A savas eső kialakulásában légszennyező anyagok is szerepet játszhatnak.;1;3;Környezet
+A műanyag hulladék minden típusa néhány óra alatt lebomlik a természetben.;0;1;Környezet
+A talajerózió a termőréteg elvesztésével járhat.;1;3;Környezet
+A magyar nyelvben a főnév megnevezhet személyt.;1;1;Nyelv és kommunikáció
+A kérdő mondat végére magyar helyesírás szerint rendszerint kérdőjel kerül.;1;1;Nyelv és kommunikáció
+A szinonimák jelentése mindig teljesen ellentétes.;0;2;Nyelv és kommunikáció
+Az anyanyelv és az állampolgárság minden embernél szükségszerűen megegyezik.;0;2;Nyelv és kommunikáció
+A beszédhang és az írott betű ugyanaz a fogalom.;0;2;Nyelv és kommunikáció
+A többjelentésű szó különböző szövegkörnyezetekben eltérő jelentést kaphat.;1;3;Nyelv és kommunikáció
+A kommunikáció kizárólag szóban történhet.;0;1;Nyelv és kommunikáció
+A vessző írásjel.;1;1;Nyelv és kommunikáció
+A metafora hasonlóságon alapuló névátvitel lehet.;1;4;Nyelv és kommunikáció
+A palindrom visszafelé olvasva is ugyanúgy olvasható szöveg vagy szó lehet.;1;3;Nyelv és kommunikáció
+Ha minden macska emlős és Cirmi macska akkor Cirmi emlős.;1;2;Logika
+Egy állítás és tagadása egyszerre igaz lehet a klasszikus logikában.;0;3;Logika
+Ha egy szám osztható néggyel akkor osztható kettővel is.;1;2;Logika
+Ha egy szám osztható kettővel akkor biztosan osztható néggyel is.;0;2;Logika
+A VAGY logikai művelet akkor is igaz lehet ha mindkét bemenet igaz.;1;3;Logika
+Az ÉS művelet igaz eredményéhez elegendő pontosan az egyik bemenet igazsága.;0;2;Logika
+Egyetlen ellenpélda megcáfolhat egy általános állítást.;1;3;Logika
+A két egymást kizáró esemény szükségszerűen független is.;0;4;Logika
+A kettős tagadás a klasszikus logikában visszaadja az eredeti állítást.;1;4;Logika
+Ha A következik B-ből akkor B is mindig következik A-ból.;0;4;Logika

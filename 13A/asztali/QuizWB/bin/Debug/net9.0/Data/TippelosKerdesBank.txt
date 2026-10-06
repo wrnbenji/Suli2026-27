@@ -1,0 +1,200 @@
+Mennyi 7 szor 8?;56;1;0;Matematika
+Hány fokos egy derékszög?;90;1;0;Matematika
+Hány fok egy teljes kör?;360;1;0;Matematika
+Hány oldala van egy szabályos hatszögnek?;6;1;0;Matematika
+Mennyi 12 négyzete?;144;2;0;Matematika
+Mennyi 2 a tizediken?;1024;3;0;Matematika
+Mennyi a 20 százaléka 350-nek?;70;2;0;Matematika
+Hány éle van egy kockának?;12;2;0;Matematika
+Hány különböző kézfogás lehetséges öt ember között ha minden pár egyszer fog kezet?;10;3;0;Matematika
+Mennyi az első tíz pozitív egész szám összege?;55;3;0;Matematika
+Hány lapja van egy kockának?;6;1;0;Geometria
+Hány csúcsa van egy kockának?;8;2;0;Geometria
+Hány fok egy síkbeli háromszög belső szögeinek összege?;180;1;0;Geometria
+Hány átlója van egy négyszögnek?;2;2;0;Geometria
+Hány oldala van egy tízszögnek?;10;1;0;Geometria
+Hány fok egy szabályos hatszög egyik belső szöge?;120;3;0;Geometria
+Hány négyzetcentiméter egy 5 cm oldalú négyzet területe?;25;2;0;Geometria
+Hány centiméter egy 3 cm sugarú kör átmérője?;6;1;0;Geometria
+Hány átló húzható egy ötszögben összesen?;5;4;0;Geometria
+Hány éle van egy négyzet alapú gúlának?;8;3;0;Geometria
+Hány bolygó van a Naprendszerben a jelenlegi besorolás szerint?;8;1;0;Csillagászat
+Hány természetes holdja van a Földnek?;1;1;0;Csillagászat
+Hány napos közelítőleg egy földi év?;365;1;1;Csillagászat
+Hány óra alatt fordul körülbelül egyszer a Föld a tengelye körül?;24;1;0;Csillagászat
+Hány perc alatt ér a Nap fénye körülbelül a Földre?;8;3;15;Csillagászat
+Körülbelül hány millió kilométer a Föld és a Nap átlagos távolsága?;150;3;5;Csillagászat
+Körülbelül hány kilométer a Hold átlagos távolsága a Földtől?;384400;4;5;Csillagászat
+Hány percívből áll egy fok?;60;2;0;Csillagászat
+Körülbelül hány kilométer a fény által egy másodperc alatt vákuumban megtett út?;300000;3;2;Csillagászat
+Körülbelül hány földi napig tart a Hold sziderikus keringése a Föld körül?;27;4;5;Csillagászat
+Hány kontinens van a széles körben használt hétkontinenses felosztás szerint?;7;2;0;Földrajz
+Körülbelül hány kilométer a Föld egyenlítői kerülete?;40075;4;3;Földrajz
+Körülbelül hány négyzetkilométer Magyarország területe?;93030;3;5;Földrajz
+Körülbelül hány méter magas a Mount Everest tengerszint feletti magassága?;8849;4;2;Földrajz
+Hány ország határos Magyarországgal?;7;2;0;Földrajz
+Hány óceánt különböztetnek meg általában a mai földrajzi felosztásban?;5;2;0;Földrajz
+Körülbelül hány kilométer hosszú a Balaton?;77;3;10;Földrajz
+Hány fokos az Egyenlítő földrajzi szélessége?;0;2;0;Földrajz
+Hány fokos a kezdő délkör földrajzi hosszúsága?;0;2;0;Földrajz
+Körülbelül hány kilométer a Duna teljes hossza?;2850;4;5;Földrajz
+Hány vármegye van Magyarországon Budapest nélkül?;19;2;0;Magyarország
+Hány kerülete van Budapestnek?;23;2;0;Magyarország
+Hány méter magas a Kékes a jelenleg szokásosan megadott érték szerint?;1014;3;0;Magyarország
+Hány évben volt a mohácsi csata?;1526;2;0;Magyarország
+Hány évben kezdődött az 1848-as forradalom?;1848;1;0;Magyarország
+Hány évben írták alá a trianoni békeszerződést?;1920;2;0;Magyarország
+Hány évben csatlakozott Magyarország az Európai Unióhoz?;2004;2;0;Magyarország
+Hány évben volt a magyarországi rendszerváltás jelképes köztársaságkikiáltása?;1989;3;0;Magyarország
+Hány évben volt az első modern kori nyári olimpia?;1896;3;0;Magyarország
+Hány évben alapították a Magyar Tudományos Akadémiát?;1825;4;0;Magyarország
+Melyik évben kezdődött az első világháború?;1914;1;0;Történelem
+Melyik évben ért véget az első világháború?;1918;1;0;Történelem
+Melyik évben kezdődött a második világháború?;1939;1;0;Történelem
+Melyik évben ért véget a második világháború?;1945;1;0;Történelem
+Melyik évben omlott le a berlini fal?;1989;2;0;Történelem
+Melyik évben ért el Kolumbusz első útja a Karib-térségbe?;1492;2;0;Történelem
+Melyik évben volt a francia forradalom kezdete?;1789;3;0;Történelem
+Melyik évben ért véget a Nyugatrómai Birodalom hagyományos korszakolás szerint?;476;4;0;Történelem
+Melyik évben volt a tatárjárás kezdete Magyarországon?;1241;3;0;Történelem
+Melyik évben kezdődött az 1956-os magyar forradalom?;1956;1;0;Történelem
+Hány méter egy kilométer?;1000;1;0;Fizika
+Hány másodperc egy óra?;3600;2;0;Fizika
+Hány Celsius-fok a víz fagyáspontja normál légnyomáson?;0;1;0;Fizika
+Hány Celsius-fok a víz forráspontja normál légnyomáson?;100;1;0;Fizika
+Körülbelül hány méter per másodperc a hang sebessége 20 Celsius-fokos levegőben?;343;3;5;Fizika
+Körülbelül hány méter per másodperc négyzet a nehézségi gyorsulás a Föld felszínén?;9,81;3;3;Fizika
+Hány joule egy kilojoule?;1000;2;0;Fizika
+Hány watt egy kilowatt?;1000;1;0;Fizika
+Hány pascal egy kilopascal?;1000;2;0;Fizika
+Hány volt a névleges hálózati feszültség Magyarországon egy fázis és a nulla között?;230;2;0;Fizika
+Hány protonja van a hidrogén leggyakoribb izotópja atommagjának?;1;1;0;Kémia
+Hány protonja van a szén atommagjának?;6;2;0;Kémia
+Hány protonja van az oxigén atommagjának?;8;2;0;Kémia
+Hány atom alkot egy vízmolekulát?;3;1;0;Kémia
+Hány atom alkot egy szén-dioxid-molekulát?;3;1;0;Kémia
+Mennyi a nátrium rendszáma a periódusos rendszerben?;11;2;0;Kémia
+Hány elektronja van egy semleges héliumatomnak?;2;2;0;Kémia
+Hány a semleges tiszta víz pH-értéke körülbelül 25 Celsius-fokon?;7;2;0;Kémia
+Hány gramm egy mól szén-12 atom tömege definíciós közelítésben?;12;3;0;Kémia
+Körülbelül hány százaléka a száraz levegőnek a nitrogén térfogat szerint?;78;3;3;Kémia
+Hány kromoszóma található egy átlagos emberi testi sejt sejtmagjában?;46;2;0;Biológia
+Hány kromoszóma található egy emberi petesejt sejtmagjában?;23;2;0;Biológia
+Hány ürege van az emberi szívnek?;4;1;0;Biológia
+Hány pár bordája van általában az embernek?;12;2;0;Biológia
+Hány csont van a felnőtt emberi csontvázban a hagyományos számolás szerint?;206;3;0;Biológia
+Hány tejfoga van általában a teljes tejfogazatú gyermeknek?;20;2;0;Biológia
+Hány maradó foga lehet egy teljes fogazatú felnőttnek a bölcsességfogakkal együtt?;32;2;0;Biológia
+Hány bázistípus alkotja a DNS-t?;4;2;0;Biológia
+Hány pár kromoszómája van az átlagos emberi testi sejtnek?;23;2;0;Biológia
+Körülbelül hány napos az emberi terhesség a megtermékenyüléstől számítva?;266;4;5;Biológia
+Hány lába van egy póknak?;8;1;0;Állatvilág
+Hány lába van egy rovarnak?;6;1;0;Állatvilág
+Hány szárnya van egy tipikus pillangónak?;4;2;0;Állatvilág
+Hány karja van egy polipnak?;8;1;0;Állatvilág
+Hány gyomorrésze van a szarvasmarhának?;4;3;0;Állatvilág
+Hány lába van egy rákfélékhez tartozó tipikus tízlábú ráknak?;10;3;0;Állatvilág
+Körülbelül hány napig tart egy házimacska vemhessége?;63;3;10;Állatvilág
+Körülbelül hány napig tart egy házikutya vemhessége?;63;3;10;Állatvilág
+Hány pár szárnya van általában a méheknek?;2;3;0;Állatvilág
+Hány ujja van egy tipikus kutya hátsó mancsának a farkaskarom nélkül?;4;3;0;Állatvilág
+Hány sziklevele van a kétszikűek magjának?;2;1;0;Növényvilág
+Hány sziklevele van az egyszikűek magjának?;1;1;0;Növényvilág
+Hány szirmú általában egy vadrózsa virága?;5;2;0;Növényvilág
+Hány sejtje keletkezik egy sejt két egymást követő mitózisa után ideális esetben?;4;3;0;Növényvilág
+Hány sejtből áll egy tipikus baktérium egyed?;1;2;0;Növényvilág
+Körülbelül hány méter magasra nőhet egy napraforgó gyakori termesztési körülmények között?;2;3;50;Növényvilág
+Körülbelül hány nap alatt csírázik ki a zsázsa megfelelő körülmények között?;3;3;34;Növényvilág
+Körülbelül hány százalék oxigén van a levegőben térfogat szerint amit a növények is felhasználnak?;21;2;5;Növényvilág
+Hány levélkéje van általában a lóhere háromlevelű változatának?;3;1;0;Növényvilág
+Körülbelül hány nap alatt érik be a retek egy gyors növekedésű fajtája a vetéstől?;30;3;20;Növényvilág
+Hány játékosból áll egy labdarúgócsapat a pályán teljes létszámmal?;11;1;0;Sport
+Hány pont egy büntetődobás a kosárlabdában?;1;1;0;Sport
+Hány pont egy kosárlabda hárompontos területről dobott kosara?;3;1;0;Sport
+Hány gyűrűből áll az olimpiai jelkép?;5;1;0;Sport
+Hány méter az olimpiai szabadtéri úszómedence hossza?;50;2;0;Sport
+Hány méter egy maraton hivatalos távja?;42195;3;0;Sport
+Hány játékos van egy röplabdacsapatból egyszerre a pályán?;6;2;0;Sport
+Hány játékos van egy kézilabdacsapatból egyszerre a pályán?;7;2;0;Sport
+Hány szett kell általában a győzelemhez egy ötjátszmás férfi Grand Slam teniszmérkőzésen?;3;3;0;Sport
+Hány méter a szabadtéri atlétikai futópálya egy körének szabványos hossza a belső sávban?;400;3;0;Sport
+Hány vonalból áll egy ötvonalas kottarendszer?;5;1;0;Zene
+Hány félhangból áll egy oktáv az egyenletes temperálásban?;12;3;0;Zene
+Hány húrja van általában egy klasszikus gitárnak?;6;1;0;Zene
+Hány húrja van egy hegedűnek?;4;1;0;Zene
+Hány billentyűje van egy szabványos koncertzongorának?;88;3;0;Zene
+Hány hangból áll a hagyományos diatonikus skála egy oktávon belül az ismételt alaphang nélkül?;7;3;0;Zene
+Hány negyedből áll egy egész kotta ritmusértéke?;4;2;0;Zene
+Hány nyolcad értékével egyenlő egy félkotta?;4;3;0;Zene
+Hány ütemet játszik a metronóm percenként ha 120 BPM-re állítják?;120;2;0;Zene
+Hány szólam szerepel a hagyományos SATB vegyeskari beosztásban?;4;3;0;Zene
+Hány sorból áll a hagyományos szonett?;14;3;0;Irodalom
+Hány éneke van az Isteni színjáték teljes művének?;100;5;0;Irodalom
+Hány könyvből áll A Gyűrűk Ura kiadásokban megszokott három kötete?;3;2;0;Irodalom
+Hány részből áll a Harry Potter fő regénysorozata?;7;2;0;Irodalom
+Melyik évben született Petőfi Sándor?;1823;3;0;Irodalom
+Melyik évben született Arany János?;1817;4;0;Irodalom
+Melyik évben jelent meg először Az ember tragédiája?;1861;5;0;Irodalom
+Melyik évben született József Attila?;1905;3;0;Irodalom
+Melyik évben jelent meg az Egri csillagok regényként?;1901;5;0;Irodalom
+Hány kötetben jelent meg A Pál utcai fiúk regény első önálló könyvkiadása?;1;2;0;Irodalom
+Hány bitből áll egy bájt?;8;1;0;Informatika
+Hány bájt egy kibibájt?;1024;3;0;Informatika
+Hány bit egy IPv4-cím?;32;2;0;Informatika
+Hány bit egy IPv6-cím?;128;3;0;Informatika
+Hány eleme van egy 0-tól 9-ig indexelt tízelemű tömbnek?;10;1;0;Informatika
+Mi a 255 decimális szám hexadecimális FF alakjának értéke tízes számrendszerben?;255;2;0;Informatika
+Hány szimbólum van a kettes számrendszerben?;2;1;0;Informatika
+Hányféle különböző érték ábrázolható 8 bittel előjel nélkül?;256;3;0;Informatika
+Hány a HTTPS alapértelmezett TCP-portja?;443;3;0;Informatika
+Hány a DNS hagyományos portszáma?;53;3;0;Informatika
+Hány elemet jár be egy C# for ciklus ha i nulla értékről indul és addig fut amíg i kisebb mint 10 és minden körben eggyel nő?;10;2;0;Programozás
+Mennyi a C# 7 / 2 egész osztás eredménye két int operandussal?;3;2;0;Programozás
+Mennyi a C# 7 % 2 kifejezés értéke?;1;2;0;Programozás
+Hány karakter hosszú a C# programban a HELLO szöveg a Length tulajdonság szerint?;5;1;0;Programozás
+Hány indexű a C# tömb első eleme?;0;1;0;Programozás
+Hány értéket tartalmaz a new int[5] tömb?;5;2;0;Programozás
+Hány alkalommal hajtódik végre a do-while törzse legalább?;1;2;0;Programozás
+Hány értéket ad vissza a Enumerable.Range(2, 4) sorozat?;4;3;0;Programozás
+Mennyi a 0b1010 bináris egész literál értéke tízes számrendszerben C# nyelvben?;10;3;0;Programozás
+Hány karakter a C# üres string Length értéke?;0;2;0;Programozás
+Hány gramm egy kilogramm?;1000;1;0;Ételek
+Hány milliliter egy liter?;1000;1;0;Ételek
+Hány Celsius-fokon forr a víz normál légnyomáson?;100;1;0;Ételek
+Hány perc egy óra sütési idő?;60;1;0;Ételek
+Körülbelül hány gramm egy evőkanál kristálycukor általános konyhai átváltásban?;12;3;25;Ételek
+Körülbelül hány gramm egy evőkanál víz?;15;2;10;Ételek
+Hány gramm só van 2 kilogramm pontosan 1 százalékos tömegarányú sóoldatban?;20;4;0;Ételek
+Körülbelül hány Celsius-fokon tartják a háztartási hűtő középső terét?;4;2;50;Ételek
+Hány darab tojásból áll egy tucat tojás?;12;1;0;Ételek
+Körülbelül hány percig főzzük a kemény tojást forrásban lévő vízben átlagos méret esetén?;10;2;20;Ételek
+Körülbelül hány százaléka a Föld felszínének vízzel borított?;71;3;5;Környezet
+Körülbelül hány százalék oxigén van a száraz levegőben térfogat szerint?;21;2;5;Környezet
+Körülbelül hány százalék nitrogén van a száraz levegőben térfogat szerint?;78;2;3;Környezet
+Hány liter víz egy köbméter?;1000;1;0;Környezet
+Körülbelül hány kilogramm egy köbméter tiszta víz tömege szobahőmérsékleten?;998;3;1;Környezet
+Hány fokos a Föld forgástengelyének dőlése az ekliptika síkjára állított merőlegeshez képest közelítőleg?;23.5;4;5;Környezet
+Körülbelül hány nap kell a Föld egy Nap körüli teljes keringéséhez?;365;2;1;Környezet
+Hány hónapból áll egy naptári év?;12;1;0;Környezet
+Hány év egy évtized?;10;1;0;Környezet
+Hány év egy évszázad?;100;1;0;Környezet
+Hány volt a névleges hálózati feszültség egy fázis és a nulla között Magyarországon?;230;2;0;Technológia
+Hány fázisa van egy háromfázisú villamos rendszernek?;3;1;0;Technológia
+Hány watt egy 2 kilowattos készülék névleges teljesítménye?;2000;2;0;Technológia
+Hány wattóra energiát használ egy 100 wattos izzó 3 óra alatt névlegesen?;300;3;0;Technológia
+Hány méter egy 5 kilométeres optikai kábel?;5000;2;0;Technológia
+Hány fokos szög egy negyedfordulat?;90;1;0;Technológia
+Hány másodperc egy perc?;60;1;0;Technológia
+Hány watt egy 10 wattos LED névleges teljesítménye?;10;1;0;Technológia
+Hány voltos egy 1.5 volt névleges feszültségű AA elem?;1.5;2;0;Technológia
+Körülbelül hány százalék hatásfokú egy 90 százalékosnak megadott tápegység?;90;1;0;Technológia
+Hány másodperc egy perc?;60;1;0;Idő és naptár
+Hány perc egy nap?;1440;2;0;Idő és naptár
+Hány másodperc egy nap?;86400;3;0;Idő és naptár
+Hány napos egy szökőév a Gergely-naptárban?;366;2;0;Idő és naptár
+Hány hónapos egy év?;12;1;0;Idő és naptár
+Hány napos egy hét?;7;1;0;Idő és naptár
+Hány órás egy nap?;24;1;0;Idő és naptár
+Hány év egy évezred?;1000;2;0;Idő és naptár
+Hány évből áll egy évtized?;10;1;0;Idő és naptár
+Hány napos február egy szökőévben?;29;2;0;Idő és naptár

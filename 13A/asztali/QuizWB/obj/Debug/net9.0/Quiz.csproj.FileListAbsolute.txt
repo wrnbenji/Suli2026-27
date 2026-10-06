@@ -1,0 +1,17 @@
+/Users/benjaminwaron/Downloads/Quiz/bin/Debug/net9.0/Quiz
+/Users/benjaminwaron/Downloads/Quiz/bin/Debug/net9.0/Data/FeleletValasztosKerdesBank.txt
+/Users/benjaminwaron/Downloads/Quiz/bin/Debug/net9.0/Data/IgazHamisKerdesBank.txt
+/Users/benjaminwaron/Downloads/Quiz/bin/Debug/net9.0/Data/TippelosKerdesBank.txt
+/Users/benjaminwaron/Downloads/Quiz/bin/Debug/net9.0/Quiz.deps.json
+/Users/benjaminwaron/Downloads/Quiz/bin/Debug/net9.0/Quiz.runtimeconfig.json
+/Users/benjaminwaron/Downloads/Quiz/bin/Debug/net9.0/Quiz.dll
+/Users/benjaminwaron/Downloads/Quiz/bin/Debug/net9.0/Quiz.pdb
+/Users/benjaminwaron/Downloads/Quiz/obj/Debug/net9.0/Quiz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benjaminwaron/Downloads/Quiz/obj/Debug/net9.0/Quiz.AssemblyInfoInputs.cache
+/Users/benjaminwaron/Downloads/Quiz/obj/Debug/net9.0/Quiz.AssemblyInfo.cs
+/Users/benjaminwaron/Downloads/Quiz/obj/Debug/net9.0/Quiz.csproj.CoreCompileInputs.cache
+/Users/benjaminwaron/Downloads/Quiz/obj/Debug/net9.0/Quiz.dll
+/Users/benjaminwaron/Downloads/Quiz/obj/Debug/net9.0/refint/Quiz.dll
+/Users/benjaminwaron/Downloads/Quiz/obj/Debug/net9.0/Quiz.pdb
+/Users/benjaminwaron/Downloads/Quiz/obj/Debug/net9.0/Quiz.genruntimeconfig.cache
+/Users/benjaminwaron/Downloads/Quiz/obj/Debug/net9.0/ref/Quiz.dll
