@@ -41,7 +41,7 @@ namespace Quiz.Models
             while (!int.TryParse(Console.ReadLine(), out valasz) || valasz < 1 || valasz > 4)
                 Console.Write("Hibás formátum, 1-4 közötti számot adj meg: ");
 
-            return valasz - 1; // a fajlban 0-tol van az index
+            return valasz - 1; 
         }
 
         protected override byte Ellenorzes(object v)

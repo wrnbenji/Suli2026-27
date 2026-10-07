@@ -34,7 +34,7 @@ namespace Quiz.Models
         {
             while (true)
             {
-                string valasz = (Console.ReadLine() ?? "").Trim().ToLower();
+                string valasz = (Console.ReadLine() ? "").Trim().ToLower();
 
                 if (valasz == "i" || valasz == "igaz" || valasz == "1") return true;
                 else if (valasz == "h" || valasz == "hamis" || valasz == "0") return false;

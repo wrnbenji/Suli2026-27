@@ -25,10 +25,10 @@ namespace Quiz.Models
             Temakor = tomb[4];
         }
 
-        // a fajlban vesszo van (9,81), de pontot is elfogadunk
         static double SzamParse(string s)
         {
-            return double.Parse(s.Trim().Replace(',', '.'), CultureInfo.InvariantCulture);
+            return double.Parse(s.Trim().Replace(',', '.')
+
         }
 
         protected override void Kiiras()

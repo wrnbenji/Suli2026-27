@@ -1,0 +1,15 @@
+D:\users\wb5053\Documents\Suli2026-27\13A\asztali\Kviz\Kviz\bin\Debug\net9.0\Kviz.deps.json
+D:\users\wb5053\Documents\Suli2026-27\13A\asztali\Kviz\Kviz\bin\Debug\net9.0\Kviz.runtimeconfig.json
+D:\users\wb5053\Documents\Suli2026-27\13A\asztali\Kviz\Kviz\bin\Debug\net9.0\Kviz.dll
+D:\users\wb5053\Documents\Suli2026-27\13A\asztali\Kviz\Kviz\bin\Debug\net9.0\Kviz.pdb
+D:\users\wb5053\Documents\Suli2026-27\13A\asztali\Kviz\Kviz\obj\Debug\net9.0\Kviz.csproj.AssemblyReference.cache
+D:\users\wb5053\Documents\Suli2026-27\13A\asztali\Kviz\Kviz\obj\Debug\net9.0\Kviz.GeneratedMSBuildEditorConfig.editorconfig
+D:\users\wb5053\Documents\Suli2026-27\13A\asztali\Kviz\Kviz\obj\Debug\net9.0\Kviz.AssemblyInfoInputs.cache
+D:\users\wb5053\Documents\Suli2026-27\13A\asztali\Kviz\Kviz\obj\Debug\net9.0\Kviz.AssemblyInfo.cs
+D:\users\wb5053\Documents\Suli2026-27\13A\asztali\Kviz\Kviz\obj\Debug\net9.0\Kviz.csproj.CoreCompileInputs.cache
+D:\users\wb5053\Documents\Suli2026-27\13A\asztali\Kviz\Kviz\obj\Debug\net9.0\Kviz.sourcelink.json
+D:\users\wb5053\Documents\Suli2026-27\13A\asztali\Kviz\Kviz\obj\Debug\net9.0\Kviz.dll
+D:\users\wb5053\Documents\Suli2026-27\13A\asztali\Kviz\Kviz\obj\Debug\net9.0\refint\Kviz.dll
+D:\users\wb5053\Documents\Suli2026-27\13A\asztali\Kviz\Kviz\obj\Debug\net9.0\Kviz.pdb
+D:\users\wb5053\Documents\Suli2026-27\13A\asztali\Kviz\Kviz\obj\Debug\net9.0\Kviz.genruntimeconfig.cache
+D:\users\wb5053\Documents\Suli2026-27\13A\asztali\Kviz\Kviz\obj\Debug\net9.0\ref\Kviz.dll
