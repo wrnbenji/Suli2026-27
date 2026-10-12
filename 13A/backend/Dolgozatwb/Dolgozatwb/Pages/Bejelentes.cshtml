@@ -1,0 +1,32 @@
+﻿@page
+@model Dolgozatwb.Pages.BejelentesModel
+@{
+}
+
+<form method="post">
+    @Html.AntiForgeryToken() 
+
+
+     <label>Bejelntő neve</label>
+    <input type="text" asp-for="UjBejelentes.BejelentoNeve" name="BejelentoNeve" id="BejelentoNeve" />
+    <label>Email</label>
+    <input type="email" asp-for="UjBejelentes.Email" name="Email" id="Email" />
+    <label for="Eszkoztipus">EszközTípus</label>
+    <select name="EszkozTipus" asp-for="UjBejelentes.EszkozTipus">
+        <option value="Laptop">Laptop</option>
+        
+        <option value="AsztaliSzamitogep">Asztali számítógép</option>
+        <option value="Monitor">Monitor</option>
+        <option value="Nyomtato">Nyomtató</option>
+        <option value="Egyeb">Egyéb</option>
+    </select>
+    <label for="HibaLeiras">HibaLeiras</label>
+    <input type="text" name="HibaLeiras" id="HibaLeiras" asp-for="UjBejelentes.HibaLeiras" />
+    <label for="Surgos">Surgos</label>
+    <input type="checkbox" name="Surgos" id="Surgos" value="true" asp-for="UjBejelentes.Surgos" />
+
+    <input type="submit" value="bekuldes" href="Pages/Bejelentesek" />
+
+
+</form>
+

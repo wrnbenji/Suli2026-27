@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\backend\\Mozi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6673A485-ED39-4571-A05D-41472AFF119F}|Mozi\\Mozi.csproj|d:\\users\\wb5053\\documents\\suli2026-27\\13a\\backend\\mozi\\mozi\\models\\kiado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6673A485-ED39-4571-A05D-41472AFF119F}|Mozi\\Mozi.csproj|solutionrelative:mozi\\models\\kiado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6673A485-ED39-4571-A05D-41472AFF119F}|Mozi\\Mozi.csproj|d:\\users\\wb5053\\documents\\suli2026-27\\13a\\backend\\mozi\\mozi\\pages\\addfilm.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6673A485-ED39-4571-A05D-41472AFF119F}|Mozi\\Mozi.csproj|solutionrelative:mozi\\pages\\addfilm.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{6673A485-ED39-4571-A05D-41472AFF119F}|Mozi\\Mozi.csproj|d:\\users\\wb5053\\documents\\suli2026-27\\13a\\backend\\mozi\\mozi\\models\\filmcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6673A485-ED39-4571-A05D-41472AFF119F}|Mozi\\Mozi.csproj|solutionrelative:mozi\\models\\filmcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6673A485-ED39-4571-A05D-41472AFF119F}|Mozi\\Mozi.csproj|d:\\users\\wb5053\\documents\\suli2026-27\\13a\\backend\\mozi\\mozi\\pages\\addmufaj.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,48 +19,52 @@
       "RelativeMoniker": "D:0:0:{6673A485-ED39-4571-A05D-41472AFF119F}|Mozi\\Mozi.csproj|solutionrelative:mozi\\pages\\addkiado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6673A485-ED39-4571-A05D-41472AFF119F}|Mozi\\Mozi.csproj|d:\\users\\wb5053\\documents\\suli2026-27\\13a\\backend\\mozi\\mozi\\models\\filmmufaj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6673A485-ED39-4571-A05D-41472AFF119F}|Mozi\\Mozi.csproj|solutionrelative:mozi\\models\\filmmufaj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6673A485-ED39-4571-A05D-41472AFF119F}|Mozi\\Mozi.csproj|d:\\users\\wb5053\\documents\\suli2026-27\\13a\\backend\\mozi\\mozi\\models\\filmcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6673A485-ED39-4571-A05D-41472AFF119F}|Mozi\\Mozi.csproj|solutionrelative:mozi\\models\\filmcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6673A485-ED39-4571-A05D-41472AFF119F}|Mozi\\Mozi.csproj|d:\\users\\wb5053\\documents\\suli2026-27\\13a\\backend\\mozi\\mozi\\models\\film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6673A485-ED39-4571-A05D-41472AFF119F}|Mozi\\Mozi.csproj|solutionrelative:mozi\\models\\film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6673A485-ED39-4571-A05D-41472AFF119F}|Mozi\\Mozi.csproj|d:\\users\\wb5053\\documents\\suli2026-27\\13a\\backend\\mozi\\mozi\\pages\\addkiado.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6673A485-ED39-4571-A05D-41472AFF119F}|Mozi\\Mozi.csproj|solutionrelative:mozi\\pages\\addkiado.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6673A485-ED39-4571-A05D-41472AFF119F}|Mozi\\Mozi.csproj|d:\\users\\wb5053\\documents\\suli2026-27\\13a\\backend\\mozi\\mozi\\pages\\addfilm.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6673A485-ED39-4571-A05D-41472AFF119F}|Mozi\\Mozi.csproj|solutionrelative:mozi\\pages\\addfilm.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6673A485-ED39-4571-A05D-41472AFF119F}|Mozi\\Mozi.csproj|d:\\users\\wb5053\\documents\\suli2026-27\\13a\\backend\\mozi\\mozi\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6673A485-ED39-4571-A05D-41472AFF119F}|Mozi\\Mozi.csproj|solutionrelative:mozi\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6673A485-ED39-4571-A05D-41472AFF119F}|Mozi\\Mozi.csproj|d:\\users\\wb5053\\documents\\suli2026-27\\13a\\backend\\mozi\\mozi\\pages\\addkiado.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6673A485-ED39-4571-A05D-41472AFF119F}|Mozi\\Mozi.csproj|solutionrelative:mozi\\pages\\addkiado.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6673A485-ED39-4571-A05D-41472AFF119F}|Mozi\\Mozi.csproj|d:\\users\\wb5053\\documents\\suli2026-27\\13a\\backend\\mozi\\mozi\\pages\\addfilm.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6673A485-ED39-4571-A05D-41472AFF119F}|Mozi\\Mozi.csproj|solutionrelative:mozi\\pages\\addfilm.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6673A485-ED39-4571-A05D-41472AFF119F}|Mozi\\Mozi.csproj|d:\\users\\wb5053\\documents\\suli2026-27\\13a\\backend\\mozi\\mozi\\models\\mufaj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6673A485-ED39-4571-A05D-41472AFF119F}|Mozi\\Mozi.csproj|solutionrelative:mozi\\models\\mufaj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\backend\\Mozi\\Mozi\\Migrations\\20261005113021_frissitesek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mozi\\Migrations\\20261005113021_frissitesek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6673A485-ED39-4571-A05D-41472AFF119F}|Mozi\\Mozi.csproj|d:\\users\\wb5053\\documents\\suli2026-27\\13a\\backend\\mozi\\mozi\\models\\kiado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6673A485-ED39-4571-A05D-41472AFF119F}|Mozi\\Mozi.csproj|solutionrelative:mozi\\models\\kiado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6673A485-ED39-4571-A05D-41472AFF119F}|Mozi\\Mozi.csproj|d:\\users\\wb5053\\documents\\suli2026-27\\13a\\backend\\mozi\\mozi\\models\\filmmufaj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6673A485-ED39-4571-A05D-41472AFF119F}|Mozi\\Mozi.csproj|solutionrelative:mozi\\models\\filmmufaj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6673A485-ED39-4571-A05D-41472AFF119F}|Mozi\\Mozi.csproj|d:\\users\\wb5053\\documents\\suli2026-27\\13a\\backend\\mozi\\mozi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6673A485-ED39-4571-A05D-41472AFF119F}|Mozi\\Mozi.csproj|solutionrelative:mozi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\backend\\Mozi\\Mozi\\Migrations\\20261005105809_tobbAtobbhoz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mozi\\Migrations\\20261005105809_tobbAtobbhoz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6673A485-ED39-4571-A05D-41472AFF119F}|Mozi\\Mozi.csproj|d:\\users\\wb5053\\documents\\suli2026-27\\13a\\backend\\mozi\\mozi\\models\\film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6673A485-ED39-4571-A05D-41472AFF119F}|Mozi\\Mozi.csproj|solutionrelative:mozi\\models\\film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\backend\\Mozi\\Mozi\\Migrations\\20261005094251_Mozi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mozi\\Migrations\\20261005094251_Mozi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6673A485-ED39-4571-A05D-41472AFF119F}|Mozi\\Mozi.csproj|d:\\users\\wb5053\\documents\\suli2026-27\\13a\\backend\\mozi\\mozi\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6673A485-ED39-4571-A05D-41472AFF119F}|Mozi\\Mozi.csproj|solutionrelative:mozi\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6673A485-ED39-4571-A05D-41472AFF119F}|Mozi\\Mozi.csproj|d:\\users\\wb5053\\documents\\suli2026-27\\13a\\backend\\mozi\\mozi\\migrations\\20261005113021_frissitesek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6673A485-ED39-4571-A05D-41472AFF119F}|Mozi\\Mozi.csproj|solutionrelative:mozi\\migrations\\20261005113021_frissitesek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6673A485-ED39-4571-A05D-41472AFF119F}|Mozi\\Mozi.csproj|d:\\users\\wb5053\\documents\\suli2026-27\\13a\\backend\\mozi\\mozi\\migrations\\20261005105809_tobbatobbhoz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6673A485-ED39-4571-A05D-41472AFF119F}|Mozi\\Mozi.csproj|solutionrelative:mozi\\migrations\\20261005105809_tobbatobbhoz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6673A485-ED39-4571-A05D-41472AFF119F}|Mozi\\Mozi.csproj|d:\\users\\wb5053\\documents\\suli2026-27\\13a\\backend\\mozi\\mozi\\migrations\\20261005094251_mozi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6673A485-ED39-4571-A05D-41472AFF119F}|Mozi\\Mozi.csproj|solutionrelative:mozi\\migrations\\20261005094251_mozi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -74,11 +74,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "AddFilm.cshtml.cs",
               "DocumentMoniker": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\backend\\Mozi\\Mozi\\Pages\\AddFilm.cshtml.cs",
               "RelativeDocumentMoniker": "Mozi\\Pages\\AddFilm.cshtml.cs",
@@ -86,12 +86,11 @@
               "RelativeToolTip": "Mozi\\Pages\\AddFilm.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-05T12:23:12.703Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-05T12:23:12.703Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "AddFilm.cshtml",
               "DocumentMoniker": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\backend\\Mozi\\Mozi\\Pages\\AddFilm.cshtml",
               "RelativeDocumentMoniker": "Mozi\\Pages\\AddFilm.cshtml",
@@ -99,12 +98,11 @@
               "RelativeToolTip": "Mozi\\Pages\\AddFilm.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-05T12:21:16.856Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-05T12:21:16.856Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\backend\\Mozi\\Mozi\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "Mozi\\Pages\\Index.cshtml",
@@ -112,38 +110,37 @@
               "RelativeToolTip": "Mozi\\Pages\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-05T12:20:50.278Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-05T12:20:50.278Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "AddMufaj.cshtml.cs",
               "DocumentMoniker": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\backend\\Mozi\\Mozi\\Pages\\AddMufaj.cshtml.cs",
               "RelativeDocumentMoniker": "Mozi\\Pages\\AddMufaj.cshtml.cs",
               "ToolTip": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\backend\\Mozi\\Mozi\\Pages\\AddMufaj.cshtml.cs",
               "RelativeToolTip": "Mozi\\Pages\\AddMufaj.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwBYAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-05T12:17:30.722Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "AddMufaj.cshtml",
               "DocumentMoniker": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\backend\\Mozi\\Mozi\\Pages\\AddMufaj.cshtml",
               "RelativeDocumentMoniker": "Mozi\\Pages\\AddMufaj.cshtml",
               "ToolTip": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\backend\\Mozi\\Mozi\\Pages\\AddMufaj.cshtml",
               "RelativeToolTip": "Mozi\\Pages\\AddMufaj.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-10-05T12:17:28.111Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "20261005113021_frissitesek.cs",
               "DocumentMoniker": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\backend\\Mozi\\Mozi\\Migrations\\20261005113021_frissitesek.cs",
               "RelativeDocumentMoniker": "Mozi\\Migrations\\20261005113021_frissitesek.cs",
@@ -151,31 +148,29 @@
               "RelativeToolTip": "Mozi\\Migrations\\20261005113021_frissitesek.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-05T11:30:21.308Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-05T11:30:21.308Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 4,
               "Title": "AddKiado.cshtml.cs",
               "DocumentMoniker": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\backend\\Mozi\\Mozi\\Pages\\AddKiado.cshtml.cs",
               "RelativeDocumentMoniker": "Mozi\\Pages\\AddKiado.cshtml.cs",
               "ToolTip": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\backend\\Mozi\\Mozi\\Pages\\AddKiado.cshtml.cs",
               "RelativeToolTip": "Mozi\\Pages\\AddKiado.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-05T11:16:10.923Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-05T11:16:10.923Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "AddKiado.cshtml",
               "DocumentMoniker": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\backend\\Mozi\\Mozi\\Pages\\AddKiado.cshtml",
               "RelativeDocumentMoniker": "Mozi\\Pages\\AddKiado.cshtml",
               "ToolTip": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\backend\\Mozi\\Mozi\\Pages\\AddKiado.cshtml",
               "RelativeToolTip": "Mozi\\Pages\\AddKiado.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-10-05T11:16:07.091Z",
               "EditorCaption": ""
@@ -190,12 +185,11 @@
               "RelativeToolTip": "Mozi\\Migrations\\20261005105809_tobbAtobbhoz.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-05T10:58:09.832Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-05T10:58:09.832Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\backend\\Mozi\\Mozi\\Program.cs",
               "RelativeDocumentMoniker": "Mozi\\Program.cs",
@@ -203,12 +197,11 @@
               "RelativeToolTip": "Mozi\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-05T10:54:28.3Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-05T10:54:28.3Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "FilmMufaj.cs",
               "DocumentMoniker": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\backend\\Mozi\\Mozi\\Models\\FilmMufaj.cs",
               "RelativeDocumentMoniker": "Mozi\\Models\\FilmMufaj.cs",
@@ -216,8 +209,7 @@
               "RelativeToolTip": "Mozi\\Models\\FilmMufaj.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-05T10:42:54.819Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-05T10:42:54.819Z"
             },
             {
               "$type": "Document",
@@ -229,25 +221,24 @@
               "RelativeToolTip": "Mozi\\Migrations\\20261005094251_Mozi.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-05T09:42:51.938Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-05T09:42:51.938Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "FilmContext.cs",
               "DocumentMoniker": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\backend\\Mozi\\Mozi\\Models\\FilmContext.cs",
               "RelativeDocumentMoniker": "Mozi\\Models\\FilmContext.cs",
               "ToolTip": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\backend\\Mozi\\Mozi\\Models\\FilmContext.cs",
               "RelativeToolTip": "Mozi\\Models\\FilmContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-05T09:34:26.867Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "Kiado.cs",
               "DocumentMoniker": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\backend\\Mozi\\Mozi\\Models\\Kiado.cs",
               "RelativeDocumentMoniker": "Mozi\\Models\\Kiado.cs",
@@ -255,12 +246,11 @@
               "RelativeToolTip": "Mozi\\Models\\Kiado.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-05T09:33:22.338Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-05T09:33:22.338Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 7,
               "Title": "Mufaj.cs",
               "DocumentMoniker": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\backend\\Mozi\\Mozi\\Models\\Mufaj.cs",
               "RelativeDocumentMoniker": "Mozi\\Models\\Mufaj.cs",
@@ -268,12 +258,11 @@
               "RelativeToolTip": "Mozi\\Models\\Mufaj.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-05T09:31:55.757Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-05T09:31:55.757Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "Film.cs",
               "DocumentMoniker": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\backend\\Mozi\\Mozi\\Models\\Film.cs",
               "RelativeDocumentMoniker": "Mozi\\Models\\Film.cs",
@@ -281,8 +270,7 @@
               "RelativeToolTip": "Mozi\\Models\\Film.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-05T09:30:04.972Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-05T09:30:04.972Z"
             }
           ]
         }

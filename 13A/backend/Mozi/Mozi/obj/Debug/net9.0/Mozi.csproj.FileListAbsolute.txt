@@ -175,7 +175,6 @@ D:\users\wb5053\Documents\Suli2026-27\13A\backend\Mozi\Mozi\obj\Debug\net9.0\sta
 D:\users\wb5053\Documents\Suli2026-27\13A\backend\Mozi\Mozi\obj\Debug\net9.0\staticwebassets.build.json.cache
 D:\users\wb5053\Documents\Suli2026-27\13A\backend\Mozi\Mozi\obj\Debug\net9.0\staticwebassets.development.json
 D:\users\wb5053\Documents\Suli2026-27\13A\backend\Mozi\Mozi\obj\Debug\net9.0\staticwebassets.build.endpoints.json
-D:\users\wb5053\Documents\Suli2026-27\13A\backend\Mozi\Mozi\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 D:\users\wb5053\Documents\Suli2026-27\13A\backend\Mozi\Mozi\obj\Debug\net9.0\Mozi.csproj.Up2Date
 D:\users\wb5053\Documents\Suli2026-27\13A\backend\Mozi\Mozi\obj\Debug\net9.0\Mozi.dll
 D:\users\wb5053\Documents\Suli2026-27\13A\backend\Mozi\Mozi\obj\Debug\net9.0\refint\Mozi.dll

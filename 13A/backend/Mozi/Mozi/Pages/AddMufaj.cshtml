@@ -3,8 +3,9 @@
 @{
 }
 <form method="post">
+    @Html.AntiForgeryToken()
 <label for="Nev">Mufaj Név:</label>
-<input type="text" asp-for="UjMufaj.KiadoNev" name="MufajNev" id="MufajNev" />
+<input type="text" asp-for="UjMufaj.MufajNev" name="MufajNev" id="MufajNev" />
 
 
 

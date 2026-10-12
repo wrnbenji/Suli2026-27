@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\backend\\Dolgozatwb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7370D4FC-105A-4483-A826-9E07028A1813}|Dolgozatwb\\Dolgozatwb.csproj|d:\\users\\wb5053\\documents\\suli2026-27\\13a\\backend\\dolgozatwb\\dolgozatwb\\pages\\bejelentes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7370D4FC-105A-4483-A826-9E07028A1813}|Dolgozatwb\\Dolgozatwb.csproj|solutionrelative:dolgozatwb\\pages\\bejelentes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7370D4FC-105A-4483-A826-9E07028A1813}|Dolgozatwb\\Dolgozatwb.csproj|d:\\users\\wb5053\\documents\\suli2026-27\\13a\\backend\\dolgozatwb\\dolgozatwb\\pages\\bejelentesek.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7370D4FC-105A-4483-A826-9E07028A1813}|Dolgozatwb\\Dolgozatwb.csproj|solutionrelative:dolgozatwb\\pages\\bejelentesek.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7370D4FC-105A-4483-A826-9E07028A1813}|Dolgozatwb\\Dolgozatwb.csproj|d:\\users\\wb5053\\documents\\suli2026-27\\13a\\backend\\dolgozatwb\\dolgozatwb\\pages\\bejelentes.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7370D4FC-105A-4483-A826-9E07028A1813}|Dolgozatwb\\Dolgozatwb.csproj|solutionrelative:dolgozatwb\\pages\\bejelentes.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7370D4FC-105A-4483-A826-9E07028A1813}|Dolgozatwb\\Dolgozatwb.csproj|d:\\users\\wb5053\\documents\\suli2026-27\\13a\\backend\\dolgozatwb\\dolgozatwb\\pages\\bejelentesek.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7370D4FC-105A-4483-A826-9E07028A1813}|Dolgozatwb\\Dolgozatwb.csproj|solutionrelative:dolgozatwb\\pages\\bejelentesek.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7370D4FC-105A-4483-A826-9E07028A1813}|Dolgozatwb\\Dolgozatwb.csproj|d:\\users\\wb5053\\documents\\suli2026-27\\13a\\backend\\dolgozatwb\\dolgozatwb\\models\\bejelentes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7370D4FC-105A-4483-A826-9E07028A1813}|Dolgozatwb\\Dolgozatwb.csproj|solutionrelative:dolgozatwb\\models\\bejelentes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7370D4FC-105A-4483-A826-9E07028A1813}|Dolgozatwb\\Dolgozatwb.csproj|d:\\users\\wb5053\\documents\\suli2026-27\\13a\\backend\\dolgozatwb\\dolgozatwb\\models\\bejelentocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7370D4FC-105A-4483-A826-9E07028A1813}|Dolgozatwb\\Dolgozatwb.csproj|solutionrelative:dolgozatwb\\models\\bejelentocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\backend\\Dolgozatwb\\Dolgozatwb\\Migrations\\20261012112506_fixek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Dolgozatwb\\Migrations\\20261012112506_fixek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7370D4FC-105A-4483-A826-9E07028A1813}|Dolgozatwb\\Dolgozatwb.csproj|d:\\users\\wb5053\\documents\\suli2026-27\\13a\\backend\\dolgozatwb\\dolgozatwb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7370D4FC-105A-4483-A826-9E07028A1813}|Dolgozatwb\\Dolgozatwb.csproj|solutionrelative:dolgozatwb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7370D4FC-105A-4483-A826-9E07028A1813}|Dolgozatwb\\Dolgozatwb.csproj|d:\\users\\wb5053\\documents\\suli2026-27\\13a\\backend\\dolgozatwb\\dolgozatwb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7370D4FC-105A-4483-A826-9E07028A1813}|Dolgozatwb\\Dolgozatwb.csproj|solutionrelative:dolgozatwb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\backend\\Dolgozatwb\\Dolgozatwb\\Migrations\\20261012105614_fix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Dolgozatwb\\Migrations\\20261012105614_fix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\backend\\Dolgozatwb\\Dolgozatwb\\Migrations\\20261012105233_osztaly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Dolgozatwb\\Migrations\\20261012105233_osztaly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20261012112506_fixek.cs",
+              "DocumentMoniker": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\backend\\Dolgozatwb\\Dolgozatwb\\Migrations\\20261012112506_fixek.cs",
+              "RelativeDocumentMoniker": "Dolgozatwb\\Migrations\\20261012112506_fixek.cs",
+              "ToolTip": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\backend\\Dolgozatwb\\Dolgozatwb\\Migrations\\20261012112506_fixek.cs",
+              "RelativeToolTip": "Dolgozatwb\\Migrations\\20261012112506_fixek.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T11:25:06.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\backend\\Dolgozatwb\\Dolgozatwb\\appsettings.json",
+              "RelativeDocumentMoniker": "Dolgozatwb\\appsettings.json",
+              "ToolTip": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\backend\\Dolgozatwb\\Dolgozatwb\\appsettings.json",
+              "RelativeToolTip": "Dolgozatwb\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-12T11:11:00.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bejelentesek.cshtml.cs",
+              "DocumentMoniker": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\backend\\Dolgozatwb\\Dolgozatwb\\Pages\\Bejelentesek.cshtml.cs",
+              "RelativeDocumentMoniker": "Dolgozatwb\\Pages\\Bejelentesek.cshtml.cs",
+              "ToolTip": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\backend\\Dolgozatwb\\Dolgozatwb\\Pages\\Bejelentesek.cshtml.cs",
+              "RelativeToolTip": "Dolgozatwb\\Pages\\Bejelentesek.cshtml.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwBYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T11:10:58.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\backend\\Dolgozatwb\\Dolgozatwb\\Program.cs",
+              "RelativeDocumentMoniker": "Dolgozatwb\\Program.cs",
+              "ToolTip": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\backend\\Dolgozatwb\\Dolgozatwb\\Program.cs",
+              "RelativeToolTip": "Dolgozatwb\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T11:08:15.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bejelentesek.cshtml",
+              "DocumentMoniker": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\backend\\Dolgozatwb\\Dolgozatwb\\Pages\\Bejelentesek.cshtml",
+              "RelativeDocumentMoniker": "Dolgozatwb\\Pages\\Bejelentesek.cshtml",
+              "ToolTip": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\backend\\Dolgozatwb\\Dolgozatwb\\Pages\\Bejelentesek.cshtml",
+              "RelativeToolTip": "Dolgozatwb\\Pages\\Bejelentesek.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-12T11:01:33.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20261012105614_fix.cs",
+              "DocumentMoniker": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\backend\\Dolgozatwb\\Dolgozatwb\\Migrations\\20261012105614_fix.cs",
+              "RelativeDocumentMoniker": "Dolgozatwb\\Migrations\\20261012105614_fix.cs",
+              "ToolTip": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\backend\\Dolgozatwb\\Dolgozatwb\\Migrations\\20261012105614_fix.cs",
+              "RelativeToolTip": "Dolgozatwb\\Migrations\\20261012105614_fix.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T10:56:14.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20261012105233_osztaly.cs",
+              "DocumentMoniker": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\backend\\Dolgozatwb\\Dolgozatwb\\Migrations\\20261012105233_osztaly.cs",
+              "RelativeDocumentMoniker": "Dolgozatwb\\Migrations\\20261012105233_osztaly.cs",
+              "ToolTip": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\backend\\Dolgozatwb\\Dolgozatwb\\Migrations\\20261012105233_osztaly.cs",
+              "RelativeToolTip": "Dolgozatwb\\Migrations\\20261012105233_osztaly.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T10:52:33.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bejelentes.cshtml.cs",
+              "DocumentMoniker": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\backend\\Dolgozatwb\\Dolgozatwb\\Pages\\Bejelentes.cshtml.cs",
+              "RelativeDocumentMoniker": "Dolgozatwb\\Pages\\Bejelentes.cshtml.cs",
+              "ToolTip": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\backend\\Dolgozatwb\\Dolgozatwb\\Pages\\Bejelentes.cshtml.cs",
+              "RelativeToolTip": "Dolgozatwb\\Pages\\Bejelentes.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T10:39:30.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bejelentes.cshtml",
+              "DocumentMoniker": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\backend\\Dolgozatwb\\Dolgozatwb\\Pages\\Bejelentes.cshtml",
+              "RelativeDocumentMoniker": "Dolgozatwb\\Pages\\Bejelentes.cshtml",
+              "ToolTip": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\backend\\Dolgozatwb\\Dolgozatwb\\Pages\\Bejelentes.cshtml",
+              "RelativeToolTip": "Dolgozatwb\\Pages\\Bejelentes.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-12T10:37:47.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BejelentoContext.cs",
+              "DocumentMoniker": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\backend\\Dolgozatwb\\Dolgozatwb\\Models\\BejelentoContext.cs",
+              "RelativeDocumentMoniker": "Dolgozatwb\\Models\\BejelentoContext.cs",
+              "ToolTip": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\backend\\Dolgozatwb\\Dolgozatwb\\Models\\BejelentoContext.cs",
+              "RelativeToolTip": "Dolgozatwb\\Models\\BejelentoContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T10:29:58.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bejelentes.cs",
+              "DocumentMoniker": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\backend\\Dolgozatwb\\Dolgozatwb\\Models\\Bejelentes.cs",
+              "RelativeDocumentMoniker": "Dolgozatwb\\Models\\Bejelentes.cs",
+              "ToolTip": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\backend\\Dolgozatwb\\Dolgozatwb\\Models\\Bejelentes.cs*",
+              "RelativeToolTip": "Dolgozatwb\\Models\\Bejelentes.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T10:25:18.743Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -19,14 +19,11 @@ namespace Mozi.Pages
         {
 
 
-            Console.WriteLine(Mufaj.MufajNev);
-            _cont.kidadok.Add(Mufaj);
+            Console.WriteLine(UjMufaj.MufajNev);
+            _cont.mufajok.Add(UjMufaj);
             _cont.SaveChanges();
 
 
-        }
-        public void OnGet()
-        {
         }
     }
 }

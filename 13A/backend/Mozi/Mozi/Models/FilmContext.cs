@@ -18,7 +18,7 @@ namespace Mozi.Models
             modelBuilder.Entity<FilmMufaj>().HasKey(fm => new { fm.FilmId, fm.MufajId });
         }
 
-         public DbSet<Film> filmek {  get; set; }
+        public DbSet<Film> filmek {  get; set; }
         public DbSet<Kiado> kidadok { get; set; }
         public DbSet<Mufaj> mufajok { get; set; }
     }

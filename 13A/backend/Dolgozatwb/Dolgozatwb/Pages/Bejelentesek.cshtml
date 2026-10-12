@@ -1,0 +1,27 @@
+﻿@page
+@model Dolgozatwb.Pages.BejelentesekModel
+<table border="1">
+
+    <tr>
+        <td>Bejelento Neve</td>
+        <td>Email</td>
+        <td>Eszköz típus</td>
+        
+        <td>Hibaleiras</td>
+        <td>Surgosseg</td>
+        <td>Bejelentés idopontja</td>
+
+    </tr>
+    <tr>
+        @for(int i= 0; i < Model.UjBejelentesek.Count; i++)
+        {
+         <td>@Model.UjBejelentesek[i].BejelentoNeve</td>
+            <td>@Model.UjBejelentesek[i].Email</td>
+            <td>@Model.UjBejelentesek[i].EszkozTipus</td>
+            <td>@Model.UjBejelentesek[i].HibaLeiras</td>
+            <td>@Model.UjBejelentesek[i].Surgos</td>
+            <td>@Model.UjBejelentesek[i].BejelentesDatuma</td>
+        }
+    </tr>
+</table>
+
