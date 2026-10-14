@@ -40,7 +40,7 @@ public class FelValKerdes : Kerdes, IKerdes
 
     public override byte Ellenorzes(object v)
     {
-        if (int.Parse(v.ToString()) == HelyesValaszIndex)
+        if (int.TryParse(v?.ToString(), out int valasz) && valasz - 1 == HelyesValaszIndex)
         {
             
             return Pontszam;

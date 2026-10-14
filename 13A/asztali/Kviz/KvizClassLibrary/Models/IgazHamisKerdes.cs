@@ -15,7 +15,7 @@ public class IgazHamisKerdes : Kerdes, IKerdes
     public override byte Ellenorzes(object v)
     {
         bool ih;
-        if (v == "I")
+        if (v?.ToString()?.Trim().ToUpper() == "I")
             ih = true;
         else
         {

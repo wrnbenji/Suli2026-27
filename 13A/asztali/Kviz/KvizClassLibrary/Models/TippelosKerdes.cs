@@ -7,17 +7,17 @@ public class TippelosKerdes : Kerdes, IKerdes
 {
     public List<TippelosKerdes> TippelosKerdesek = new List<TippelosKerdes>();
     [Column("helyes_valasz")]
-    public double HelyesValasz { get; set; }
+    public decimal HelyesValasz { get; set; }
     
     [Column("tolerancia_szazalek")]
-    public byte SzazalekElteres { get; set; }
+    public decimal SzazalekElteres { get; set; }
     
     public string Temakor { get; set; }
     
     public override byte Ellenorzes(object v)
     {
-        double tipp = double.Parse(v.ToString());
-        double maxElteres = Math.Abs(HelyesValasz) * SzazalekElteres / 100;
+        decimal tipp = decimal.Parse(v.ToString().Replace(',', '.'), System.Globalization.CultureInfo.InvariantCulture);
+        decimal maxElteres = Math.Abs(HelyesValasz) * SzazalekElteres / 100;
 
         if (Math.Abs(tipp - HelyesValasz) <= maxElteres)
         {
