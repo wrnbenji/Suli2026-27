@@ -14,9 +14,9 @@ public class TippelosKerdes : Kerdes, IKerdes
     
     public string Temakor { get; set; }
     
-    protected override byte Ellenorzes(object v)
+    public override byte Ellenorzes(object v)
     {
-        double tipp = (double)v;
+        double tipp = double.Parse(v.ToString());
         double maxElteres = Math.Abs(HelyesValasz) * SzazalekElteres / 100;
 
         if (Math.Abs(tipp - HelyesValasz) <= maxElteres)

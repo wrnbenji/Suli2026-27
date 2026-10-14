@@ -7,6 +7,7 @@ namespace Kviz;
 public class FelValKerdes : Kerdes, IKerdes
 {
     public List<FelValKerdes> FelValKerdesek = new List<FelValKerdes>();
+    [NotMapped]
     public List<string> ValaszLehetosegek { get; set; } = new List<string>();
 
     [Column("valasz_1")]
@@ -37,9 +38,9 @@ public class FelValKerdes : Kerdes, IKerdes
        
     }
 
-    protected override byte Ellenorzes(object v)
+    public override byte Ellenorzes(object v)
     {
-        if ((int)v == HelyesValaszIndex)
+        if (int.Parse(v.ToString()) == HelyesValaszIndex)
         {
             
             return Pontszam;

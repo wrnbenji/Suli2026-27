@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KvizKonzol")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+48c22cc8ed798c20cc1c012be51f1e888bd2b288")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ec9aff50c783fa9de2f9b57b6d42535a4bc136ea")]
 [assembly: System.Reflection.AssemblyProductAttribute("KvizKonzol")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KvizKonzol")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

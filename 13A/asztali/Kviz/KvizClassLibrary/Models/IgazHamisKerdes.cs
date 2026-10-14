@@ -7,13 +7,22 @@ namespace Kviz;
 public class IgazHamisKerdes : Kerdes, IKerdes
 { 
     public List<IgazHamisKerdes> IgazHamisKerdesek = new List<IgazHamisKerdes>();
+    [Column("helyes_valasz")]
     public bool HelyesValasz { get; set; }
     
     
 
-    protected override byte Ellenorzes(object v)
+    public override byte Ellenorzes(object v)
     {
-        if ((bool)v == HelyesValasz)
+        bool ih;
+        if (v == "I")
+            ih = true;
+        else
+        {
+            ih = false;
+        }
+        
+        if (ih == (bool)HelyesValasz)
         {
             
             return Pontszam;

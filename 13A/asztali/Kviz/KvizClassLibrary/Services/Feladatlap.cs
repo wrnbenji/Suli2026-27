@@ -1,13 +1,15 @@
-﻿namespace Kviz.Services;
+﻿using Kviz.Interface;
+
+namespace Kviz.Services;
 
 public class Feladatlap : IFeladatlap
 {
     Random rnd = new Random();
     KvizContext _context = new KvizContext();
     
-    public ICollection<IgazHamisKerdes> getIgazHamisKerdes(int db)
+    public ICollection<Kerdes> getIgazHamisKerdes(int db)
     {
-        List<IgazHamisKerdes> kivIgazHamisKerdes = new List<IgazHamisKerdes>();
+        List<Kerdes> kivIgazHamisKerdes = new List<Kerdes>();
 
         do
         {
@@ -17,9 +19,9 @@ public class Feladatlap : IFeladatlap
         return kivIgazHamisKerdes;
     }
 
-    public ICollection<IgazHamisKerdes> getIgazHamisKerdesTemakor(int db, string temakor)
+    public ICollection<Kerdes> getIgazHamisKerdesTemakor(int db, string temakor)
     {
-        List<IgazHamisKerdes> kivIgazHamisKerdes = new List<IgazHamisKerdes>();
+        List<Kerdes> kivIgazHamisKerdes = new List<Kerdes>();
 
         do
         {
@@ -29,9 +31,9 @@ public class Feladatlap : IFeladatlap
         return kivIgazHamisKerdes;
     }
 
-    public ICollection<TippelosKerdes> getTippelosKerdes(int db)
+    public ICollection<Kerdes> getTippelosKerdes(int db)
     {
-        List<TippelosKerdes> kivTippelosKerdes = new List<TippelosKerdes>();
+        List<Kerdes> kivTippelosKerdes = new List<Kerdes>();
 
         do
         {
@@ -41,9 +43,9 @@ public class Feladatlap : IFeladatlap
         return kivTippelosKerdes;
     }
 
-    public ICollection<TippelosKerdes> getTippelosKerdesTemakor(int db, string temakor)
+    public ICollection<Kerdes> getTippelosKerdesTemakor(int db, string temakor)
     {
-        List<TippelosKerdes> kivTippelosKerdes = new List<TippelosKerdes>();
+        List<Kerdes> kivTippelosKerdes = new List<Kerdes>();
 
         do
         {
@@ -53,9 +55,9 @@ public class Feladatlap : IFeladatlap
         return kivTippelosKerdes;
     }
 
-    public ICollection<FelValKerdes> getFelValKerdes(int db)
+    public ICollection<Kerdes> getFelValKerdes(int db)
     {
-        List<FelValKerdes> kivFelValKerdes = new List<FelValKerdes>();
+        List<Kerdes> kivFelValKerdes = new List<Kerdes>();
 
         do
         {
@@ -66,9 +68,9 @@ public class Feladatlap : IFeladatlap
     }
     
 
-    public ICollection<FelValKerdes> getFelValKerdesTemakor(int db, string temakor)
+    public ICollection<Kerdes> getFelValKerdesTemakor(int db, string temakor)
     {
-        List<FelValKerdes> kivFelValKerdes = new List<FelValKerdes>();
+        List<Kerdes> kivFelValKerdes = new List<Kerdes>();
 
         do
         {
@@ -76,5 +78,25 @@ public class Feladatlap : IFeladatlap
             
         }while(kivFelValKerdes.Count < db);
         return kivFelValKerdes;
+    }
+
+    public ICollection<Kerdes> getVegyesKerdes(int db)
+    {
+        List<Kerdes> kerdesek = new List<Kerdes>();
+        kerdesek.AddRange(_context.FelValKerdesek.ToList());
+        kerdesek.AddRange(_context.IgazHamisKerdesek.ToList());
+        kerdesek.AddRange(_context.TippelosKerdesek.ToList());
+        List<Kerdes> vegyeskerdesek = new List<Kerdes>();
+
+        do
+        {
+            vegyeskerdesek.Add(kerdesek[rnd.Next(0, kerdesek.Count())]);
+        }
+        while(vegyeskerdesek.Count < db);
+        
+        
+        
+        
+        return vegyeskerdesek;
     }
 }

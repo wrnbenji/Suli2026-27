@@ -15,5 +15,5 @@ public abstract class Kerdes
     
     
     
-    abstract protected byte Ellenorzes(object v);
+    abstract public byte Ellenorzes(object v);
     }
