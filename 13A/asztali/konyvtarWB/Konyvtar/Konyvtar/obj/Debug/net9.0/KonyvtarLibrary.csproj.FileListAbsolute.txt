@@ -1,0 +1,15 @@
+D:\users\wb5053\Documents\Suli2026-27\13A\asztali\konyvtarWB\Konyvtar\Konyvtar\bin\Debug\net9.0\KonyvtarLibrary.deps.json
+D:\users\wb5053\Documents\Suli2026-27\13A\asztali\konyvtarWB\Konyvtar\Konyvtar\bin\Debug\net9.0\KonyvtarLibrary.runtimeconfig.json
+D:\users\wb5053\Documents\Suli2026-27\13A\asztali\konyvtarWB\Konyvtar\Konyvtar\bin\Debug\net9.0\KonyvtarLibrary.dll
+D:\users\wb5053\Documents\Suli2026-27\13A\asztali\konyvtarWB\Konyvtar\Konyvtar\bin\Debug\net9.0\KonyvtarLibrary.pdb
+D:\users\wb5053\Documents\Suli2026-27\13A\asztali\konyvtarWB\Konyvtar\Konyvtar\obj\Debug\net9.0\KonyvtarLibrary.csproj.AssemblyReference.cache
+D:\users\wb5053\Documents\Suli2026-27\13A\asztali\konyvtarWB\Konyvtar\Konyvtar\obj\Debug\net9.0\KonyvtarLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\users\wb5053\Documents\Suli2026-27\13A\asztali\konyvtarWB\Konyvtar\Konyvtar\obj\Debug\net9.0\KonyvtarLibrary.AssemblyInfoInputs.cache
+D:\users\wb5053\Documents\Suli2026-27\13A\asztali\konyvtarWB\Konyvtar\Konyvtar\obj\Debug\net9.0\KonyvtarLibrary.AssemblyInfo.cs
+D:\users\wb5053\Documents\Suli2026-27\13A\asztali\konyvtarWB\Konyvtar\Konyvtar\obj\Debug\net9.0\KonyvtarLibrary.csproj.CoreCompileInputs.cache
+D:\users\wb5053\Documents\Suli2026-27\13A\asztali\konyvtarWB\Konyvtar\Konyvtar\obj\Debug\net9.0\KonyvtarLibrary.sourcelink.json
+D:\users\wb5053\Documents\Suli2026-27\13A\asztali\konyvtarWB\Konyvtar\Konyvtar\obj\Debug\net9.0\KonyvtarLibrary.dll
+D:\users\wb5053\Documents\Suli2026-27\13A\asztali\konyvtarWB\Konyvtar\Konyvtar\obj\Debug\net9.0\refint\KonyvtarLibrary.dll
+D:\users\wb5053\Documents\Suli2026-27\13A\asztali\konyvtarWB\Konyvtar\Konyvtar\obj\Debug\net9.0\KonyvtarLibrary.pdb
+D:\users\wb5053\Documents\Suli2026-27\13A\asztali\konyvtarWB\Konyvtar\Konyvtar\obj\Debug\net9.0\KonyvtarLibrary.genruntimeconfig.cache
+D:\users\wb5053\Documents\Suli2026-27\13A\asztali\konyvtarWB\Konyvtar\Konyvtar\obj\Debug\net9.0\ref\KonyvtarLibrary.dll

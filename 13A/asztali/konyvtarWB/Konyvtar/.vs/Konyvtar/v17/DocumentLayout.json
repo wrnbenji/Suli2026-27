@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\asztali\\konyvtarWB\\Konyvtar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F24E4858-517B-42AC-B0FE-BCD248CEFDD0}|KonyvtarConsole\\KonyvtarConsole.csproj|d:\\users\\wb5053\\documents\\suli2026-27\\13a\\asztali\\konyvtarwb\\konyvtar\\konyvtarconsole\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F24E4858-517B-42AC-B0FE-BCD248CEFDD0}|KonyvtarConsole\\KonyvtarConsole.csproj|solutionrelative:konyvtarconsole\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2445DAD-73DD-4300-BEED-CB1C4C0DAB5D}|Konyvtar\\KonyvtarLibrary.csproj|d:\\users\\wb5053\\documents\\suli2026-27\\13a\\asztali\\konyvtarwb\\konyvtar\\konyvtar\\services\\konyvtarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2445DAD-73DD-4300-BEED-CB1C4C0DAB5D}|Konyvtar\\KonyvtarLibrary.csproj|solutionrelative:konyvtar\\services\\konyvtarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2445DAD-73DD-4300-BEED-CB1C4C0DAB5D}|Konyvtar\\KonyvtarLibrary.csproj|d:\\users\\wb5053\\documents\\suli2026-27\\13a\\asztali\\konyvtarwb\\konyvtar\\konyvtar\\services\\konyvtardbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2445DAD-73DD-4300-BEED-CB1C4C0DAB5D}|Konyvtar\\KonyvtarLibrary.csproj|solutionrelative:konyvtar\\services\\konyvtardbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2445DAD-73DD-4300-BEED-CB1C4C0DAB5D}|Konyvtar\\KonyvtarLibrary.csproj|d:\\users\\wb5053\\documents\\suli2026-27\\13a\\asztali\\konyvtarwb\\konyvtar\\konyvtar\\services\\ikonyvtarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2445DAD-73DD-4300-BEED-CB1C4C0DAB5D}|Konyvtar\\KonyvtarLibrary.csproj|solutionrelative:konyvtar\\services\\ikonyvtarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2445DAD-73DD-4300-BEED-CB1C4C0DAB5D}|Konyvtar\\KonyvtarLibrary.csproj|d:\\users\\wb5053\\documents\\suli2026-27\\13a\\asztali\\konyvtarwb\\konyvtar\\konyvtar\\models\\szerzo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2445DAD-73DD-4300-BEED-CB1C4C0DAB5D}|Konyvtar\\KonyvtarLibrary.csproj|solutionrelative:konyvtar\\models\\szerzo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2445DAD-73DD-4300-BEED-CB1C4C0DAB5D}|Konyvtar\\KonyvtarLibrary.csproj|d:\\users\\wb5053\\documents\\suli2026-27\\13a\\asztali\\konyvtarwb\\konyvtar\\konyvtar\\models\\olvaso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2445DAD-73DD-4300-BEED-CB1C4C0DAB5D}|Konyvtar\\KonyvtarLibrary.csproj|solutionrelative:konyvtar\\models\\olvaso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2445DAD-73DD-4300-BEED-CB1C4C0DAB5D}|Konyvtar\\KonyvtarLibrary.csproj|d:\\users\\wb5053\\documents\\suli2026-27\\13a\\asztali\\konyvtarwb\\konyvtar\\konyvtar\\models\\kategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2445DAD-73DD-4300-BEED-CB1C4C0DAB5D}|Konyvtar\\KonyvtarLibrary.csproj|solutionrelative:konyvtar\\models\\kategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2445DAD-73DD-4300-BEED-CB1C4C0DAB5D}|Konyvtar\\KonyvtarLibrary.csproj|d:\\users\\wb5053\\documents\\suli2026-27\\13a\\asztali\\konyvtarwb\\konyvtar\\konyvtar\\models\\kolcsonzes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2445DAD-73DD-4300-BEED-CB1C4C0DAB5D}|Konyvtar\\KonyvtarLibrary.csproj|solutionrelative:konyvtar\\models\\kolcsonzes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2445DAD-73DD-4300-BEED-CB1C4C0DAB5D}|Konyvtar\\KonyvtarLibrary.csproj|d:\\users\\wb5053\\documents\\suli2026-27\\13a\\asztali\\konyvtarwb\\konyvtar\\konyvtar\\models\\konyv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2445DAD-73DD-4300-BEED-CB1C4C0DAB5D}|Konyvtar\\KonyvtarLibrary.csproj|solutionrelative:konyvtar\\models\\konyv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F24E4858-517B-42AC-B0FE-BCD248CEFDD0}|KonyvtarConsole\\KonyvtarConsole.csproj|d:\\users\\wb5053\\documents\\suli2026-27\\13a\\asztali\\konyvtarwb\\konyvtar\\konyvtarconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F24E4858-517B-42AC-B0FE-BCD248CEFDD0}|KonyvtarConsole\\KonyvtarConsole.csproj|solutionrelative:konyvtarconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2445DAD-73DD-4300-BEED-CB1C4C0DAB5D}|Konyvtar\\KonyvtarLibrary.csproj|d:\\users\\wb5053\\documents\\suli2026-27\\13a\\asztali\\konyvtarwb\\konyvtar\\konyvtar\\konyvtarlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E2445DAD-73DD-4300-BEED-CB1C4C0DAB5D}|Konyvtar\\KonyvtarLibrary.csproj|solutionrelative:konyvtar\\konyvtarlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F24E4858-517B-42AC-B0FE-BCD248CEFDD0}|KonyvtarConsole\\KonyvtarConsole.csproj|d:\\users\\wb5053\\documents\\suli2026-27\\13a\\asztali\\konyvtarwb\\konyvtar\\konyvtarconsole\\konyvtarconsole.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F24E4858-517B-42AC-B0FE-BCD248CEFDD0}|KonyvtarConsole\\KonyvtarConsole.csproj|solutionrelative:konyvtarconsole\\konyvtarconsole.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "KonyvtarConsole",
+              "DocumentMoniker": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\asztali\\konyvtarWB\\Konyvtar\\KonyvtarConsole\\KonyvtarConsole.csproj",
+              "RelativeDocumentMoniker": "KonyvtarConsole\\KonyvtarConsole.csproj",
+              "ToolTip": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\asztali\\konyvtarWB\\Konyvtar\\KonyvtarConsole\\KonyvtarConsole.csproj",
+              "RelativeToolTip": "KonyvtarConsole\\KonyvtarConsole.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-21T10:01:06.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\asztali\\konyvtarWB\\Konyvtar\\KonyvtarConsole\\Menu.cs",
+              "RelativeDocumentMoniker": "KonyvtarConsole\\Menu.cs",
+              "ToolTip": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\asztali\\konyvtarWB\\Konyvtar\\KonyvtarConsole\\Menu.cs",
+              "RelativeToolTip": "KonyvtarConsole\\Menu.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAjwFoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T09:28:08.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\asztali\\konyvtarWB\\Konyvtar\\KonyvtarConsole\\Program.cs",
+              "RelativeDocumentMoniker": "KonyvtarConsole\\Program.cs",
+              "ToolTip": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\asztali\\konyvtarWB\\Konyvtar\\KonyvtarConsole\\Program.cs",
+              "RelativeToolTip": "KonyvtarConsole\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T09:27:29.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IKonyvtarService.cs",
+              "DocumentMoniker": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\asztali\\konyvtarWB\\Konyvtar\\Konyvtar\\Services\\IKonyvtarService.cs",
+              "RelativeDocumentMoniker": "Konyvtar\\Services\\IKonyvtarService.cs",
+              "ToolTip": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\asztali\\konyvtarWB\\Konyvtar\\Konyvtar\\Services\\IKonyvtarService.cs",
+              "RelativeToolTip": "Konyvtar\\Services\\IKonyvtarService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T08:48:18.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KonyvtarDbContext.cs",
+              "DocumentMoniker": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\asztali\\konyvtarWB\\Konyvtar\\Konyvtar\\Services\\KonyvtarDbContext.cs",
+              "RelativeDocumentMoniker": "Konyvtar\\Services\\KonyvtarDbContext.cs",
+              "ToolTip": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\asztali\\konyvtarWB\\Konyvtar\\Konyvtar\\Services\\KonyvtarDbContext.cs",
+              "RelativeToolTip": "Konyvtar\\Services\\KonyvtarDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T08:44:07.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KonyvtarService.cs",
+              "DocumentMoniker": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\asztali\\konyvtarWB\\Konyvtar\\Konyvtar\\Services\\KonyvtarService.cs",
+              "RelativeDocumentMoniker": "Konyvtar\\Services\\KonyvtarService.cs",
+              "ToolTip": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\asztali\\konyvtarWB\\Konyvtar\\Konyvtar\\Services\\KonyvtarService.cs",
+              "RelativeToolTip": "Konyvtar\\Services\\KonyvtarService.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAcwE0AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T08:38:05.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Kolcsonzes.cs",
+              "DocumentMoniker": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\asztali\\konyvtarWB\\Konyvtar\\Konyvtar\\Models\\Kolcsonzes.cs",
+              "RelativeDocumentMoniker": "Konyvtar\\Models\\Kolcsonzes.cs",
+              "ToolTip": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\asztali\\konyvtarWB\\Konyvtar\\Konyvtar\\Models\\Kolcsonzes.cs",
+              "RelativeToolTip": "Konyvtar\\Models\\Kolcsonzes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T08:37:38.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Olvaso.cs",
+              "DocumentMoniker": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\asztali\\konyvtarWB\\Konyvtar\\Konyvtar\\Models\\Olvaso.cs",
+              "RelativeDocumentMoniker": "Konyvtar\\Models\\Olvaso.cs",
+              "ToolTip": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\asztali\\konyvtarWB\\Konyvtar\\Konyvtar\\Models\\Olvaso.cs",
+              "RelativeToolTip": "Konyvtar\\Models\\Olvaso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T08:37:22.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Konyv.cs",
+              "DocumentMoniker": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\asztali\\konyvtarWB\\Konyvtar\\Konyvtar\\Models\\Konyv.cs",
+              "RelativeDocumentMoniker": "Konyvtar\\Models\\Konyv.cs",
+              "ToolTip": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\asztali\\konyvtarWB\\Konyvtar\\Konyvtar\\Models\\Konyv.cs",
+              "RelativeToolTip": "Konyvtar\\Models\\Konyv.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T08:37:07.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Kategoria.cs",
+              "DocumentMoniker": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\asztali\\konyvtarWB\\Konyvtar\\Konyvtar\\Models\\Kategoria.cs",
+              "RelativeDocumentMoniker": "Konyvtar\\Models\\Kategoria.cs",
+              "ToolTip": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\asztali\\konyvtarWB\\Konyvtar\\Konyvtar\\Models\\Kategoria.cs",
+              "RelativeToolTip": "Konyvtar\\Models\\Kategoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T08:36:48.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Szerzo.cs",
+              "DocumentMoniker": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\asztali\\konyvtarWB\\Konyvtar\\Konyvtar\\Models\\Szerzo.cs",
+              "RelativeDocumentMoniker": "Konyvtar\\Models\\Szerzo.cs",
+              "ToolTip": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\asztali\\konyvtarWB\\Konyvtar\\Konyvtar\\Models\\Szerzo.cs",
+              "RelativeToolTip": "Konyvtar\\Models\\Szerzo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T08:36:33.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "KonyvtarLibrary.csproj",
+              "DocumentMoniker": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\asztali\\konyvtarWB\\Konyvtar\\Konyvtar\\KonyvtarLibrary.csproj",
+              "RelativeDocumentMoniker": "Konyvtar\\KonyvtarLibrary.csproj",
+              "ToolTip": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\asztali\\konyvtarWB\\Konyvtar\\Konyvtar\\KonyvtarLibrary.csproj",
+              "RelativeToolTip": "Konyvtar\\KonyvtarLibrary.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-21T08:29:10.475Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

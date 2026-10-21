@@ -1,0 +1,48 @@
+//adatbázistábla: Szerzok
+// ============================================================
+public int Id { get; set; }
+public string Nev { get; set; } = "";
+
+
+
+//adatbázistábla: Kategoriak
+// ============================================================
+public int Id { get; set; }
+public string Nev { get; set; } = "";
+
+
+
+//adatbázistábla: Konyvek
+// ============================================================
+public int Id { get; set; }
+public string Cim { get; set; } = "";
+public int SzerzoId { get; set; }
+public int KategoriaId { get; set; }
+public int KiadasEve { get; set; }
+
+
+
+//adatbázistábla: Olvasok
+// ============================================================
+public int Id { get; set; }
+public string Nev { get; set; } = "";
+public string Email { get; set; } = "";
+public bool Aktiv { get; set; }
+
+
+
+//adatbázistábla: Kolcsonzesek
+// ============================================================
+public int Id { get; set; }
+public int KonyvId { get; set; }
+public int OlvasoId { get; set; }
+public DateOnly Kezdete { get; set; }
+public DateOnly Hatarido { get; set; }
+public DateOnly? Visszahozva { get; set; }
+
+// ============================================================
+
+//TALÁN KELLHET VALAHOVA... [Table("Konyvek")]
+
+
+//"Server=myServerAddress;Database=myDataBase;Uid=myUsername;Pwd=myPassword;"
