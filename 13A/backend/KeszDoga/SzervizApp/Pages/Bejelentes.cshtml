@@ -1,0 +1,46 @@
+@page
+@model BejelentesModel
+@{
+    ViewData["Title"] = "Új bejelentés";
+}
+
+<h1>Szervizbejelentés</h1>
+
+<form method="post">
+    <div>
+        <label asp-for="UjBejelentes.BejelentoNeve">Bejelentő neve</label>
+        <input asp-for="UjBejelentes.BejelentoNeve" type="text" />
+        <span asp-validation-for="UjBejelentes.BejelentoNeve" class="hiba"></span>
+    </div>
+
+    <div>
+        <label asp-for="UjBejelentes.Email">E-mail-cím</label>
+        <input asp-for="UjBejelentes.Email" type="email" />
+        <span asp-validation-for="UjBejelentes.Email" class="hiba"></span>
+    </div>
+
+    <div>
+        <label asp-for="UjBejelentes.EszkozTipus">Eszköz típusa</label>
+        <select asp-for="UjBejelentes.EszkozTipus">
+            <option value="">-- Válassz! --</option>
+            <option value="Laptop">Laptop</option>
+            <option value="Asztali számítógép">Asztali számítógép</option>
+            <option value="Monitor">Monitor</option>
+            <option value="Nyomtató">Nyomtató</option>
+            <option value="Egyéb">Egyéb</option>
+        </select>
+        <span asp-validation-for="UjBejelentes.EszkozTipus" class="hiba"></span>
+    </div>
+
+    <div>
+        <label asp-for="UjBejelentes.HibaLeiras">Hiba leírása</label>
+        <textarea asp-for="UjBejelentes.HibaLeiras" rows="5"></textarea>
+        <span asp-validation-for="UjBejelentes.HibaLeiras" class="hiba"></span>
+    </div>
+
+    <div>
+        <label class="checkbox"><input asp-for="UjBejelentes.Surgos" /> Sürgős</label>
+    </div>
+
+    <button type="submit">Beküldés</button>
+</form>

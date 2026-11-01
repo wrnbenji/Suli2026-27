@@ -1,0 +1,12 @@
+body { font-family: Arial, sans-serif; margin: 0; }
+nav { background: #2c3e50; padding: 12px 20px; }
+nav a { color: #fff; margin-right: 16px; text-decoration: none; }
+main { padding: 20px; max-width: 1000px; }
+form div { margin-bottom: 12px; }
+label { display: block; font-weight: bold; margin-bottom: 4px; }
+label.checkbox { font-weight: normal; }
+input[type=text], input[type=email], select, textarea { width: 100%; max-width: 400px; padding: 6px; }
+.hiba { color: #c0392b; font-size: 0.9em; }
+table { border-collapse: collapse; width: 100%; }
+th, td { border: 1px solid #999; padding: 6px 8px; text-align: left; }
+th { background: #eee; }

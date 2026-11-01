@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - SzervizApp</title>
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body>
+    <nav>
+        <a asp-page="/Bejelentes">Új bejelentés</a>
+        <a asp-page="/Bejelentesek">Bejelentések</a>
+    </nav>
+    <main>
+        @RenderBody()
+    </main>
+</body>
+</html>

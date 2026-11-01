@@ -1,0 +1,40 @@
+@page
+@model BejelentesekModel
+@{
+    ViewData["Title"] = "Bejelentések";
+}
+
+<h1>Bejelentések</h1>
+
+@if (Model.Bejelentesek.Count == 0)
+{
+    <p>Nincs megjeleníthető bejelentés.</p>
+}
+else
+{
+    <table>
+        <thead>
+            <tr>
+                <th>Bejelentő neve</th>
+                <th>E-mail-cím</th>
+                <th>Eszköz típusa</th>
+                <th>Hiba leírása</th>
+                <th>Sürgős</th>
+                <th>Bejelentés időpontja</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var b in Model.Bejelentesek)
+            {
+                <tr>
+                    <td>@b.BejelentoNeve</td>
+                    <td>@b.Email</td>
+                    <td>@b.EszkozTipus</td>
+                    <td>@b.HibaLeiras</td>
+                    <td>@(b.Surgos ? "Igen" : "Nem")</td>
+                    <td>@b.BejelentesDatuma.ToString("yyyy.MM.dd. HH:mm")</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
