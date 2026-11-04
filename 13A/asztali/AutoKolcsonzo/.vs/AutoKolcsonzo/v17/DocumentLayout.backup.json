@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\asztali\\AutoKolcsonzo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48F858AC-8CCC-4AE1-8900-A147778DD9AD}|AutoKolcsonzo\\AutoKolcsonzo.csproj|d:\\users\\wb5053\\documents\\suli2026-27\\13a\\asztali\\autokolcsonzo\\autokolcsonzo\\models\\ugyfel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48F858AC-8CCC-4AE1-8900-A147778DD9AD}|AutoKolcsonzo\\AutoKolcsonzo.csproj|solutionrelative:autokolcsonzo\\models\\ugyfel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48F858AC-8CCC-4AE1-8900-A147778DD9AD}|AutoKolcsonzo\\AutoKolcsonzo.csproj|d:\\users\\wb5053\\documents\\suli2026-27\\13a\\asztali\\autokolcsonzo\\autokolcsonzo\\models\\kategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48F858AC-8CCC-4AE1-8900-A147778DD9AD}|AutoKolcsonzo\\AutoKolcsonzo.csproj|solutionrelative:autokolcsonzo\\models\\kategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48F858AC-8CCC-4AE1-8900-A147778DD9AD}|AutoKolcsonzo\\AutoKolcsonzo.csproj|d:\\users\\wb5053\\documents\\suli2026-27\\13a\\asztali\\autokolcsonzo\\autokolcsonzo\\models\\gyarto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48F858AC-8CCC-4AE1-8900-A147778DD9AD}|AutoKolcsonzo\\AutoKolcsonzo.csproj|solutionrelative:autokolcsonzo\\models\\gyarto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48F858AC-8CCC-4AE1-8900-A147778DD9AD}|AutoKolcsonzo\\AutoKolcsonzo.csproj|d:\\users\\wb5053\\documents\\suli2026-27\\13a\\asztali\\autokolcsonzo\\autokolcsonzo\\models\\berles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48F858AC-8CCC-4AE1-8900-A147778DD9AD}|AutoKolcsonzo\\AutoKolcsonzo.csproj|solutionrelative:autokolcsonzo\\models\\berles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48F858AC-8CCC-4AE1-8900-A147778DD9AD}|AutoKolcsonzo\\AutoKolcsonzo.csproj|d:\\users\\wb5053\\documents\\suli2026-27\\13a\\asztali\\autokolcsonzo\\autokolcsonzo\\models\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48F858AC-8CCC-4AE1-8900-A147778DD9AD}|AutoKolcsonzo\\AutoKolcsonzo.csproj|solutionrelative:autokolcsonzo\\models\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48F858AC-8CCC-4AE1-8900-A147778DD9AD}|AutoKolcsonzo\\AutoKolcsonzo.csproj|d:\\users\\wb5053\\documents\\suli2026-27\\13a\\asztali\\autokolcsonzo\\autokolcsonzo\\services\\autokolcsonzodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48F858AC-8CCC-4AE1-8900-A147778DD9AD}|AutoKolcsonzo\\AutoKolcsonzo.csproj|solutionrelative:autokolcsonzo\\services\\autokolcsonzodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48F858AC-8CCC-4AE1-8900-A147778DD9AD}|AutoKolcsonzo\\AutoKolcsonzoLibrary.csproj|d:\\users\\wb5053\\documents\\suli2026-27\\13a\\asztali\\autokolcsonzo\\autokolcsonzo\\autokolcsonzolibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{48F858AC-8CCC-4AE1-8900-A147778DD9AD}|AutoKolcsonzo\\AutoKolcsonzoLibrary.csproj|solutionrelative:autokolcsonzo\\autokolcsonzolibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AutokolcsonzoDbContext.cs",
+              "DocumentMoniker": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\asztali\\AutoKolcsonzo\\AutoKolcsonzo\\Services\\AutokolcsonzoDbContext.cs",
+              "RelativeDocumentMoniker": "AutoKolcsonzo\\Services\\AutokolcsonzoDbContext.cs",
+              "ToolTip": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\asztali\\AutoKolcsonzo\\AutoKolcsonzo\\Services\\AutokolcsonzoDbContext.cs",
+              "RelativeToolTip": "AutoKolcsonzo\\Services\\AutokolcsonzoDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T09:41:47.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AutoKolcsonzoLibrary.csproj",
+              "DocumentMoniker": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\asztali\\AutoKolcsonzo\\AutoKolcsonzo\\AutoKolcsonzoLibrary.csproj",
+              "RelativeDocumentMoniker": "AutoKolcsonzo\\AutoKolcsonzoLibrary.csproj",
+              "ToolTip": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\asztali\\AutoKolcsonzo\\AutoKolcsonzo\\AutoKolcsonzoLibrary.csproj",
+              "RelativeToolTip": "AutoKolcsonzo\\AutoKolcsonzoLibrary.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-04T09:41:14.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Berles.cs",
+              "DocumentMoniker": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\asztali\\AutoKolcsonzo\\AutoKolcsonzo\\Models\\Berles.cs",
+              "RelativeDocumentMoniker": "AutoKolcsonzo\\Models\\Berles.cs",
+              "ToolTip": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\asztali\\AutoKolcsonzo\\AutoKolcsonzo\\Models\\Berles.cs",
+              "RelativeToolTip": "AutoKolcsonzo\\Models\\Berles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T09:37:09.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ugyfel.cs",
+              "DocumentMoniker": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\asztali\\AutoKolcsonzo\\AutoKolcsonzo\\Models\\Ugyfel.cs",
+              "RelativeDocumentMoniker": "AutoKolcsonzo\\Models\\Ugyfel.cs",
+              "ToolTip": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\asztali\\AutoKolcsonzo\\AutoKolcsonzo\\Models\\Ugyfel.cs",
+              "RelativeToolTip": "AutoKolcsonzo\\Models\\Ugyfel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T09:36:41.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Auto.cs",
+              "DocumentMoniker": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\asztali\\AutoKolcsonzo\\AutoKolcsonzo\\Models\\Auto.cs",
+              "RelativeDocumentMoniker": "AutoKolcsonzo\\Models\\Auto.cs",
+              "ToolTip": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\asztali\\AutoKolcsonzo\\AutoKolcsonzo\\Models\\Auto.cs",
+              "RelativeToolTip": "AutoKolcsonzo\\Models\\Auto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T09:36:26.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Kategoria.cs",
+              "DocumentMoniker": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\asztali\\AutoKolcsonzo\\AutoKolcsonzo\\Models\\Kategoria.cs",
+              "RelativeDocumentMoniker": "AutoKolcsonzo\\Models\\Kategoria.cs",
+              "ToolTip": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\asztali\\AutoKolcsonzo\\AutoKolcsonzo\\Models\\Kategoria.cs",
+              "RelativeToolTip": "AutoKolcsonzo\\Models\\Kategoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T09:36:10.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Gyarto.cs",
+              "DocumentMoniker": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\asztali\\AutoKolcsonzo\\AutoKolcsonzo\\Models\\Gyarto.cs",
+              "RelativeDocumentMoniker": "AutoKolcsonzo\\Models\\Gyarto.cs",
+              "ToolTip": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\asztali\\AutoKolcsonzo\\AutoKolcsonzo\\Models\\Gyarto.cs",
+              "RelativeToolTip": "AutoKolcsonzo\\Models\\Gyarto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T09:35:52.858Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
