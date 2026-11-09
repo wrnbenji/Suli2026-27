@@ -42,7 +42,8 @@ namespace AutoKolcsonzoLibrary.Services
 
         public List<Auto> SzabadAutok()
         {
-            throw new NotImplementedException();
+            List<Auto> autos = _context.Autok.Include(k => k.Kategoria).Include(g => g.Gyarto).Include(b => b.Berlesek).ToList();
+            return autos.Where(i => i.Szabad).ToList();
         }
 
         public List<Ugyfel> Ugyfelek()

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AutoKolcsonzoLibrary")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+73e408c1acbff16178253e5dd19e10033afd00f2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0c6527107af89a21eab2c67588becb503fc2230e")]
 [assembly: System.Reflection.AssemblyProductAttribute("AutoKolcsonzoLibrary")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AutoKolcsonzoLibrary")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
