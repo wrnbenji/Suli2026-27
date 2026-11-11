@@ -11,16 +11,16 @@
       "RelativeMoniker": "D:0:0:{1C22D274-0A7F-4DAB-A672-52FBA832A4D5}|LenyekViadala\\LenyekViadala.csproj|solutionrelative:lenyekviadala\\models\\leny.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C22D274-0A7F-4DAB-A672-52FBA832A4D5}|LenyekViadala\\LenyekViadala.csproj|d:\\users\\wb5053\\documents\\suli2026-27\\13a\\asztali\\lenyekviadala\\lenyekviadala\\models\\szivacs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C22D274-0A7F-4DAB-A672-52FBA832A4D5}|LenyekViadala\\LenyekViadala.csproj|solutionrelative:lenyekviadala\\models\\szivacs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1C22D274-0A7F-4DAB-A672-52FBA832A4D5}|LenyekViadala\\LenyekViadala.csproj|d:\\users\\wb5053\\documents\\suli2026-27\\13a\\asztali\\lenyekviadala\\lenyekviadala\\models\\homokjaro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C22D274-0A7F-4DAB-A672-52FBA832A4D5}|LenyekViadala\\LenyekViadala.csproj|solutionrelative:lenyekviadala\\models\\homokjaro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1C22D274-0A7F-4DAB-A672-52FBA832A4D5}|LenyekViadala\\LenyekViadala.csproj|d:\\users\\wb5053\\documents\\suli2026-27\\13a\\asztali\\lenyekviadala\\lenyekviadala\\models\\lepegeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C22D274-0A7F-4DAB-A672-52FBA832A4D5}|LenyekViadala\\LenyekViadala.csproj|solutionrelative:lenyekviadala\\models\\lepegeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C22D274-0A7F-4DAB-A672-52FBA832A4D5}|LenyekViadala\\LenyekViadala.csproj|d:\\users\\wb5053\\documents\\suli2026-27\\13a\\asztali\\lenyekviadala\\lenyekviadala\\models\\homokjaro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C22D274-0A7F-4DAB-A672-52FBA832A4D5}|LenyekViadala\\LenyekViadala.csproj|solutionrelative:lenyekviadala\\models\\homokjaro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1C22D274-0A7F-4DAB-A672-52FBA832A4D5}|LenyekViadala\\LenyekViadala.csproj|d:\\users\\wb5053\\documents\\suli2026-27\\13a\\asztali\\lenyekviadala\\lenyekviadala\\models\\szivacs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C22D274-0A7F-4DAB-A672-52FBA832A4D5}|LenyekViadala\\LenyekViadala.csproj|solutionrelative:lenyekviadala\\models\\szivacs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1C22D274-0A7F-4DAB-A672-52FBA832A4D5}|LenyekViadala\\LenyekViadala.csproj|d:\\users\\wb5053\\documents\\suli2026-27\\13a\\asztali\\lenyekviadala\\lenyekviadala\\lenyekviadala.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -51,7 +51,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Szivacs.cs",
               "DocumentMoniker": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\asztali\\LenyekViadala\\LenyekViadala\\Models\\Szivacs.cs",
               "RelativeDocumentMoniker": "LenyekViadala\\Models\\Szivacs.cs",
@@ -64,13 +64,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Homokjaro.cs",
               "DocumentMoniker": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\asztali\\LenyekViadala\\LenyekViadala\\Models\\Homokjaro.cs",
               "RelativeDocumentMoniker": "LenyekViadala\\Models\\Homokjaro.cs",
               "ToolTip": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\asztali\\LenyekViadala\\LenyekViadala\\Models\\Homokjaro.cs",
               "RelativeToolTip": "LenyekViadala\\Models\\Homokjaro.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-11T10:45:29.433Z",
               "EditorCaption": ""
@@ -91,15 +91,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "LenyekViadala",
+              "Title": "LenyekViadala.csproj",
               "DocumentMoniker": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\asztali\\LenyekViadala\\LenyekViadala\\LenyekViadala.csproj",
               "RelativeDocumentMoniker": "LenyekViadala\\LenyekViadala.csproj",
               "ToolTip": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\asztali\\LenyekViadala\\LenyekViadala\\LenyekViadala.csproj",
               "RelativeToolTip": "LenyekViadala\\LenyekViadala.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-11-11T10:39:17.828Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-11T10:39:17.828Z"
             },
             {
               "$type": "Document",
@@ -109,7 +108,7 @@
               "RelativeDocumentMoniker": "LenyekViadala\\Program.cs",
               "ToolTip": "D:\\users\\wb5053\\Documents\\Suli2026-27\\13A\\asztali\\LenyekViadala\\LenyekViadala\\Program.cs",
               "RelativeToolTip": "LenyekViadala\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-11T10:38:50.078Z",
               "EditorCaption": ""

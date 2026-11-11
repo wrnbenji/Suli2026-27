@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LenyekViadala")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e6404b77f40b6cfb7f71cf4c6f22a9c44f5e7a6a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8f94717c0f24204644d7ed764050183a9be9a432")]
 [assembly: System.Reflection.AssemblyProductAttribute("LenyekViadala")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LenyekViadala")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
