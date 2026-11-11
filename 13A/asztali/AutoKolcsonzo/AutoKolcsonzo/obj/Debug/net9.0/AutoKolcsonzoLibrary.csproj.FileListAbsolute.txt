@@ -1,0 +1,15 @@
+D:\users\wb5053\Documents\Suli2026-27\13A\asztali\AutoKolcsonzo\AutoKolcsonzo\bin\Debug\net9.0\AutoKolcsonzoLibrary.deps.json
+D:\users\wb5053\Documents\Suli2026-27\13A\asztali\AutoKolcsonzo\AutoKolcsonzo\bin\Debug\net9.0\AutoKolcsonzoLibrary.runtimeconfig.json
+D:\users\wb5053\Documents\Suli2026-27\13A\asztali\AutoKolcsonzo\AutoKolcsonzo\bin\Debug\net9.0\AutoKolcsonzoLibrary.dll
+D:\users\wb5053\Documents\Suli2026-27\13A\asztali\AutoKolcsonzo\AutoKolcsonzo\bin\Debug\net9.0\AutoKolcsonzoLibrary.pdb
+D:\users\wb5053\Documents\Suli2026-27\13A\asztali\AutoKolcsonzo\AutoKolcsonzo\obj\Debug\net9.0\AutoKolcsonzoLibrary.csproj.AssemblyReference.cache
+D:\users\wb5053\Documents\Suli2026-27\13A\asztali\AutoKolcsonzo\AutoKolcsonzo\obj\Debug\net9.0\AutoKolcsonzoLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\users\wb5053\Documents\Suli2026-27\13A\asztali\AutoKolcsonzo\AutoKolcsonzo\obj\Debug\net9.0\AutoKolcsonzoLibrary.AssemblyInfoInputs.cache
+D:\users\wb5053\Documents\Suli2026-27\13A\asztali\AutoKolcsonzo\AutoKolcsonzo\obj\Debug\net9.0\AutoKolcsonzoLibrary.AssemblyInfo.cs
+D:\users\wb5053\Documents\Suli2026-27\13A\asztali\AutoKolcsonzo\AutoKolcsonzo\obj\Debug\net9.0\AutoKolcsonzoLibrary.csproj.CoreCompileInputs.cache
+D:\users\wb5053\Documents\Suli2026-27\13A\asztali\AutoKolcsonzo\AutoKolcsonzo\obj\Debug\net9.0\AutoKolcsonzoLibrary.sourcelink.json
+D:\users\wb5053\Documents\Suli2026-27\13A\asztali\AutoKolcsonzo\AutoKolcsonzo\obj\Debug\net9.0\AutoKolcsonzoLibrary.dll
+D:\users\wb5053\Documents\Suli2026-27\13A\asztali\AutoKolcsonzo\AutoKolcsonzo\obj\Debug\net9.0\refint\AutoKolcsonzoLibrary.dll
+D:\users\wb5053\Documents\Suli2026-27\13A\asztali\AutoKolcsonzo\AutoKolcsonzo\obj\Debug\net9.0\AutoKolcsonzoLibrary.pdb
+D:\users\wb5053\Documents\Suli2026-27\13A\asztali\AutoKolcsonzo\AutoKolcsonzo\obj\Debug\net9.0\AutoKolcsonzoLibrary.genruntimeconfig.cache
+D:\users\wb5053\Documents\Suli2026-27\13A\asztali\AutoKolcsonzo\AutoKolcsonzo\obj\Debug\net9.0\ref\AutoKolcsonzoLibrary.dll
