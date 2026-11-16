@@ -58,6 +58,32 @@ namespace AutoKolcsonzoLibrary.Services
             throw new NotImplementedException();
         }
 
+        public bool UjGyarto(string nev)
+        {
+            if (_context.Gyartok.Any(e => e.Nev == nev))
+                return false;
+            else
+            {
+                _context.Gyartok.Add(new Gyarto { Nev = nev, });
+                _context.SaveChanges();
+                return true;
+
+            }
+        }
+
+        public bool UjKategoria(string nev)
+        {
+            if (_context.Kategoriak.Any(e => e.Nev == nev))
+                return false;
+            else
+            {
+                _context.Kategoriak.Add(new Kategoria {  Nev = nev, });
+                _context.SaveChanges();
+                return true;
+
+            }
+        }
+
         public bool UjUgyfel(string nev, string email)
         {
             if (_context.Ugyfel.Any(e => e.Email == email))

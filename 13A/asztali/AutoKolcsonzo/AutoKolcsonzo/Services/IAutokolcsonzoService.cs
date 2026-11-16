@@ -16,6 +16,10 @@ public interface IAutokolcsonzoService
     //ÁTÍRHATÓ: autó és ügyfél objektumokra
     bool UjBerles(int autoId, int ugyfelId, DateOnly kezdet, int napok);
 
+    bool UjGyarto(string nev);
+    bool UjKategoria(string nev);
+
+
     bool Visszahozatal(int berlesId, DateOnly datum);
 
     List<Berles> AktivBerlesek();

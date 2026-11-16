@@ -30,6 +30,7 @@ D:\users\wb5053\Documents\Suli2026-27\13A\asztali\AutoKolcsonzo\AutoKolcsonzoWEB
 D:\users\wb5053\Documents\Suli2026-27\13A\asztali\AutoKolcsonzo\AutoKolcsonzoWEB\wwwroot\lib\jquery-validation\dist\jquery.validate.js
 D:\users\wb5053\Documents\Suli2026-27\13A\asztali\AutoKolcsonzo\AutoKolcsonzoWEB\wwwroot\favicon.ico
 D:\users\wb5053\Documents\Suli2026-27\13A\asztali\AutoKolcsonzo\AutoKolcsonzoWEB\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+D:\users\wb5053\Documents\Suli2026-27\13A\asztali\AutoKolcsonzo\AutoKolcsonzoWEB\wwwroot\css\autokolcsonzo.css
 D:\users\wb5053\Documents\Suli2026-27\13A\asztali\AutoKolcsonzo\AutoKolcsonzoWEB\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
 D:\users\wb5053\Documents\Suli2026-27\13A\asztali\AutoKolcsonzo\AutoKolcsonzoWEB\wwwroot\js\site.js
 D:\users\wb5053\Documents\Suli2026-27\13A\asztali\AutoKolcsonzo\AutoKolcsonzoWEB\wwwroot\lib\bootstrap\dist\css\bootstrap.css
@@ -60,6 +61,7 @@ D:\users\wb5053\Documents\Suli2026-27\13A\asztali\AutoKolcsonzo\AutoKolcsonzoWEB
 D:\users\wb5053\Documents\Suli2026-27\13A\asztali\AutoKolcsonzo\AutoKolcsonzoWEB\wwwroot\lib\jquery\dist\jquery.slim.js
 D:\users\wb5053\Documents\Suli2026-27\13A\asztali\AutoKolcsonzo\AutoKolcsonzoWEB\wwwroot\lib\jquery-validation\LICENSE.md
 D:\users\wb5053\Documents\Suli2026-27\13A\asztali\AutoKolcsonzo\AutoKolcsonzoWEB\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+wwwroot\css\autokolcsonzo.css
 wwwroot\css\site.css
 wwwroot\favicon.ico
 wwwroot\js\site.js

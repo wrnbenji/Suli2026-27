@@ -1,47 +1,78 @@
 ﻿<!DOCTYPE html>
-<html lang="en">
+<html lang="hu" data-bs-theme="dark">
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>@ViewData["Title"] - AutoKolcsonzoWEB</title>
+    <title>@ViewData["Title"] - AutoKölcsönző</title>
     <script type="importmap"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/AutoKolcsonzoWEB.styles.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/autokolcsonzo.css" asp-append-version="true" />
 </head>
 <body>
     <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
-            <div class="container-fluid">
-                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">AutoKolcsonzoWEB</a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
-                        aria-expanded="false" aria-label="Toggle navigation">
+        <nav class="navbar navbar-expand-md navbar-dark ak-navbar">
+            <div class="container">
+                <a class="navbar-brand" asp-controller="Home" asp-action="Index">
+                    <span class="ak-logo"><i class="bi bi-car-front-fill"></i></span>
+                    Auto<span class="ak-red">Kölcsönző</span>
+                </a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse">
                     <span class="navbar-toggler-icon"></span>
                 </button>
-                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
-                    <ul class="navbar-nav flex-grow-1">
+                <div class="navbar-collapse collapse justify-content-end">
+                    <ul class="navbar-nav align-items-md-center gap-1">
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Auto" asp-action="Szabad">Szabad Autók</a>
+                            <a class="nav-link" asp-controller="Home" asp-action="Index">Főoldal</a>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Auto" asp-action="Index">Összes Auto</a>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown">Autók</a>
+                            <ul class="dropdown-menu dropdown-menu-end">
+                                <li><a class="dropdown-item" asp-controller="Auto" asp-action="Index"><i class="bi bi-grid"></i>Áttekintés</a></li>
+                                <li><a class="dropdown-item" asp-controller="Auto" asp-action="OsszesAuto"><i class="bi bi-car-front"></i>Összes autó</a></li>
+                                <li><a class="dropdown-item" asp-controller="Auto" asp-action="Szabad"><i class="bi bi-check-circle"></i>Szabad autók</a></li>
+                                <li><hr class="dropdown-divider"></li>
+                                <li><a class="dropdown-item" asp-controller="Auto" asp-action="UjGyarto"><i class="bi bi-building-add"></i>Új gyártó</a></li>
+                                <li><a class="dropdown-item" asp-controller="Auto" asp-action="UjKategoria"><i class="bi bi-tags"></i>Új kategória</a></li>
+                            </ul>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown">Ügyfelek</a>
+                            <ul class="dropdown-menu dropdown-menu-end">
+                                <li><a class="dropdown-item" asp-controller="Ugyfel" asp-action="Index"><i class="bi bi-grid"></i>Áttekintés</a></li>
+                                <li><a class="dropdown-item" asp-controller="Ugyfel" asp-action="OsszesUgyfel"><i class="bi bi-people"></i>Összes ügyfél</a></li>
+                                <li><hr class="dropdown-divider"></li>
+                                <li><a class="dropdown-item" asp-controller="Ugyfel" asp-action="UjUgyfel"><i class="bi bi-person-plus"></i>Új ügyfél</a></li>
+                            </ul>
+                        </li>
+                        <li class="nav-item ms-md-2">
+                            <a class="btn btn-primary btn-sm px-3 py-2" asp-controller="Auto" asp-action="Szabad">
+                                <i class="bi bi-key-fill me-1"></i> Kölcsönzés
+                            </a>
                         </li>
                     </ul>
                 </div>
             </div>
         </nav>
     </header>
-    <div class="container">
-        <main role="main" class="pb-3">
-            @RenderBody()
-        </main>
-    </div>
 
-    <footer class="border-top footer text-muted">
+    <main role="main">
         <div class="container">
-            &copy; 2026 - AutoKolcsonzoWEB - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+            @RenderBody()
+        </div>
+    </main>
+
+    <footer class="ak-footer">
+        <div class="container d-flex justify-content-between flex-wrap gap-2">
+            <span>&copy; 2026 AutoKölcsönző</span>
+            <a asp-controller="Home" asp-action="Privacy">Adatvédelem</a>
         </div>
     </footer>
+
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>

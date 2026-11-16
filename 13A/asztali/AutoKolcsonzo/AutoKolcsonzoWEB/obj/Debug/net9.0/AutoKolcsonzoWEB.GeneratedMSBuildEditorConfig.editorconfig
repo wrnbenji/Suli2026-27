@@ -24,8 +24,20 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0b1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/users/wb5053/Documents/Suli2026-27/13A/asztali/AutoKolcsonzo/AutoKolcsonzoWEB/Views/Auto/OsszesAuto.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0b1xPc3N6ZXNBdXRvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/users/wb5053/Documents/Suli2026-27/13A/asztali/AutoKolcsonzo/AutoKolcsonzoWEB/Views/Auto/Szabad.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0b1xTemFiYWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/users/wb5053/Documents/Suli2026-27/13A/asztali/AutoKolcsonzo/AutoKolcsonzoWEB/Views/Auto/UjGyarto.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0b1xVakd5YXJ0by5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/users/wb5053/Documents/Suli2026-27/13A/asztali/AutoKolcsonzo/AutoKolcsonzoWEB/Views/Auto/UjKategoria.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0b1xVakthdGVnb3JpYS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/users/wb5053/Documents/Suli2026-27/13A/asztali/AutoKolcsonzo/AutoKolcsonzoWEB/Views/Home/Index.cshtml]
@@ -42,6 +54,18 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/users/wb5053/Documents/Suli2026-27/13A/asztali/AutoKolcsonzo/AutoKolcsonzoWEB/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/users/wb5053/Documents/Suli2026-27/13A/asztali/AutoKolcsonzo/AutoKolcsonzoWEB/Views/Ugyfel/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVWd5ZmVsXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/users/wb5053/Documents/Suli2026-27/13A/asztali/AutoKolcsonzo/AutoKolcsonzoWEB/Views/Ugyfel/OsszesUgyfel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVWd5ZmVsXE9zc3plc1VneWZlbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/users/wb5053/Documents/Suli2026-27/13A/asztali/AutoKolcsonzo/AutoKolcsonzoWEB/Views/Ugyfel/UjUgyfel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVWd5ZmVsXFVqVWd5ZmVsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/users/wb5053/Documents/Suli2026-27/13A/asztali/AutoKolcsonzo/AutoKolcsonzoWEB/Views/_ViewImports.cshtml]

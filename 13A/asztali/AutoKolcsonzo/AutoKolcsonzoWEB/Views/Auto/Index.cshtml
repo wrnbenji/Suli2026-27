@@ -1,26 +1,4 @@
-﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
-@model List<Auto>
-
-    <table border="1" >
-        <thead>
-    <tr>
-    <td>Márka</td>
-    <td>Model</td>
-        </tr>
-    </thead>
-    <tbody> 
-        
-    @for(int i=0; i< Model.Count; i++)
-    {
-     <tr>
-     <td>@Model[i].Gyarto.Nev</td>
-     <td>@Model[i].Modell</td>
-     </tr>
-    }
-    
-    </tbody>
-
-    </table>
-
+﻿<a class="nav-link text-dark" asp-area="" asp-controller="Auto" asp-action="OsszesAuto">Összes Autó</a>
+<a class="nav-link text-dark" asp-area="" asp-controller="Auto" asp-action="Szabad">Szabad Autók</a>
+<a class="nav-link text-dark" asp-area="" asp-controller="Auto" asp-action="UjGyarto">Új Gyártó</a>
+<a class="nav-link text-dark" asp-area="" asp-controller="Auto" asp-action="UjKategoria">Új Kategoria</a>
